@@ -1,0 +1,1003 @@
+AdmissionID,PatientID,Admission_Date,Discharge_Date,Department,Admission_Type,Insurance_Provider
+ADM-8000,PAT-3000,1/1/2026,1/2/2026,Oncology,Emergency,Cigna
+ADM-8001,PAT-3001,1/5/2026,1/7/2026,ICU,Urgent,BlueShield
+ADM-9000,PAT-3000,1/10/2026,1/12/2026,Oncology,Emergency,Cigna
+ADM-9001,PAT-3001,1/20/2026,1/22/2026,ICU,Urgent,BlueShield
+ADM-8004,PAT-3004,3/9/2024,3/14/2024,Orthopedics,Emergency,Self-Pay
+ADM-8005,PAT-3005,3/26/2024,4/1/2024,Neurology,Urgent,Cigna
+ADM-8006,PAT-3006,4/12/2024,4/19/2024,Emergency,Elective,BlueShield
+ADM-8007,PAT-3007,4/29/2024,5/7/2024,Cardiology,Trauma,Aetna
+ADM-8008,PAT-3008,5/16/2024,5/25/2024,Oncology,Emergency,HealthFirst
+ADM-8009,PAT-3009,6/2/2024,6/12/2024,ICU,Urgent,Self-Pay
+ADM-8010,PAT-3010,6/19/2024,6/20/2024,General Surgery,Elective,Cigna
+ADM-8011,PAT-3011,7/6/2024,7/8/2024,Pediatrics,Trauma,BlueShield
+ADM-8012,PAT-3012,7/23/2024,7/26/2024,Orthopedics,Emergency,Aetna
+ADM-8013,PAT-3013,8/9/2024,8/13/2024,Neurology,Urgent,HealthFirst
+ADM-8014,PAT-3014,8/26/2024,8/31/2024,Emergency,Elective,Self-Pay
+ADM-8015,PAT-3015,9/12/2024,9/18/2024,Cardiology,Trauma,Cigna
+ADM-8016,PAT-3016,9/29/2024,10/6/2024,Oncology,Emergency,BlueShield
+ADM-8017,PAT-3017,10/16/2024,10/24/2024,ICU,Urgent,Aetna
+ADM-8018,PAT-3018,11/2/2024,11/11/2024,General Surgery,Elective,HealthFirst
+ADM-8019,PAT-3019,11/19/2024,11/29/2024,Pediatrics,Trauma,Self-Pay
+ADM-8020,PAT-3020,12/6/2024,12/7/2024,Orthopedics,Emergency,Cigna
+ADM-8021,PAT-3021,12/23/2024,12/25/2024,Neurology,Urgent,BlueShield
+ADM-8022,PAT-3022,1/9/2025,1/12/2025,Emergency,Elective,Aetna
+ADM-8023,PAT-3023,1/26/2025,1/30/2025,Cardiology,Trauma,HealthFirst
+ADM-8024,PAT-3024,2/12/2025,2/17/2025,Oncology,Emergency,Self-Pay
+ADM-8025,PAT-3025,3/1/2025,3/7/2025,ICU,Urgent,Cigna
+ADM-8026,PAT-3026,3/18/2025,3/25/2025,General Surgery,Elective,BlueShield
+ADM-8027,PAT-3027,4/4/2025,4/12/2025,Pediatrics,Trauma,Aetna
+ADM-8028,PAT-3028,4/21/2025,4/30/2025,Orthopedics,Emergency,HealthFirst
+ADM-8029,PAT-3029,5/8/2025,5/18/2025,Neurology,Urgent,Self-Pay
+ADM-8030,PAT-3030,5/25/2025,5/26/2025,Emergency,Elective,Cigna
+ADM-8031,PAT-3031,6/11/2025,6/13/2025,Cardiology,Trauma,BlueShield
+ADM-8032,PAT-3032,6/28/2025,7/1/2025,Oncology,Emergency,Aetna
+ADM-8033,PAT-3033,7/15/2025,7/19/2025,ICU,Urgent,HealthFirst
+ADM-8034,PAT-3034,8/1/2025,8/6/2025,General Surgery,Elective,Self-Pay
+ADM-8035,PAT-3035,8/18/2025,8/24/2025,Pediatrics,Trauma,Cigna
+ADM-8036,PAT-3036,9/4/2025,9/11/2025,Orthopedics,Emergency,BlueShield
+ADM-8037,PAT-3037,9/21/2025,9/29/2025,Neurology,Urgent,Aetna
+ADM-8038,PAT-3038,10/8/2025,10/17/2025,Emergency,Elective,HealthFirst
+ADM-8039,PAT-3039,10/25/2025,11/4/2025,Cardiology,Trauma,Self-Pay
+ADM-8040,PAT-3040,11/11/2025,11/12/2025,Oncology,Emergency,Cigna
+ADM-8041,PAT-3041,11/28/2025,11/30/2025,ICU,Urgent,BlueShield
+ADM-8042,PAT-3042,12/15/2025,12/18/2025,General Surgery,Elective,Aetna
+ADM-8043,PAT-3043,1/1/2026,1/5/2026,Pediatrics,Trauma,HealthFirst
+ADM-8044,PAT-3044,1/18/2026,1/23/2026,Orthopedics,Emergency,Self-Pay
+ADM-8045,PAT-3045,2/4/2026,2/10/2026,Neurology,Urgent,Cigna
+ADM-8046,PAT-3046,2/21/2026,2/28/2026,Emergency,Elective,BlueShield
+ADM-8047,PAT-3047,3/10/2026,3/18/2026,Cardiology,Trauma,Aetna
+ADM-8048,PAT-3048,3/27/2026,4/5/2026,Oncology,Emergency,HealthFirst
+ADM-8049,PAT-3049,4/13/2026,4/23/2026,ICU,Urgent,Self-Pay
+ADM-8050,PAT-3050,4/30/2026,5/1/2026,General Surgery,Elective,Cigna
+ADM-8051,PAT-3051,5/17/2026,5/19/2026,Pediatrics,Trauma,BlueShield
+ADM-8052,PAT-3052,6/3/2026,6/6/2026,Orthopedics,Emergency,Aetna
+ADM-8053,PAT-3053,6/20/2026,6/24/2026,Neurology,Urgent,HealthFirst
+ADM-8054,PAT-3054,7/7/2026,7/12/2026,Emergency,Elective,Self-Pay
+ADM-8055,PAT-3055,7/24/2026,7/30/2026,Cardiology,Trauma,Cigna
+ADM-8056,PAT-3056,8/10/2026,8/17/2026,Oncology,Emergency,BlueShield
+ADM-8057,PAT-3057,8/27/2026,9/4/2026,ICU,Urgent,Aetna
+ADM-8058,PAT-3058,9/13/2026,9/22/2026,General Surgery,Elective,HealthFirst
+ADM-8059,PAT-3059,1/4/2024,1/14/2024,Pediatrics,Trauma,Self-Pay
+ADM-8060,PAT-3060,1/21/2024,1/22/2024,Orthopedics,Emergency,Cigna
+ADM-8061,PAT-3061,2/7/2024,2/9/2024,Neurology,Urgent,BlueShield
+ADM-8062,PAT-3062,2/24/2024,2/27/2024,Emergency,Elective,Aetna
+ADM-8063,PAT-3063,3/12/2024,3/16/2024,Cardiology,Trauma,HealthFirst
+ADM-8064,PAT-3064,3/29/2024,4/3/2024,Oncology,Emergency,Self-Pay
+ADM-8065,PAT-3065,4/15/2024,4/21/2024,ICU,Urgent,Cigna
+ADM-8066,PAT-3066,5/2/2024,5/9/2024,General Surgery,Elective,BlueShield
+ADM-8067,PAT-3067,5/19/2024,5/27/2024,Pediatrics,Trauma,Aetna
+ADM-8068,PAT-3068,6/5/2024,6/14/2024,Orthopedics,Emergency,HealthFirst
+ADM-8069,PAT-3069,6/22/2024,7/2/2024,Neurology,Urgent,Self-Pay
+ADM-8070,PAT-3070,7/9/2024,7/10/2024,Emergency,Elective,Cigna
+ADM-8071,PAT-3071,7/26/2024,7/28/2024,Cardiology,Trauma,BlueShield
+ADM-8072,PAT-3072,8/12/2024,8/15/2024,Oncology,Emergency,Aetna
+ADM-8073,PAT-3073,8/29/2024,9/2/2024,ICU,Urgent,HealthFirst
+ADM-8074,PAT-3074,9/15/2024,9/20/2024,General Surgery,Elective,Self-Pay
+ADM-8075,PAT-3075,10/2/2024,10/8/2024,Pediatrics,Trauma,Cigna
+ADM-8076,PAT-3076,10/19/2024,10/26/2024,Orthopedics,Emergency,BlueShield
+ADM-8077,PAT-3077,11/5/2024,11/13/2024,Neurology,Urgent,Aetna
+ADM-8078,PAT-3078,11/22/2024,12/1/2024,Emergency,Elective,HealthFirst
+ADM-8079,PAT-3079,12/9/2024,12/19/2024,Cardiology,Trauma,Self-Pay
+ADM-8080,PAT-3080,12/26/2024,12/27/2024,Oncology,Emergency,Cigna
+ADM-8081,PAT-3081,1/12/2025,1/14/2025,ICU,Urgent,BlueShield
+ADM-8082,PAT-3082,1/29/2025,2/1/2025,General Surgery,Elective,Aetna
+ADM-8083,PAT-3083,2/15/2025,2/19/2025,Pediatrics,Trauma,HealthFirst
+ADM-8084,PAT-3084,3/4/2025,3/9/2025,Orthopedics,Emergency,Self-Pay
+ADM-8085,PAT-3085,3/21/2025,3/27/2025,Neurology,Urgent,Cigna
+ADM-8086,PAT-3086,4/7/2025,4/14/2025,Emergency,Elective,BlueShield
+ADM-8087,PAT-3087,4/24/2025,5/2/2025,Cardiology,Trauma,Aetna
+ADM-8088,PAT-3088,5/11/2025,5/20/2025,Oncology,Emergency,HealthFirst
+ADM-8089,PAT-3089,5/28/2025,6/7/2025,ICU,Urgent,Self-Pay
+ADM-8090,PAT-3090,6/14/2025,6/15/2025,General Surgery,Elective,Cigna
+ADM-8091,PAT-3091,7/1/2025,7/3/2025,Pediatrics,Trauma,BlueShield
+ADM-8092,PAT-3092,7/18/2025,7/21/2025,Orthopedics,Emergency,Aetna
+ADM-8093,PAT-3093,8/4/2025,8/8/2025,Neurology,Urgent,HealthFirst
+ADM-8094,PAT-3094,8/21/2025,8/26/2025,Emergency,Elective,Self-Pay
+ADM-8095,PAT-3095,9/7/2025,9/13/2025,Cardiology,Trauma,Cigna
+ADM-8096,PAT-3096,9/24/2025,10/1/2025,Oncology,Emergency,BlueShield
+ADM-8097,PAT-3097,10/11/2025,10/19/2025,ICU,Urgent,Aetna
+ADM-8098,PAT-3098,10/28/2025,11/6/2025,General Surgery,Elective,HealthFirst
+ADM-8099,PAT-3099,11/14/2025,11/24/2025,Pediatrics,Trauma,Self-Pay
+ADM-8100,PAT-3100,12/1/2025,12/2/2025,Orthopedics,Emergency,Cigna
+ADM-8101,PAT-3101,12/18/2025,12/20/2025,Neurology,Urgent,BlueShield
+ADM-8102,PAT-3102,1/4/2026,1/7/2026,Emergency,Elective,Aetna
+ADM-8103,PAT-3103,1/21/2026,1/25/2026,Cardiology,Trauma,HealthFirst
+ADM-8104,PAT-3104,2/7/2026,2/12/2026,Oncology,Emergency,Self-Pay
+ADM-8105,PAT-3105,2/24/2026,3/2/2026,ICU,Urgent,Cigna
+ADM-8106,PAT-3106,3/13/2026,3/20/2026,General Surgery,Elective,BlueShield
+ADM-8107,PAT-3107,3/30/2026,4/7/2026,Pediatrics,Trauma,Aetna
+ADM-8108,PAT-3108,4/16/2026,4/25/2026,Orthopedics,Emergency,HealthFirst
+ADM-8109,PAT-3109,5/3/2026,5/13/2026,Neurology,Urgent,Self-Pay
+ADM-8110,PAT-3110,5/20/2026,5/21/2026,Emergency,Elective,Cigna
+ADM-8111,PAT-3111,6/6/2026,6/8/2026,Cardiology,Trauma,BlueShield
+ADM-8112,PAT-3112,6/23/2026,6/26/2026,Oncology,Emergency,Aetna
+ADM-8113,PAT-3113,7/10/2026,7/14/2026,ICU,Urgent,HealthFirst
+ADM-8114,PAT-3114,7/27/2026,8/1/2026,General Surgery,Elective,Self-Pay
+ADM-8115,PAT-3115,8/13/2026,8/19/2026,Pediatrics,Trauma,Cigna
+ADM-8116,PAT-3116,8/30/2026,9/6/2026,Orthopedics,Emergency,BlueShield
+ADM-8117,PAT-3117,9/16/2026,9/24/2026,Neurology,Urgent,Aetna
+ADM-8118,PAT-3118,1/7/2024,1/16/2024,Emergency,Elective,HealthFirst
+ADM-8119,PAT-3119,1/24/2024,2/3/2024,Cardiology,Trauma,Self-Pay
+ADM-8120,PAT-3120,2/10/2024,2/11/2024,Oncology,Emergency,Cigna
+ADM-8121,PAT-3121,2/27/2024,2/29/2024,ICU,Urgent,BlueShield
+ADM-8122,PAT-3122,3/15/2024,3/18/2024,General Surgery,Elective,Aetna
+ADM-8123,PAT-3123,4/1/2024,4/5/2024,Pediatrics,Trauma,HealthFirst
+ADM-8124,PAT-3124,4/18/2024,4/23/2024,Orthopedics,Emergency,Self-Pay
+ADM-8125,PAT-3125,5/5/2024,5/11/2024,Neurology,Urgent,Cigna
+ADM-8126,PAT-3126,5/22/2024,5/29/2024,Emergency,Elective,BlueShield
+ADM-8127,PAT-3127,6/8/2024,6/16/2024,Cardiology,Trauma,Aetna
+ADM-8128,PAT-3128,6/25/2024,7/4/2024,Oncology,Emergency,HealthFirst
+ADM-8129,PAT-3129,7/12/2024,7/22/2024,ICU,Urgent,Self-Pay
+ADM-8130,PAT-3130,7/29/2024,7/30/2024,General Surgery,Elective,Cigna
+ADM-8131,PAT-3131,8/15/2024,8/17/2024,Pediatrics,Trauma,BlueShield
+ADM-8132,PAT-3132,9/1/2024,9/4/2024,Orthopedics,Emergency,Aetna
+ADM-8133,PAT-3133,9/18/2024,9/22/2024,Neurology,Urgent,HealthFirst
+ADM-8134,PAT-3134,10/5/2024,10/10/2024,Emergency,Elective,Self-Pay
+ADM-8135,PAT-3135,10/22/2024,10/28/2024,Cardiology,Trauma,Cigna
+ADM-8136,PAT-3136,11/8/2024,11/15/2024,Oncology,Emergency,BlueShield
+ADM-8137,PAT-3137,11/25/2024,12/3/2024,ICU,Urgent,Aetna
+ADM-8138,PAT-3138,12/12/2024,12/21/2024,General Surgery,Elective,HealthFirst
+ADM-8139,PAT-3139,12/29/2024,1/8/2025,Pediatrics,Trauma,Self-Pay
+ADM-8140,PAT-3140,1/15/2025,1/16/2025,Orthopedics,Emergency,Cigna
+ADM-8141,PAT-3141,2/1/2025,2/3/2025,Neurology,Urgent,BlueShield
+ADM-8142,PAT-3142,2/18/2025,2/21/2025,Emergency,Elective,Aetna
+ADM-8143,PAT-3143,3/7/2025,3/11/2025,Cardiology,Trauma,HealthFirst
+ADM-8144,PAT-3144,3/24/2025,3/29/2025,Oncology,Emergency,Self-Pay
+ADM-8145,PAT-3145,4/10/2025,4/16/2025,ICU,Urgent,Cigna
+ADM-8146,PAT-3146,4/27/2025,5/4/2025,General Surgery,Elective,BlueShield
+ADM-8147,PAT-3147,5/14/2025,5/22/2025,Pediatrics,Trauma,Aetna
+ADM-8148,PAT-3148,5/31/2025,6/9/2025,Orthopedics,Emergency,HealthFirst
+ADM-8149,PAT-3149,6/17/2025,6/27/2025,Neurology,Urgent,Self-Pay
+ADM-8150,PAT-3150,7/4/2025,7/5/2025,Emergency,Elective,Cigna
+ADM-8151,PAT-3151,7/21/2025,7/23/2025,Cardiology,Trauma,BlueShield
+ADM-8152,PAT-3152,8/7/2025,8/10/2025,Oncology,Emergency,Aetna
+ADM-8153,PAT-3153,8/24/2025,8/28/2025,ICU,Urgent,HealthFirst
+ADM-8154,PAT-3154,9/10/2025,9/15/2025,General Surgery,Elective,Self-Pay
+ADM-8155,PAT-3155,9/27/2025,10/3/2025,Pediatrics,Trauma,Cigna
+ADM-8156,PAT-3156,10/14/2025,10/21/2025,Orthopedics,Emergency,BlueShield
+ADM-8157,PAT-3157,10/31/2025,11/8/2025,Neurology,Urgent,Aetna
+ADM-8158,PAT-3158,11/17/2025,11/26/2025,Emergency,Elective,HealthFirst
+ADM-8159,PAT-3159,12/4/2025,12/14/2025,Cardiology,Trauma,Self-Pay
+ADM-8160,PAT-3160,12/21/2025,12/22/2025,Oncology,Emergency,Cigna
+ADM-8161,PAT-3161,1/7/2026,1/9/2026,ICU,Urgent,BlueShield
+ADM-8162,PAT-3162,1/24/2026,1/27/2026,General Surgery,Elective,Aetna
+ADM-8163,PAT-3163,2/10/2026,2/14/2026,Pediatrics,Trauma,HealthFirst
+ADM-8164,PAT-3164,2/27/2026,3/4/2026,Orthopedics,Emergency,Self-Pay
+ADM-8165,PAT-3165,3/16/2026,3/22/2026,Neurology,Urgent,Cigna
+ADM-8166,PAT-3166,4/2/2026,4/9/2026,Emergency,Elective,BlueShield
+ADM-8167,PAT-3167,4/19/2026,4/27/2026,Cardiology,Trauma,Aetna
+ADM-8168,PAT-3168,5/6/2026,5/15/2026,Oncology,Emergency,HealthFirst
+ADM-8169,PAT-3169,5/23/2026,6/2/2026,ICU,Urgent,Self-Pay
+ADM-8170,PAT-3170,6/9/2026,6/10/2026,General Surgery,Elective,Cigna
+ADM-8171,PAT-3171,6/26/2026,6/28/2026,Pediatrics,Trauma,BlueShield
+ADM-8172,PAT-3172,7/13/2026,7/16/2026,Orthopedics,Emergency,Aetna
+ADM-8173,PAT-3173,7/30/2026,8/3/2026,Neurology,Urgent,HealthFirst
+ADM-8174,PAT-3174,8/16/2026,8/21/2026,Emergency,Elective,Self-Pay
+ADM-8175,PAT-3175,9/2/2026,9/8/2026,Cardiology,Trauma,Cigna
+ADM-8176,PAT-3176,9/19/2026,9/26/2026,Oncology,Emergency,BlueShield
+ADM-8177,PAT-3177,1/10/2024,1/18/2024,ICU,Urgent,Aetna
+ADM-8178,PAT-3178,1/27/2024,2/5/2024,General Surgery,Elective,HealthFirst
+ADM-8179,PAT-3179,2/13/2024,2/23/2024,Pediatrics,Trauma,Self-Pay
+ADM-8180,PAT-3180,3/1/2024,3/2/2024,Orthopedics,Emergency,Cigna
+ADM-8181,PAT-3181,3/18/2024,3/20/2024,Neurology,Urgent,BlueShield
+ADM-8182,PAT-3182,4/4/2024,4/7/2024,Emergency,Elective,Aetna
+ADM-8183,PAT-3183,4/21/2024,4/25/2024,Cardiology,Trauma,HealthFirst
+ADM-8184,PAT-3184,5/8/2024,5/13/2024,Oncology,Emergency,Self-Pay
+ADM-8185,PAT-3185,5/25/2024,5/31/2024,ICU,Urgent,Cigna
+ADM-8186,PAT-3186,6/11/2024,6/18/2024,General Surgery,Elective,BlueShield
+ADM-8187,PAT-3187,6/28/2024,7/6/2024,Pediatrics,Trauma,Aetna
+ADM-8188,PAT-3188,7/15/2024,7/24/2024,Orthopedics,Emergency,HealthFirst
+ADM-8189,PAT-3189,8/1/2024,8/11/2024,Neurology,Urgent,Self-Pay
+ADM-8190,PAT-3190,8/18/2024,8/19/2024,Emergency,Elective,Cigna
+ADM-8191,PAT-3191,9/4/2024,9/6/2024,Cardiology,Trauma,BlueShield
+ADM-8192,PAT-3192,9/21/2024,9/24/2024,Oncology,Emergency,Aetna
+ADM-8193,PAT-3193,10/8/2024,10/12/2024,ICU,Urgent,HealthFirst
+ADM-8194,PAT-3194,10/25/2024,10/30/2024,General Surgery,Elective,Self-Pay
+ADM-8195,PAT-3195,11/11/2024,11/17/2024,Pediatrics,Trauma,Cigna
+ADM-8196,PAT-3196,11/28/2024,12/5/2024,Orthopedics,Emergency,BlueShield
+ADM-8197,PAT-3197,12/15/2024,12/23/2024,Neurology,Urgent,Aetna
+ADM-8198,PAT-3198,1/1/2025,1/10/2025,Emergency,Elective,HealthFirst
+ADM-8199,PAT-3199,1/18/2025,1/28/2025,Cardiology,Trauma,Self-Pay
+ADM-8200,PAT-3200,2/4/2025,2/5/2025,Oncology,Emergency,Cigna
+ADM-8201,PAT-3201,2/21/2025,2/23/2025,ICU,Urgent,BlueShield
+ADM-8202,PAT-3202,3/10/2025,3/13/2025,General Surgery,Elective,Aetna
+ADM-8203,PAT-3203,3/27/2025,3/31/2025,Pediatrics,Trauma,HealthFirst
+ADM-8204,PAT-3204,4/13/2025,4/18/2025,Orthopedics,Emergency,Self-Pay
+ADM-8205,PAT-3205,4/30/2025,5/6/2025,Neurology,Urgent,Cigna
+ADM-8206,PAT-3206,5/17/2025,5/24/2025,Emergency,Elective,BlueShield
+ADM-8207,PAT-3207,6/3/2025,6/11/2025,Cardiology,Trauma,Aetna
+ADM-8208,PAT-3208,6/20/2025,6/29/2025,Oncology,Emergency,HealthFirst
+ADM-8209,PAT-3209,7/7/2025,7/17/2025,ICU,Urgent,Self-Pay
+ADM-8210,PAT-3210,7/24/2025,7/25/2025,General Surgery,Elective,Cigna
+ADM-8211,PAT-3211,8/10/2025,8/12/2025,Pediatrics,Trauma,BlueShield
+ADM-8212,PAT-3212,8/27/2025,8/30/2025,Orthopedics,Emergency,Aetna
+ADM-8213,PAT-3213,9/13/2025,9/17/2025,Neurology,Urgent,HealthFirst
+ADM-8214,PAT-3214,9/30/2025,10/5/2025,Emergency,Elective,Self-Pay
+ADM-8215,PAT-3215,10/17/2025,10/23/2025,Cardiology,Trauma,Cigna
+ADM-8216,PAT-3216,11/3/2025,11/10/2025,Oncology,Emergency,BlueShield
+ADM-8217,PAT-3217,11/20/2025,11/28/2025,ICU,Urgent,Aetna
+ADM-8218,PAT-3218,12/7/2025,12/16/2025,General Surgery,Elective,HealthFirst
+ADM-8219,PAT-3219,12/24/2025,1/3/2026,Pediatrics,Trauma,Self-Pay
+ADM-8220,PAT-3220,1/10/2026,1/11/2026,Orthopedics,Emergency,Cigna
+ADM-8221,PAT-3221,1/27/2026,1/29/2026,Neurology,Urgent,BlueShield
+ADM-8222,PAT-3222,2/13/2026,2/16/2026,Emergency,Elective,Aetna
+ADM-8223,PAT-3223,3/2/2026,3/6/2026,Cardiology,Trauma,HealthFirst
+ADM-8224,PAT-3224,3/19/2026,3/24/2026,Oncology,Emergency,Self-Pay
+ADM-8225,PAT-3225,4/5/2026,4/11/2026,ICU,Urgent,Cigna
+ADM-8226,PAT-3226,4/22/2026,4/29/2026,General Surgery,Elective,BlueShield
+ADM-8227,PAT-3227,5/9/2026,5/17/2026,Pediatrics,Trauma,Aetna
+ADM-8228,PAT-3228,5/26/2026,6/4/2026,Orthopedics,Emergency,HealthFirst
+ADM-8229,PAT-3229,6/12/2026,6/22/2026,Neurology,Urgent,Self-Pay
+ADM-8230,PAT-3230,6/29/2026,6/30/2026,Emergency,Elective,Cigna
+ADM-8231,PAT-3231,7/16/2026,7/18/2026,Cardiology,Trauma,BlueShield
+ADM-8232,PAT-3232,8/2/2026,8/5/2026,Oncology,Emergency,Aetna
+ADM-8233,PAT-3233,8/19/2026,8/23/2026,ICU,Urgent,HealthFirst
+ADM-8234,PAT-3234,9/5/2026,9/10/2026,General Surgery,Elective,Self-Pay
+ADM-8235,PAT-3235,9/22/2026,9/28/2026,Pediatrics,Trauma,Cigna
+ADM-8236,PAT-3236,1/13/2024,1/20/2024,Orthopedics,Emergency,BlueShield
+ADM-8237,PAT-3237,1/30/2024,2/7/2024,Neurology,Urgent,Aetna
+ADM-8238,PAT-3238,2/16/2024,2/25/2024,Emergency,Elective,HealthFirst
+ADM-8239,PAT-3239,3/4/2024,3/14/2024,Cardiology,Trauma,Self-Pay
+ADM-8240,PAT-3240,3/21/2024,3/22/2024,Oncology,Emergency,Cigna
+ADM-8241,PAT-3241,4/7/2024,4/9/2024,ICU,Urgent,BlueShield
+ADM-8242,PAT-3242,4/24/2024,4/27/2024,General Surgery,Elective,Aetna
+ADM-8243,PAT-3243,5/11/2024,5/15/2024,Pediatrics,Trauma,HealthFirst
+ADM-8244,PAT-3244,5/28/2024,6/2/2024,Orthopedics,Emergency,Self-Pay
+ADM-8245,PAT-3245,6/14/2024,6/20/2024,Neurology,Urgent,Cigna
+ADM-8246,PAT-3246,7/1/2024,7/8/2024,Emergency,Elective,BlueShield
+ADM-8247,PAT-3247,7/18/2024,7/26/2024,Cardiology,Trauma,Aetna
+ADM-8248,PAT-3248,8/4/2024,8/13/2024,Oncology,Emergency,HealthFirst
+ADM-8249,PAT-3249,8/21/2024,8/31/2024,ICU,Urgent,Self-Pay
+ADM-8250,PAT-3250,9/7/2024,9/8/2024,General Surgery,Elective,Cigna
+ADM-8251,PAT-3251,9/24/2024,9/26/2024,Pediatrics,Trauma,BlueShield
+ADM-8252,PAT-3252,10/11/2024,10/14/2024,Orthopedics,Emergency,Aetna
+ADM-8253,PAT-3253,10/28/2024,11/1/2024,Neurology,Urgent,HealthFirst
+ADM-8254,PAT-3254,11/14/2024,11/19/2024,Emergency,Elective,Self-Pay
+ADM-8255,PAT-3255,12/1/2024,12/7/2024,Cardiology,Trauma,Cigna
+ADM-8256,PAT-3256,12/18/2024,12/25/2024,Oncology,Emergency,BlueShield
+ADM-8257,PAT-3257,1/4/2025,1/12/2025,ICU,Urgent,Aetna
+ADM-8258,PAT-3258,1/21/2025,1/30/2025,General Surgery,Elective,HealthFirst
+ADM-8259,PAT-3259,2/7/2025,2/17/2025,Pediatrics,Trauma,Self-Pay
+ADM-8260,PAT-3260,2/24/2025,2/25/2025,Orthopedics,Emergency,Cigna
+ADM-8261,PAT-3261,3/13/2025,3/15/2025,Neurology,Urgent,BlueShield
+ADM-8262,PAT-3262,3/30/2025,4/2/2025,Emergency,Elective,Aetna
+ADM-8263,PAT-3263,4/16/2025,4/20/2025,Cardiology,Trauma,HealthFirst
+ADM-8264,PAT-3264,5/3/2025,5/8/2025,Oncology,Emergency,Self-Pay
+ADM-8265,PAT-3265,5/20/2025,5/26/2025,ICU,Urgent,Cigna
+ADM-8266,PAT-3266,6/6/2025,6/13/2025,General Surgery,Elective,BlueShield
+ADM-8267,PAT-3267,6/23/2025,7/1/2025,Pediatrics,Trauma,Aetna
+ADM-8268,PAT-3268,7/10/2025,7/19/2025,Orthopedics,Emergency,HealthFirst
+ADM-8269,PAT-3269,7/27/2025,8/6/2025,Neurology,Urgent,Self-Pay
+ADM-8270,PAT-3270,8/13/2025,8/14/2025,Emergency,Elective,Cigna
+ADM-8271,PAT-3271,8/30/2025,9/1/2025,Cardiology,Trauma,BlueShield
+ADM-8272,PAT-3272,9/16/2025,9/19/2025,Oncology,Emergency,Aetna
+ADM-8273,PAT-3273,10/3/2025,10/7/2025,ICU,Urgent,HealthFirst
+ADM-8274,PAT-3274,10/20/2025,10/25/2025,General Surgery,Elective,Self-Pay
+ADM-8275,PAT-3275,11/6/2025,11/12/2025,Pediatrics,Trauma,Cigna
+ADM-8276,PAT-3276,11/23/2025,11/30/2025,Orthopedics,Emergency,BlueShield
+ADM-8277,PAT-3277,12/10/2025,12/18/2025,Neurology,Urgent,Aetna
+ADM-8278,PAT-3278,12/27/2025,1/5/2026,Emergency,Elective,HealthFirst
+ADM-8279,PAT-3279,1/13/2026,1/23/2026,Cardiology,Trauma,Self-Pay
+ADM-8280,PAT-3280,1/30/2026,1/31/2026,Oncology,Emergency,Cigna
+ADM-8281,PAT-3281,2/16/2026,2/18/2026,ICU,Urgent,BlueShield
+ADM-8282,PAT-3282,3/5/2026,3/8/2026,General Surgery,Elective,Aetna
+ADM-8283,PAT-3283,3/22/2026,3/26/2026,Pediatrics,Trauma,HealthFirst
+ADM-8284,PAT-3284,4/8/2026,4/13/2026,Orthopedics,Emergency,Self-Pay
+ADM-8285,PAT-3285,4/25/2026,5/1/2026,Neurology,Urgent,Cigna
+ADM-8286,PAT-3286,5/12/2026,5/19/2026,Emergency,Elective,BlueShield
+ADM-8287,PAT-3287,5/29/2026,6/6/2026,Cardiology,Trauma,Aetna
+ADM-8288,PAT-3288,6/15/2026,6/24/2026,Oncology,Emergency,HealthFirst
+ADM-8289,PAT-3289,7/2/2026,7/12/2026,ICU,Urgent,Self-Pay
+ADM-8290,PAT-3290,7/19/2026,7/20/2026,General Surgery,Elective,Cigna
+ADM-8291,PAT-3291,8/5/2026,8/7/2026,Pediatrics,Trauma,BlueShield
+ADM-8292,PAT-3292,8/22/2026,8/25/2026,Orthopedics,Emergency,Aetna
+ADM-8293,PAT-3293,9/8/2026,9/12/2026,Neurology,Urgent,HealthFirst
+ADM-8294,PAT-3294,9/25/2026,9/30/2026,Emergency,Elective,Self-Pay
+ADM-8295,PAT-3295,1/16/2024,1/22/2024,Cardiology,Trauma,Cigna
+ADM-8296,PAT-3296,2/2/2024,2/9/2024,Oncology,Emergency,BlueShield
+ADM-8297,PAT-3297,2/19/2024,2/27/2024,ICU,Urgent,Aetna
+ADM-8298,PAT-3298,3/7/2024,3/16/2024,General Surgery,Elective,HealthFirst
+ADM-8299,PAT-3299,3/24/2024,4/3/2024,Pediatrics,Trauma,Self-Pay
+ADM-8300,PAT-3300,4/10/2024,4/11/2024,Orthopedics,Emergency,Cigna
+ADM-8301,PAT-3301,4/27/2024,4/29/2024,Neurology,Urgent,BlueShield
+ADM-8302,PAT-3302,5/14/2024,5/17/2024,Emergency,Elective,Aetna
+ADM-8303,PAT-3303,5/31/2024,6/4/2024,Cardiology,Trauma,HealthFirst
+ADM-8304,PAT-3304,6/17/2024,6/22/2024,Oncology,Emergency,Self-Pay
+ADM-8305,PAT-3305,7/4/2024,7/10/2024,ICU,Urgent,Cigna
+ADM-8306,PAT-3306,7/21/2024,7/28/2024,General Surgery,Elective,BlueShield
+ADM-8307,PAT-3307,8/7/2024,8/15/2024,Pediatrics,Trauma,Aetna
+ADM-8308,PAT-3308,8/24/2024,9/2/2024,Orthopedics,Emergency,HealthFirst
+ADM-8309,PAT-3309,9/10/2024,9/20/2024,Neurology,Urgent,Self-Pay
+ADM-8310,PAT-3310,9/27/2024,9/28/2024,Emergency,Elective,Cigna
+ADM-8311,PAT-3311,10/14/2024,10/16/2024,Cardiology,Trauma,BlueShield
+ADM-8312,PAT-3312,10/31/2024,11/3/2024,Oncology,Emergency,Aetna
+ADM-8313,PAT-3313,11/17/2024,11/21/2024,ICU,Urgent,HealthFirst
+ADM-8314,PAT-3314,12/4/2024,12/9/2024,General Surgery,Elective,Self-Pay
+ADM-8315,PAT-3315,12/21/2024,12/27/2024,Pediatrics,Trauma,Cigna
+ADM-8316,PAT-3316,1/7/2025,1/14/2025,Orthopedics,Emergency,BlueShield
+ADM-8317,PAT-3317,1/24/2025,2/1/2025,Neurology,Urgent,Aetna
+ADM-8318,PAT-3318,2/10/2025,2/19/2025,Emergency,Elective,HealthFirst
+ADM-8319,PAT-3319,2/27/2025,3/9/2025,Cardiology,Trauma,Self-Pay
+ADM-8320,PAT-3320,3/16/2025,3/17/2025,Oncology,Emergency,Cigna
+ADM-8321,PAT-3321,4/2/2025,4/4/2025,ICU,Urgent,BlueShield
+ADM-8322,PAT-3322,4/19/2025,4/22/2025,General Surgery,Elective,Aetna
+ADM-8323,PAT-3323,5/6/2025,5/10/2025,Pediatrics,Trauma,HealthFirst
+ADM-8324,PAT-3324,5/23/2025,5/28/2025,Orthopedics,Emergency,Self-Pay
+ADM-8325,PAT-3325,6/9/2025,6/15/2025,Neurology,Urgent,Cigna
+ADM-8326,PAT-3326,6/26/2025,7/3/2025,Emergency,Elective,BlueShield
+ADM-8327,PAT-3327,7/13/2025,7/21/2025,Cardiology,Trauma,Aetna
+ADM-8328,PAT-3328,7/30/2025,8/8/2025,Oncology,Emergency,HealthFirst
+ADM-8329,PAT-3329,8/16/2025,8/26/2025,ICU,Urgent,Self-Pay
+ADM-8330,PAT-3330,9/2/2025,9/3/2025,General Surgery,Elective,Cigna
+ADM-8331,PAT-3331,9/19/2025,9/21/2025,Pediatrics,Trauma,BlueShield
+ADM-8332,PAT-3332,10/6/2025,10/9/2025,Orthopedics,Emergency,Aetna
+ADM-8333,PAT-3333,10/23/2025,10/27/2025,Neurology,Urgent,HealthFirst
+ADM-8334,PAT-3334,11/9/2025,11/14/2025,Emergency,Elective,Self-Pay
+ADM-8335,PAT-3335,11/26/2025,12/2/2025,Cardiology,Trauma,Cigna
+ADM-8336,PAT-3336,12/13/2025,12/20/2025,Oncology,Emergency,BlueShield
+ADM-8337,PAT-3337,12/30/2025,1/7/2026,ICU,Urgent,Aetna
+ADM-8338,PAT-3338,1/16/2026,1/25/2026,General Surgery,Elective,HealthFirst
+ADM-8339,PAT-3339,2/2/2026,2/12/2026,Pediatrics,Trauma,Self-Pay
+ADM-8340,PAT-3340,2/19/2026,2/20/2026,Orthopedics,Emergency,Cigna
+ADM-8341,PAT-3341,3/8/2026,3/10/2026,Neurology,Urgent,BlueShield
+ADM-8342,PAT-3342,3/25/2026,3/28/2026,Emergency,Elective,Aetna
+ADM-8343,PAT-3343,4/11/2026,4/15/2026,Cardiology,Trauma,HealthFirst
+ADM-8344,PAT-3344,4/28/2026,5/3/2026,Oncology,Emergency,Self-Pay
+ADM-8345,PAT-3345,5/15/2026,5/21/2026,ICU,Urgent,Cigna
+ADM-8346,PAT-3346,6/1/2026,6/8/2026,General Surgery,Elective,BlueShield
+ADM-8347,PAT-3347,6/18/2026,6/26/2026,Pediatrics,Trauma,Aetna
+ADM-8348,PAT-3348,7/5/2026,7/14/2026,Orthopedics,Emergency,HealthFirst
+ADM-8349,PAT-3349,7/22/2026,8/1/2026,Neurology,Urgent,Self-Pay
+ADM-8350,PAT-3350,8/8/2026,8/9/2026,Emergency,Elective,Cigna
+ADM-8351,PAT-3351,8/25/2026,8/27/2026,Cardiology,Trauma,BlueShield
+ADM-8352,PAT-3352,9/11/2026,9/14/2026,Oncology,Emergency,Aetna
+ADM-8353,PAT-3353,1/2/2024,1/6/2024,ICU,Urgent,HealthFirst
+ADM-8354,PAT-3354,1/19/2024,1/24/2024,General Surgery,Elective,Self-Pay
+ADM-8355,PAT-3355,2/5/2024,2/11/2024,Pediatrics,Trauma,Cigna
+ADM-8356,PAT-3356,2/22/2024,2/29/2024,Orthopedics,Emergency,BlueShield
+ADM-8357,PAT-3357,3/10/2024,3/18/2024,Neurology,Urgent,Aetna
+ADM-8358,PAT-3358,3/27/2024,4/5/2024,Emergency,Elective,HealthFirst
+ADM-8359,PAT-3359,4/13/2024,4/23/2024,Cardiology,Trauma,Self-Pay
+ADM-8360,PAT-3360,4/30/2024,5/1/2024,Oncology,Emergency,Cigna
+ADM-8361,PAT-3361,5/17/2024,5/19/2024,ICU,Urgent,BlueShield
+ADM-8362,PAT-3362,6/3/2024,6/6/2024,General Surgery,Elective,Aetna
+ADM-8363,PAT-3363,6/20/2024,6/24/2024,Pediatrics,Trauma,HealthFirst
+ADM-8364,PAT-3364,7/7/2024,7/12/2024,Orthopedics,Emergency,Self-Pay
+ADM-8365,PAT-3365,7/24/2024,7/30/2024,Neurology,Urgent,Cigna
+ADM-8366,PAT-3366,8/10/2024,8/17/2024,Emergency,Elective,BlueShield
+ADM-8367,PAT-3367,8/27/2024,9/4/2024,Cardiology,Trauma,Aetna
+ADM-8368,PAT-3368,9/13/2024,9/22/2024,Oncology,Emergency,HealthFirst
+ADM-8369,PAT-3369,9/30/2024,10/10/2024,ICU,Urgent,Self-Pay
+ADM-8370,PAT-3370,10/17/2024,10/18/2024,General Surgery,Elective,Cigna
+ADM-8371,PAT-3371,11/3/2024,11/5/2024,Pediatrics,Trauma,BlueShield
+ADM-8372,PAT-3372,11/20/2024,11/23/2024,Orthopedics,Emergency,Aetna
+ADM-8373,PAT-3373,12/7/2024,12/11/2024,Neurology,Urgent,HealthFirst
+ADM-8374,PAT-3374,12/24/2024,12/29/2024,Emergency,Elective,Self-Pay
+ADM-8375,PAT-3375,1/10/2025,1/16/2025,Cardiology,Trauma,Cigna
+ADM-8376,PAT-3376,1/27/2025,2/3/2025,Oncology,Emergency,BlueShield
+ADM-8377,PAT-3377,2/13/2025,2/21/2025,ICU,Urgent,Aetna
+ADM-8378,PAT-3378,3/2/2025,3/11/2025,General Surgery,Elective,HealthFirst
+ADM-8379,PAT-3379,3/19/2025,3/29/2025,Pediatrics,Trauma,Self-Pay
+ADM-8380,PAT-3380,4/5/2025,4/6/2025,Orthopedics,Emergency,Cigna
+ADM-8381,PAT-3381,4/22/2025,4/24/2025,Neurology,Urgent,BlueShield
+ADM-8382,PAT-3382,5/9/2025,5/12/2025,Emergency,Elective,Aetna
+ADM-8383,PAT-3383,5/26/2025,5/30/2025,Cardiology,Trauma,HealthFirst
+ADM-8384,PAT-3384,6/12/2025,6/17/2025,Oncology,Emergency,Self-Pay
+ADM-8385,PAT-3385,6/29/2025,7/5/2025,ICU,Urgent,Cigna
+ADM-8386,PAT-3386,7/16/2025,7/23/2025,General Surgery,Elective,BlueShield
+ADM-8387,PAT-3387,8/2/2025,8/10/2025,Pediatrics,Trauma,Aetna
+ADM-8388,PAT-3388,8/19/2025,8/28/2025,Orthopedics,Emergency,HealthFirst
+ADM-8389,PAT-3389,9/5/2025,9/15/2025,Neurology,Urgent,Self-Pay
+ADM-8390,PAT-3390,9/22/2025,9/23/2025,Emergency,Elective,Cigna
+ADM-8391,PAT-3391,10/9/2025,10/11/2025,Cardiology,Trauma,BlueShield
+ADM-8392,PAT-3392,10/26/2025,10/29/2025,Oncology,Emergency,Aetna
+ADM-8393,PAT-3393,11/12/2025,11/16/2025,ICU,Urgent,HealthFirst
+ADM-8394,PAT-3394,11/29/2025,12/4/2025,General Surgery,Elective,Self-Pay
+ADM-8395,PAT-3395,12/16/2025,12/22/2025,Pediatrics,Trauma,Cigna
+ADM-8396,PAT-3396,1/2/2026,1/9/2026,Orthopedics,Emergency,BlueShield
+ADM-8397,PAT-3397,1/19/2026,1/27/2026,Neurology,Urgent,Aetna
+ADM-8398,PAT-3398,2/5/2026,2/14/2026,Emergency,Elective,HealthFirst
+ADM-8399,PAT-3399,2/22/2026,3/4/2026,Cardiology,Trauma,Self-Pay
+ADM-8400,PAT-3400,3/11/2026,3/12/2026,Oncology,Emergency,Cigna
+ADM-8401,PAT-3401,3/28/2026,3/30/2026,ICU,Urgent,BlueShield
+ADM-8402,PAT-3402,4/14/2026,4/17/2026,General Surgery,Elective,Aetna
+ADM-8403,PAT-3403,5/1/2026,5/5/2026,Pediatrics,Trauma,HealthFirst
+ADM-8404,PAT-3404,5/18/2026,5/23/2026,Orthopedics,Emergency,Self-Pay
+ADM-8405,PAT-3405,6/4/2026,6/10/2026,Neurology,Urgent,Cigna
+ADM-8406,PAT-3406,6/21/2026,6/28/2026,Emergency,Elective,BlueShield
+ADM-8407,PAT-3407,7/8/2026,7/16/2026,Cardiology,Trauma,Aetna
+ADM-8408,PAT-3408,7/25/2026,8/3/2026,Oncology,Emergency,HealthFirst
+ADM-8409,PAT-3409,8/11/2026,8/21/2026,ICU,Urgent,Self-Pay
+ADM-8410,PAT-3410,8/28/2026,8/29/2026,General Surgery,Elective,Cigna
+ADM-8411,PAT-3411,9/14/2026,9/16/2026,Pediatrics,Trauma,BlueShield
+ADM-8412,PAT-3412,1/5/2024,1/8/2024,Orthopedics,Emergency,Aetna
+ADM-8413,PAT-3413,1/22/2024,1/26/2024,Neurology,Urgent,HealthFirst
+ADM-8414,PAT-3414,2/8/2024,2/13/2024,Emergency,Elective,Self-Pay
+ADM-8415,PAT-3415,2/25/2024,3/2/2024,Cardiology,Trauma,Cigna
+ADM-8416,PAT-3416,3/13/2024,3/20/2024,Oncology,Emergency,BlueShield
+ADM-8417,PAT-3417,3/30/2024,4/7/2024,ICU,Urgent,Aetna
+ADM-8418,PAT-3418,4/16/2024,4/25/2024,General Surgery,Elective,HealthFirst
+ADM-8419,PAT-3419,5/3/2024,5/13/2024,Pediatrics,Trauma,Self-Pay
+ADM-8420,PAT-3420,5/20/2024,5/21/2024,Orthopedics,Emergency,Cigna
+ADM-8421,PAT-3421,6/6/2024,6/8/2024,Neurology,Urgent,BlueShield
+ADM-8422,PAT-3422,6/23/2024,6/26/2024,Emergency,Elective,Aetna
+ADM-8423,PAT-3423,7/10/2024,7/14/2024,Cardiology,Trauma,HealthFirst
+ADM-8424,PAT-3424,7/27/2024,8/1/2024,Oncology,Emergency,Self-Pay
+ADM-8425,PAT-3425,8/13/2024,8/19/2024,ICU,Urgent,Cigna
+ADM-8426,PAT-3426,8/30/2024,9/6/2024,General Surgery,Elective,BlueShield
+ADM-8427,PAT-3427,9/16/2024,9/24/2024,Pediatrics,Trauma,Aetna
+ADM-8428,PAT-3428,10/3/2024,10/12/2024,Orthopedics,Emergency,HealthFirst
+ADM-8429,PAT-3429,10/20/2024,10/30/2024,Neurology,Urgent,Self-Pay
+ADM-8430,PAT-3430,11/6/2024,11/7/2024,Emergency,Elective,Cigna
+ADM-8431,PAT-3431,11/23/2024,11/25/2024,Cardiology,Trauma,BlueShield
+ADM-8432,PAT-3432,12/10/2024,12/13/2024,Oncology,Emergency,Aetna
+ADM-8433,PAT-3433,12/27/2024,12/31/2024,ICU,Urgent,HealthFirst
+ADM-8434,PAT-3434,1/13/2025,1/18/2025,General Surgery,Elective,Self-Pay
+ADM-8435,PAT-3435,1/30/2025,2/5/2025,Pediatrics,Trauma,Cigna
+ADM-8436,PAT-3436,2/16/2025,2/23/2025,Orthopedics,Emergency,BlueShield
+ADM-8437,PAT-3437,3/5/2025,3/13/2025,Neurology,Urgent,Aetna
+ADM-8438,PAT-3438,3/22/2025,3/31/2025,Emergency,Elective,HealthFirst
+ADM-8439,PAT-3439,4/8/2025,4/18/2025,Cardiology,Trauma,Self-Pay
+ADM-8440,PAT-3440,4/25/2025,4/26/2025,Oncology,Emergency,Cigna
+ADM-8441,PAT-3441,5/12/2025,5/14/2025,ICU,Urgent,BlueShield
+ADM-8442,PAT-3442,5/29/2025,6/1/2025,General Surgery,Elective,Aetna
+ADM-8443,PAT-3443,6/15/2025,6/19/2025,Pediatrics,Trauma,HealthFirst
+ADM-8444,PAT-3444,7/2/2025,7/7/2025,Orthopedics,Emergency,Self-Pay
+ADM-8445,PAT-3445,7/19/2025,7/25/2025,Neurology,Urgent,Cigna
+ADM-8446,PAT-3446,8/5/2025,8/12/2025,Emergency,Elective,BlueShield
+ADM-8447,PAT-3447,8/22/2025,8/30/2025,Cardiology,Trauma,Aetna
+ADM-8448,PAT-3448,9/8/2025,9/17/2025,Oncology,Emergency,HealthFirst
+ADM-8449,PAT-3449,9/25/2025,10/5/2025,ICU,Urgent,Self-Pay
+ADM-8450,PAT-3450,10/12/2025,10/13/2025,General Surgery,Elective,Cigna
+ADM-8451,PAT-3451,10/29/2025,10/31/2025,Pediatrics,Trauma,BlueShield
+ADM-8452,PAT-3452,11/15/2025,11/18/2025,Orthopedics,Emergency,Aetna
+ADM-8453,PAT-3453,12/2/2025,12/6/2025,Neurology,Urgent,HealthFirst
+ADM-8454,PAT-3454,12/19/2025,12/24/2025,Emergency,Elective,Self-Pay
+ADM-8455,PAT-3455,1/5/2026,1/11/2026,Cardiology,Trauma,Cigna
+ADM-8456,PAT-3456,1/22/2026,1/29/2026,Oncology,Emergency,BlueShield
+ADM-8457,PAT-3457,2/8/2026,2/16/2026,ICU,Urgent,Aetna
+ADM-8458,PAT-3458,2/25/2026,3/6/2026,General Surgery,Elective,HealthFirst
+ADM-8459,PAT-3459,3/14/2026,3/24/2026,Pediatrics,Trauma,Self-Pay
+ADM-8460,PAT-3460,3/31/2026,4/1/2026,Orthopedics,Emergency,Cigna
+ADM-8461,PAT-3461,4/17/2026,4/19/2026,Neurology,Urgent,BlueShield
+ADM-8462,PAT-3462,5/4/2026,5/7/2026,Emergency,Elective,Aetna
+ADM-8463,PAT-3463,5/21/2026,5/25/2026,Cardiology,Trauma,HealthFirst
+ADM-8464,PAT-3464,6/7/2026,6/12/2026,Oncology,Emergency,Self-Pay
+ADM-8465,PAT-3465,6/24/2026,6/30/2026,ICU,Urgent,Cigna
+ADM-8466,PAT-3466,7/11/2026,7/18/2026,General Surgery,Elective,BlueShield
+ADM-8467,PAT-3467,7/28/2026,8/5/2026,Pediatrics,Trauma,Aetna
+ADM-8468,PAT-3468,8/14/2026,8/23/2026,Orthopedics,Emergency,HealthFirst
+ADM-8469,PAT-3469,8/31/2026,9/10/2026,Neurology,Urgent,Self-Pay
+ADM-8470,PAT-3470,9/17/2026,9/18/2026,Emergency,Elective,Cigna
+ADM-8471,PAT-3471,1/8/2024,1/10/2024,Cardiology,Trauma,BlueShield
+ADM-8472,PAT-3472,1/25/2024,1/28/2024,Oncology,Emergency,Aetna
+ADM-8473,PAT-3473,2/11/2024,2/15/2024,ICU,Urgent,HealthFirst
+ADM-8474,PAT-3474,2/28/2024,3/4/2024,General Surgery,Elective,Self-Pay
+ADM-8475,PAT-3475,3/16/2024,3/22/2024,Pediatrics,Trauma,Cigna
+ADM-8476,PAT-3476,4/2/2024,4/9/2024,Orthopedics,Emergency,BlueShield
+ADM-8477,PAT-3477,4/19/2024,4/27/2024,Neurology,Urgent,Aetna
+ADM-8478,PAT-3478,5/6/2024,5/15/2024,Emergency,Elective,HealthFirst
+ADM-8479,PAT-3479,5/23/2024,6/2/2024,Cardiology,Trauma,Self-Pay
+ADM-8480,PAT-3480,6/9/2024,6/10/2024,Oncology,Emergency,Cigna
+ADM-8481,PAT-3481,6/26/2024,6/28/2024,ICU,Urgent,BlueShield
+ADM-8482,PAT-3482,7/13/2024,7/16/2024,General Surgery,Elective,Aetna
+ADM-8483,PAT-3483,7/30/2024,8/3/2024,Pediatrics,Trauma,HealthFirst
+ADM-8484,PAT-3484,8/16/2024,8/21/2024,Orthopedics,Emergency,Self-Pay
+ADM-8485,PAT-3485,9/2/2024,9/8/2024,Neurology,Urgent,Cigna
+ADM-8486,PAT-3486,9/19/2024,9/26/2024,Emergency,Elective,BlueShield
+ADM-8487,PAT-3487,10/6/2024,10/14/2024,Cardiology,Trauma,Aetna
+ADM-8488,PAT-3488,10/23/2024,11/1/2024,Oncology,Emergency,HealthFirst
+ADM-8489,PAT-3489,11/9/2024,11/19/2024,ICU,Urgent,Self-Pay
+ADM-8490,PAT-3490,11/26/2024,11/27/2024,General Surgery,Elective,Cigna
+ADM-8491,PAT-3491,12/13/2024,12/15/2024,Pediatrics,Trauma,BlueShield
+ADM-8492,PAT-3492,12/30/2024,1/2/2025,Orthopedics,Emergency,Aetna
+ADM-8493,PAT-3493,1/16/2025,1/20/2025,Neurology,Urgent,HealthFirst
+ADM-8494,PAT-3494,2/2/2025,2/7/2025,Emergency,Elective,Self-Pay
+ADM-8495,PAT-3495,2/19/2025,2/25/2025,Cardiology,Trauma,Cigna
+ADM-8496,PAT-3496,3/8/2025,3/15/2025,Oncology,Emergency,BlueShield
+ADM-8497,PAT-3497,3/25/2025,4/2/2025,ICU,Urgent,Aetna
+ADM-8498,PAT-3498,4/11/2025,4/20/2025,General Surgery,Elective,HealthFirst
+ADM-8499,PAT-3499,4/28/2025,5/8/2025,Pediatrics,Trauma,Self-Pay
+ADM-8500,PAT-3500,5/15/2025,5/16/2025,Orthopedics,Emergency,Cigna
+ADM-8501,PAT-3501,6/1/2025,6/3/2025,Neurology,Urgent,BlueShield
+ADM-8502,PAT-3502,6/18/2025,6/21/2025,Emergency,Elective,Aetna
+ADM-8503,PAT-3503,7/5/2025,7/9/2025,Cardiology,Trauma,HealthFirst
+ADM-8504,PAT-3504,7/22/2025,7/27/2025,Oncology,Emergency,Self-Pay
+ADM-8505,PAT-3505,8/8/2025,8/14/2025,ICU,Urgent,Cigna
+ADM-8506,PAT-3506,8/25/2025,9/1/2025,General Surgery,Elective,BlueShield
+ADM-8507,PAT-3507,9/11/2025,9/19/2025,Pediatrics,Trauma,Aetna
+ADM-8508,PAT-3508,9/28/2025,10/7/2025,Orthopedics,Emergency,HealthFirst
+ADM-8509,PAT-3509,10/15/2025,10/25/2025,Neurology,Urgent,Self-Pay
+ADM-8510,PAT-3510,11/1/2025,11/2/2025,Emergency,Elective,Cigna
+ADM-8511,PAT-3511,11/18/2025,11/20/2025,Cardiology,Trauma,BlueShield
+ADM-8512,PAT-3512,12/5/2025,12/8/2025,Oncology,Emergency,Aetna
+ADM-8513,PAT-3513,12/22/2025,12/26/2025,ICU,Urgent,HealthFirst
+ADM-8514,PAT-3514,1/8/2026,1/13/2026,General Surgery,Elective,Self-Pay
+ADM-8515,PAT-3515,1/25/2026,1/31/2026,Pediatrics,Trauma,Cigna
+ADM-8516,PAT-3516,2/11/2026,2/18/2026,Orthopedics,Emergency,BlueShield
+ADM-8517,PAT-3517,2/28/2026,3/8/2026,Neurology,Urgent,Aetna
+ADM-8518,PAT-3518,3/17/2026,3/26/2026,Emergency,Elective,HealthFirst
+ADM-8519,PAT-3519,4/3/2026,4/13/2026,Cardiology,Trauma,Self-Pay
+ADM-8520,PAT-3520,4/20/2026,4/21/2026,Oncology,Emergency,Cigna
+ADM-8521,PAT-3521,5/7/2026,5/9/2026,ICU,Urgent,BlueShield
+ADM-8522,PAT-3522,5/24/2026,5/27/2026,General Surgery,Elective,Aetna
+ADM-8523,PAT-3523,6/10/2026,6/14/2026,Pediatrics,Trauma,HealthFirst
+ADM-8524,PAT-3524,6/27/2026,7/2/2026,Orthopedics,Emergency,Self-Pay
+ADM-8525,PAT-3525,7/14/2026,7/20/2026,Neurology,Urgent,Cigna
+ADM-8526,PAT-3526,7/31/2026,8/7/2026,Emergency,Elective,BlueShield
+ADM-8527,PAT-3527,8/17/2026,8/25/2026,Cardiology,Trauma,Aetna
+ADM-8528,PAT-3528,9/3/2026,9/12/2026,Oncology,Emergency,HealthFirst
+ADM-8529,PAT-3529,9/20/2026,9/30/2026,ICU,Urgent,Self-Pay
+ADM-8530,PAT-3530,1/11/2024,1/12/2024,General Surgery,Elective,Cigna
+ADM-8531,PAT-3531,1/28/2024,1/30/2024,Pediatrics,Trauma,BlueShield
+ADM-8532,PAT-3532,2/14/2024,2/17/2024,Orthopedics,Emergency,Aetna
+ADM-8533,PAT-3533,3/2/2024,3/6/2024,Neurology,Urgent,HealthFirst
+ADM-8534,PAT-3534,3/19/2024,3/24/2024,Emergency,Elective,Self-Pay
+ADM-8535,PAT-3535,4/5/2024,4/11/2024,Cardiology,Trauma,Cigna
+ADM-8536,PAT-3536,4/22/2024,4/29/2024,Oncology,Emergency,BlueShield
+ADM-8537,PAT-3537,5/9/2024,5/17/2024,ICU,Urgent,Aetna
+ADM-8538,PAT-3538,5/26/2024,6/4/2024,General Surgery,Elective,HealthFirst
+ADM-8539,PAT-3539,6/12/2024,6/22/2024,Pediatrics,Trauma,Self-Pay
+ADM-8540,PAT-3540,6/29/2024,6/30/2024,Orthopedics,Emergency,Cigna
+ADM-8541,PAT-3541,7/16/2024,7/18/2024,Neurology,Urgent,BlueShield
+ADM-8542,PAT-3542,8/2/2024,8/5/2024,Emergency,Elective,Aetna
+ADM-8543,PAT-3543,8/19/2024,8/23/2024,Cardiology,Trauma,HealthFirst
+ADM-8544,PAT-3544,9/5/2024,9/10/2024,Oncology,Emergency,Self-Pay
+ADM-8545,PAT-3545,9/22/2024,9/28/2024,ICU,Urgent,Cigna
+ADM-8546,PAT-3546,10/9/2024,10/16/2024,General Surgery,Elective,BlueShield
+ADM-8547,PAT-3547,10/26/2024,11/3/2024,Pediatrics,Trauma,Aetna
+ADM-8548,PAT-3548,11/12/2024,11/21/2024,Orthopedics,Emergency,HealthFirst
+ADM-8549,PAT-3549,11/29/2024,12/9/2024,Neurology,Urgent,Self-Pay
+ADM-8550,PAT-3550,12/16/2024,12/17/2024,Emergency,Elective,Cigna
+ADM-8551,PAT-3551,1/2/2025,1/4/2025,Cardiology,Trauma,BlueShield
+ADM-8552,PAT-3552,1/19/2025,1/22/2025,Oncology,Emergency,Aetna
+ADM-8553,PAT-3553,2/5/2025,2/9/2025,ICU,Urgent,HealthFirst
+ADM-8554,PAT-3554,2/22/2025,2/27/2025,General Surgery,Elective,Self-Pay
+ADM-8555,PAT-3555,3/11/2025,3/17/2025,Pediatrics,Trauma,Cigna
+ADM-8556,PAT-3556,3/28/2025,4/4/2025,Orthopedics,Emergency,BlueShield
+ADM-8557,PAT-3557,4/14/2025,4/22/2025,Neurology,Urgent,Aetna
+ADM-8558,PAT-3558,5/1/2025,5/10/2025,Emergency,Elective,HealthFirst
+ADM-8559,PAT-3559,5/18/2025,5/28/2025,Cardiology,Trauma,Self-Pay
+ADM-8560,PAT-3560,6/4/2025,6/5/2025,Oncology,Emergency,Cigna
+ADM-8561,PAT-3561,6/21/2025,6/23/2025,ICU,Urgent,BlueShield
+ADM-8562,PAT-3562,7/8/2025,7/11/2025,General Surgery,Elective,Aetna
+ADM-8563,PAT-3563,7/25/2025,7/29/2025,Pediatrics,Trauma,HealthFirst
+ADM-8564,PAT-3564,8/11/2025,8/16/2025,Orthopedics,Emergency,Self-Pay
+ADM-8565,PAT-3565,8/28/2025,9/3/2025,Neurology,Urgent,Cigna
+ADM-8566,PAT-3566,9/14/2025,9/21/2025,Emergency,Elective,BlueShield
+ADM-8567,PAT-3567,10/1/2025,10/9/2025,Cardiology,Trauma,Aetna
+ADM-8568,PAT-3568,10/18/2025,10/27/2025,Oncology,Emergency,HealthFirst
+ADM-8569,PAT-3569,11/4/2025,11/14/2025,ICU,Urgent,Self-Pay
+ADM-8570,PAT-3570,11/21/2025,11/22/2025,General Surgery,Elective,Cigna
+ADM-8571,PAT-3571,12/8/2025,12/10/2025,Pediatrics,Trauma,BlueShield
+ADM-8572,PAT-3572,12/25/2025,12/28/2025,Orthopedics,Emergency,Aetna
+ADM-8573,PAT-3573,1/11/2026,1/15/2026,Neurology,Urgent,HealthFirst
+ADM-8574,PAT-3574,1/28/2026,2/2/2026,Emergency,Elective,Self-Pay
+ADM-8575,PAT-3575,2/14/2026,2/20/2026,Cardiology,Trauma,Cigna
+ADM-8576,PAT-3576,3/3/2026,3/10/2026,Oncology,Emergency,BlueShield
+ADM-8577,PAT-3577,3/20/2026,3/28/2026,ICU,Urgent,Aetna
+ADM-8578,PAT-3578,4/6/2026,4/15/2026,General Surgery,Elective,HealthFirst
+ADM-8579,PAT-3579,4/23/2026,5/3/2026,Pediatrics,Trauma,Self-Pay
+ADM-8580,PAT-3580,5/10/2026,5/11/2026,Orthopedics,Emergency,Cigna
+ADM-8581,PAT-3581,5/27/2026,5/29/2026,Neurology,Urgent,BlueShield
+ADM-8582,PAT-3582,6/13/2026,6/16/2026,Emergency,Elective,Aetna
+ADM-8583,PAT-3583,6/30/2026,7/4/2026,Cardiology,Trauma,HealthFirst
+ADM-8584,PAT-3584,7/17/2026,7/22/2026,Oncology,Emergency,Self-Pay
+ADM-8585,PAT-3585,8/3/2026,8/9/2026,ICU,Urgent,Cigna
+ADM-8586,PAT-3586,8/20/2026,8/27/2026,General Surgery,Elective,BlueShield
+ADM-8587,PAT-3587,9/6/2026,9/14/2026,Pediatrics,Trauma,Aetna
+ADM-8588,PAT-3588,9/23/2026,10/2/2026,Orthopedics,Emergency,HealthFirst
+ADM-8589,PAT-3589,1/14/2024,1/24/2024,Neurology,Urgent,Self-Pay
+ADM-8590,PAT-3590,1/31/2024,2/1/2024,Emergency,Elective,Cigna
+ADM-8591,PAT-3591,2/17/2024,2/19/2024,Cardiology,Trauma,BlueShield
+ADM-8592,PAT-3592,3/5/2024,3/8/2024,Oncology,Emergency,Aetna
+ADM-8593,PAT-3593,3/22/2024,3/26/2024,ICU,Urgent,HealthFirst
+ADM-8594,PAT-3594,4/8/2024,4/13/2024,General Surgery,Elective,Self-Pay
+ADM-8595,PAT-3595,4/25/2024,5/1/2024,Pediatrics,Trauma,Cigna
+ADM-8596,PAT-3596,5/12/2024,5/19/2024,Orthopedics,Emergency,BlueShield
+ADM-8597,PAT-3597,5/29/2024,6/6/2024,Neurology,Urgent,Aetna
+ADM-8598,PAT-3598,6/15/2024,6/24/2024,Emergency,Elective,HealthFirst
+ADM-8599,PAT-3599,7/2/2024,7/12/2024,Cardiology,Trauma,Self-Pay
+ADM-8600,PAT-3600,7/19/2024,7/20/2024,Oncology,Emergency,Cigna
+ADM-8601,PAT-3601,8/5/2024,8/7/2024,ICU,Urgent,BlueShield
+ADM-8602,PAT-3602,8/22/2024,8/25/2024,General Surgery,Elective,Aetna
+ADM-8603,PAT-3603,9/8/2024,9/12/2024,Pediatrics,Trauma,HealthFirst
+ADM-8604,PAT-3604,9/25/2024,9/30/2024,Orthopedics,Emergency,Self-Pay
+ADM-8605,PAT-3605,10/12/2024,10/18/2024,Neurology,Urgent,Cigna
+ADM-8606,PAT-3606,10/29/2024,11/5/2024,Emergency,Elective,BlueShield
+ADM-8607,PAT-3607,11/15/2024,11/23/2024,Cardiology,Trauma,Aetna
+ADM-8608,PAT-3608,12/2/2024,12/11/2024,Oncology,Emergency,HealthFirst
+ADM-8609,PAT-3609,12/19/2024,12/29/2024,ICU,Urgent,Self-Pay
+ADM-8610,PAT-3610,1/5/2025,1/6/2025,General Surgery,Elective,Cigna
+ADM-8611,PAT-3611,1/22/2025,1/24/2025,Pediatrics,Trauma,BlueShield
+ADM-8612,PAT-3612,2/8/2025,2/11/2025,Orthopedics,Emergency,Aetna
+ADM-8613,PAT-3613,2/25/2025,3/1/2025,Neurology,Urgent,HealthFirst
+ADM-8614,PAT-3614,3/14/2025,3/19/2025,Emergency,Elective,Self-Pay
+ADM-8615,PAT-3615,3/31/2025,4/6/2025,Cardiology,Trauma,Cigna
+ADM-8616,PAT-3616,4/17/2025,4/24/2025,Oncology,Emergency,BlueShield
+ADM-8617,PAT-3617,5/4/2025,5/12/2025,ICU,Urgent,Aetna
+ADM-8618,PAT-3618,5/21/2025,5/30/2025,General Surgery,Elective,HealthFirst
+ADM-8619,PAT-3619,6/7/2025,6/17/2025,Pediatrics,Trauma,Self-Pay
+ADM-8620,PAT-3620,6/24/2025,6/25/2025,Orthopedics,Emergency,Cigna
+ADM-8621,PAT-3621,7/11/2025,7/13/2025,Neurology,Urgent,BlueShield
+ADM-8622,PAT-3622,7/28/2025,7/31/2025,Emergency,Elective,Aetna
+ADM-8623,PAT-3623,8/14/2025,8/18/2025,Cardiology,Trauma,HealthFirst
+ADM-8624,PAT-3624,8/31/2025,9/5/2025,Oncology,Emergency,Self-Pay
+ADM-8625,PAT-3625,9/17/2025,9/23/2025,ICU,Urgent,Cigna
+ADM-8626,PAT-3626,10/4/2025,10/11/2025,General Surgery,Elective,BlueShield
+ADM-8627,PAT-3627,10/21/2025,10/29/2025,Pediatrics,Trauma,Aetna
+ADM-8628,PAT-3628,11/7/2025,11/16/2025,Orthopedics,Emergency,HealthFirst
+ADM-8629,PAT-3629,11/24/2025,12/4/2025,Neurology,Urgent,Self-Pay
+ADM-8630,PAT-3630,12/11/2025,12/12/2025,Emergency,Elective,Cigna
+ADM-8631,PAT-3631,12/28/2025,12/30/2025,Cardiology,Trauma,BlueShield
+ADM-8632,PAT-3632,1/14/2026,1/17/2026,Oncology,Emergency,Aetna
+ADM-8633,PAT-3633,1/31/2026,2/4/2026,ICU,Urgent,HealthFirst
+ADM-8634,PAT-3634,2/17/2026,2/22/2026,General Surgery,Elective,Self-Pay
+ADM-8635,PAT-3635,3/6/2026,3/12/2026,Pediatrics,Trauma,Cigna
+ADM-8636,PAT-3636,3/23/2026,3/30/2026,Orthopedics,Emergency,BlueShield
+ADM-8637,PAT-3637,4/9/2026,4/17/2026,Neurology,Urgent,Aetna
+ADM-8638,PAT-3638,4/26/2026,5/5/2026,Emergency,Elective,HealthFirst
+ADM-8639,PAT-3639,5/13/2026,5/23/2026,Cardiology,Trauma,Self-Pay
+ADM-8640,PAT-3640,5/30/2026,5/31/2026,Oncology,Emergency,Cigna
+ADM-8641,PAT-3641,6/16/2026,6/18/2026,ICU,Urgent,BlueShield
+ADM-8642,PAT-3642,7/3/2026,7/6/2026,General Surgery,Elective,Aetna
+ADM-8643,PAT-3643,7/20/2026,7/24/2026,Pediatrics,Trauma,HealthFirst
+ADM-8644,PAT-3644,8/6/2026,8/11/2026,Orthopedics,Emergency,Self-Pay
+ADM-8645,PAT-3645,8/23/2026,8/29/2026,Neurology,Urgent,Cigna
+ADM-8646,PAT-3646,9/9/2026,9/16/2026,Emergency,Elective,BlueShield
+ADM-8647,PAT-3647,9/26/2026,10/4/2026,Cardiology,Trauma,Aetna
+ADM-8648,PAT-3648,1/17/2024,1/26/2024,Oncology,Emergency,HealthFirst
+ADM-8649,PAT-3649,2/3/2024,2/13/2024,ICU,Urgent,Self-Pay
+ADM-8650,PAT-3650,2/20/2024,2/21/2024,General Surgery,Elective,Cigna
+ADM-8651,PAT-3651,3/8/2024,3/10/2024,Pediatrics,Trauma,BlueShield
+ADM-8652,PAT-3652,3/25/2024,3/28/2024,Orthopedics,Emergency,Aetna
+ADM-8653,PAT-3653,4/11/2024,4/15/2024,Neurology,Urgent,HealthFirst
+ADM-8654,PAT-3654,4/28/2024,5/3/2024,Emergency,Elective,Self-Pay
+ADM-8655,PAT-3655,5/15/2024,5/21/2024,Cardiology,Trauma,Cigna
+ADM-8656,PAT-3656,6/1/2024,6/8/2024,Oncology,Emergency,BlueShield
+ADM-8657,PAT-3657,6/18/2024,6/26/2024,ICU,Urgent,Aetna
+ADM-8658,PAT-3658,7/5/2024,7/14/2024,General Surgery,Elective,HealthFirst
+ADM-8659,PAT-3659,7/22/2024,8/1/2024,Pediatrics,Trauma,Self-Pay
+ADM-8660,PAT-3660,8/8/2024,8/9/2024,Orthopedics,Emergency,Cigna
+ADM-8661,PAT-3661,8/25/2024,8/27/2024,Neurology,Urgent,BlueShield
+ADM-8662,PAT-3662,9/11/2024,9/14/2024,Emergency,Elective,Aetna
+ADM-8663,PAT-3663,9/28/2024,10/2/2024,Cardiology,Trauma,HealthFirst
+ADM-8664,PAT-3664,10/15/2024,10/20/2024,Oncology,Emergency,Self-Pay
+ADM-8665,PAT-3665,11/1/2024,11/7/2024,ICU,Urgent,Cigna
+ADM-8666,PAT-3666,11/18/2024,11/25/2024,General Surgery,Elective,BlueShield
+ADM-8667,PAT-3667,12/5/2024,12/13/2024,Pediatrics,Trauma,Aetna
+ADM-8668,PAT-3668,12/22/2024,12/31/2024,Orthopedics,Emergency,HealthFirst
+ADM-8669,PAT-3669,1/8/2025,1/18/2025,Neurology,Urgent,Self-Pay
+ADM-8670,PAT-3670,1/25/2025,1/26/2025,Emergency,Elective,Cigna
+ADM-8671,PAT-3671,2/11/2025,2/13/2025,Cardiology,Trauma,BlueShield
+ADM-8672,PAT-3672,2/28/2025,3/3/2025,Oncology,Emergency,Aetna
+ADM-8673,PAT-3673,3/17/2025,3/21/2025,ICU,Urgent,HealthFirst
+ADM-8674,PAT-3674,4/3/2025,4/8/2025,General Surgery,Elective,Self-Pay
+ADM-8675,PAT-3675,4/20/2025,4/26/2025,Pediatrics,Trauma,Cigna
+ADM-8676,PAT-3676,5/7/2025,5/14/2025,Orthopedics,Emergency,BlueShield
+ADM-8677,PAT-3677,5/24/2025,6/1/2025,Neurology,Urgent,Aetna
+ADM-8678,PAT-3678,6/10/2025,6/19/2025,Emergency,Elective,HealthFirst
+ADM-8679,PAT-3679,6/27/2025,7/7/2025,Cardiology,Trauma,Self-Pay
+ADM-8680,PAT-3680,7/14/2025,7/15/2025,Oncology,Emergency,Cigna
+ADM-8681,PAT-3681,7/31/2025,8/2/2025,ICU,Urgent,BlueShield
+ADM-8682,PAT-3682,8/17/2025,8/20/2025,General Surgery,Elective,Aetna
+ADM-8683,PAT-3683,9/3/2025,9/7/2025,Pediatrics,Trauma,HealthFirst
+ADM-8684,PAT-3684,9/20/2025,9/25/2025,Orthopedics,Emergency,Self-Pay
+ADM-8685,PAT-3685,10/7/2025,10/13/2025,Neurology,Urgent,Cigna
+ADM-8686,PAT-3686,10/24/2025,10/31/2025,Emergency,Elective,BlueShield
+ADM-8687,PAT-3687,11/10/2025,11/18/2025,Cardiology,Trauma,Aetna
+ADM-8688,PAT-3688,11/27/2025,12/6/2025,Oncology,Emergency,HealthFirst
+ADM-8689,PAT-3689,12/14/2025,12/24/2025,ICU,Urgent,Self-Pay
+ADM-8690,PAT-3690,12/31/2025,1/1/2026,General Surgery,Elective,Cigna
+ADM-8691,PAT-3691,1/17/2026,1/19/2026,Pediatrics,Trauma,BlueShield
+ADM-8692,PAT-3692,2/3/2026,2/6/2026,Orthopedics,Emergency,Aetna
+ADM-8693,PAT-3693,2/20/2026,2/24/2026,Neurology,Urgent,HealthFirst
+ADM-8694,PAT-3694,3/9/2026,3/14/2026,Emergency,Elective,Self-Pay
+ADM-8695,PAT-3695,3/26/2026,4/1/2026,Cardiology,Trauma,Cigna
+ADM-8696,PAT-3696,4/12/2026,4/19/2026,Oncology,Emergency,BlueShield
+ADM-8697,PAT-3697,4/29/2026,5/7/2026,ICU,Urgent,Aetna
+ADM-8698,PAT-3698,5/16/2026,5/25/2026,General Surgery,Elective,HealthFirst
+ADM-8699,PAT-3699,6/2/2026,6/12/2026,Pediatrics,Trauma,Self-Pay
+ADM-8700,PAT-3700,6/19/2026,6/20/2026,Orthopedics,Emergency,Cigna
+ADM-8701,PAT-3701,7/6/2026,7/8/2026,Neurology,Urgent,BlueShield
+ADM-8702,PAT-3702,7/23/2026,7/26/2026,Emergency,Elective,Aetna
+ADM-8703,PAT-3703,8/9/2026,8/13/2026,Cardiology,Trauma,HealthFirst
+ADM-8704,PAT-3704,8/26/2026,8/31/2026,Oncology,Emergency,Self-Pay
+ADM-8705,PAT-3705,9/12/2026,9/18/2026,ICU,Urgent,Cigna
+ADM-8706,PAT-3706,1/3/2024,1/10/2024,General Surgery,Elective,BlueShield
+ADM-8707,PAT-3707,1/20/2024,1/28/2024,Pediatrics,Trauma,Aetna
+ADM-8708,PAT-3708,2/6/2024,2/15/2024,Orthopedics,Emergency,HealthFirst
+ADM-8709,PAT-3709,2/23/2024,3/4/2024,Neurology,Urgent,Self-Pay
+ADM-8710,PAT-3710,3/11/2024,3/12/2024,Emergency,Elective,Cigna
+ADM-8711,PAT-3711,3/28/2024,3/30/2024,Cardiology,Trauma,BlueShield
+ADM-8712,PAT-3712,4/14/2024,4/17/2024,Oncology,Emergency,Aetna
+ADM-8713,PAT-3713,5/1/2024,5/5/2024,ICU,Urgent,HealthFirst
+ADM-8714,PAT-3714,5/18/2024,5/23/2024,General Surgery,Elective,Self-Pay
+ADM-8715,PAT-3715,6/4/2024,6/10/2024,Pediatrics,Trauma,Cigna
+ADM-8716,PAT-3716,6/21/2024,6/28/2024,Orthopedics,Emergency,BlueShield
+ADM-8717,PAT-3717,7/8/2024,7/16/2024,Neurology,Urgent,Aetna
+ADM-8718,PAT-3718,7/25/2024,8/3/2024,Emergency,Elective,HealthFirst
+ADM-8719,PAT-3719,8/11/2024,8/21/2024,Cardiology,Trauma,Self-Pay
+ADM-8720,PAT-3720,8/28/2024,8/29/2024,Oncology,Emergency,Cigna
+ADM-8721,PAT-3721,9/14/2024,9/16/2024,ICU,Urgent,BlueShield
+ADM-8722,PAT-3722,10/1/2024,10/4/2024,General Surgery,Elective,Aetna
+ADM-8723,PAT-3723,10/18/2024,10/22/2024,Pediatrics,Trauma,HealthFirst
+ADM-8724,PAT-3724,11/4/2024,11/9/2024,Orthopedics,Emergency,Self-Pay
+ADM-8725,PAT-3725,11/21/2024,11/27/2024,Neurology,Urgent,Cigna
+ADM-8726,PAT-3726,12/8/2024,12/15/2024,Emergency,Elective,BlueShield
+ADM-8727,PAT-3727,12/25/2024,1/2/2025,Cardiology,Trauma,Aetna
+ADM-8728,PAT-3728,1/11/2025,1/20/2025,Oncology,Emergency,HealthFirst
+ADM-8729,PAT-3729,1/28/2025,2/7/2025,ICU,Urgent,Self-Pay
+ADM-8730,PAT-3730,2/14/2025,2/15/2025,General Surgery,Elective,Cigna
+ADM-8731,PAT-3731,3/3/2025,3/5/2025,Pediatrics,Trauma,BlueShield
+ADM-8732,PAT-3732,3/20/2025,3/23/2025,Orthopedics,Emergency,Aetna
+ADM-8733,PAT-3733,4/6/2025,4/10/2025,Neurology,Urgent,HealthFirst
+ADM-8734,PAT-3734,4/23/2025,4/28/2025,Emergency,Elective,Self-Pay
+ADM-8735,PAT-3735,5/10/2025,5/16/2025,Cardiology,Trauma,Cigna
+ADM-8736,PAT-3736,5/27/2025,6/3/2025,Oncology,Emergency,BlueShield
+ADM-8737,PAT-3737,6/13/2025,6/21/2025,ICU,Urgent,Aetna
+ADM-8738,PAT-3738,6/30/2025,7/9/2025,General Surgery,Elective,HealthFirst
+ADM-8739,PAT-3739,7/17/2025,7/27/2025,Pediatrics,Trauma,Self-Pay
+ADM-8740,PAT-3740,8/3/2025,8/4/2025,Orthopedics,Emergency,Cigna
+ADM-8741,PAT-3741,8/20/2025,8/22/2025,Neurology,Urgent,BlueShield
+ADM-8742,PAT-3742,9/6/2025,9/9/2025,Emergency,Elective,Aetna
+ADM-8743,PAT-3743,9/23/2025,9/27/2025,Cardiology,Trauma,HealthFirst
+ADM-8744,PAT-3744,10/10/2025,10/15/2025,Oncology,Emergency,Self-Pay
+ADM-8745,PAT-3745,10/27/2025,11/2/2025,ICU,Urgent,Cigna
+ADM-8746,PAT-3746,11/13/2025,11/20/2025,General Surgery,Elective,BlueShield
+ADM-8747,PAT-3747,11/30/2025,12/8/2025,Pediatrics,Trauma,Aetna
+ADM-8748,PAT-3748,12/17/2025,12/26/2025,Orthopedics,Emergency,HealthFirst
+ADM-8749,PAT-3749,1/3/2026,1/13/2026,Neurology,Urgent,Self-Pay
+ADM-8750,PAT-3750,1/20/2026,1/21/2026,Emergency,Elective,Cigna
+ADM-8751,PAT-3751,2/6/2026,2/8/2026,Cardiology,Trauma,BlueShield
+ADM-8752,PAT-3752,2/23/2026,2/26/2026,Oncology,Emergency,Aetna
+ADM-8753,PAT-3753,3/12/2026,3/16/2026,ICU,Urgent,HealthFirst
+ADM-8754,PAT-3754,3/29/2026,4/3/2026,General Surgery,Elective,Self-Pay
+ADM-8755,PAT-3755,4/15/2026,4/21/2026,Pediatrics,Trauma,Cigna
+ADM-8756,PAT-3756,5/2/2026,5/9/2026,Orthopedics,Emergency,BlueShield
+ADM-8757,PAT-3757,5/19/2026,5/27/2026,Neurology,Urgent,Aetna
+ADM-8758,PAT-3758,6/5/2026,6/14/2026,Emergency,Elective,HealthFirst
+ADM-8759,PAT-3759,6/22/2026,7/2/2026,Cardiology,Trauma,Self-Pay
+ADM-8760,PAT-3760,7/9/2026,7/10/2026,Oncology,Emergency,Cigna
+ADM-8761,PAT-3761,7/26/2026,7/28/2026,ICU,Urgent,BlueShield
+ADM-8762,PAT-3762,8/12/2026,8/15/2026,General Surgery,Elective,Aetna
+ADM-8763,PAT-3763,8/29/2026,9/2/2026,Pediatrics,Trauma,HealthFirst
+ADM-8764,PAT-3764,9/15/2026,9/20/2026,Orthopedics,Emergency,Self-Pay
+ADM-8765,PAT-3765,1/6/2024,1/12/2024,Neurology,Urgent,Cigna
+ADM-8766,PAT-3766,1/23/2024,1/30/2024,Emergency,Elective,BlueShield
+ADM-8767,PAT-3767,2/9/2024,2/17/2024,Cardiology,Trauma,Aetna
+ADM-8768,PAT-3768,2/26/2024,3/6/2024,Oncology,Emergency,HealthFirst
+ADM-8769,PAT-3769,3/14/2024,3/24/2024,ICU,Urgent,Self-Pay
+ADM-8770,PAT-3770,3/31/2024,4/1/2024,General Surgery,Elective,Cigna
+ADM-8771,PAT-3771,4/17/2024,4/19/2024,Pediatrics,Trauma,BlueShield
+ADM-8772,PAT-3772,5/4/2024,5/7/2024,Orthopedics,Emergency,Aetna
+ADM-8773,PAT-3773,5/21/2024,5/25/2024,Neurology,Urgent,HealthFirst
+ADM-8774,PAT-3774,6/7/2024,6/12/2024,Emergency,Elective,Self-Pay
+ADM-8775,PAT-3775,6/24/2024,6/30/2024,Cardiology,Trauma,Cigna
+ADM-8776,PAT-3776,7/11/2024,7/18/2024,Oncology,Emergency,BlueShield
+ADM-8777,PAT-3777,7/28/2024,8/5/2024,ICU,Urgent,Aetna
+ADM-8778,PAT-3778,8/14/2024,8/23/2024,General Surgery,Elective,HealthFirst
+ADM-8779,PAT-3779,8/31/2024,9/10/2024,Pediatrics,Trauma,Self-Pay
+ADM-8780,PAT-3780,9/17/2024,9/18/2024,Orthopedics,Emergency,Cigna
+ADM-8781,PAT-3781,10/4/2024,10/6/2024,Neurology,Urgent,BlueShield
+ADM-8782,PAT-3782,10/21/2024,10/24/2024,Emergency,Elective,Aetna
+ADM-8783,PAT-3783,11/7/2024,11/11/2024,Cardiology,Trauma,HealthFirst
+ADM-8784,PAT-3784,11/24/2024,11/29/2024,Oncology,Emergency,Self-Pay
+ADM-8785,PAT-3785,12/11/2024,12/17/2024,ICU,Urgent,Cigna
+ADM-8786,PAT-3786,12/28/2024,1/4/2025,General Surgery,Elective,BlueShield
+ADM-8787,PAT-3787,1/14/2025,1/22/2025,Pediatrics,Trauma,Aetna
+ADM-8788,PAT-3788,1/31/2025,2/9/2025,Orthopedics,Emergency,HealthFirst
+ADM-8789,PAT-3789,2/17/2025,2/27/2025,Neurology,Urgent,Self-Pay
+ADM-8790,PAT-3790,3/6/2025,3/7/2025,Emergency,Elective,Cigna
+ADM-8791,PAT-3791,3/23/2025,3/25/2025,Cardiology,Trauma,BlueShield
+ADM-8792,PAT-3792,4/9/2025,4/12/2025,Oncology,Emergency,Aetna
+ADM-8793,PAT-3793,4/26/2025,4/30/2025,ICU,Urgent,HealthFirst
+ADM-8794,PAT-3794,5/13/2025,5/18/2025,General Surgery,Elective,Self-Pay
+ADM-8795,PAT-3795,5/30/2025,6/5/2025,Pediatrics,Trauma,Cigna
+ADM-8796,PAT-3796,6/16/2025,6/23/2025,Orthopedics,Emergency,BlueShield
+ADM-8797,PAT-3797,7/3/2025,7/11/2025,Neurology,Urgent,Aetna
+ADM-8798,PAT-3798,7/20/2025,7/29/2025,Emergency,Elective,HealthFirst
+ADM-8799,PAT-3799,8/6/2025,8/16/2025,Cardiology,Trauma,Self-Pay
+ADM-8800,PAT-3800,8/23/2025,8/24/2025,Oncology,Emergency,Cigna
+ADM-8801,PAT-3801,9/9/2025,9/11/2025,ICU,Urgent,BlueShield
+ADM-8802,PAT-3802,9/26/2025,9/29/2025,General Surgery,Elective,Aetna
+ADM-8803,PAT-3803,10/13/2025,10/17/2025,Pediatrics,Trauma,HealthFirst
+ADM-8804,PAT-3804,10/30/2025,11/4/2025,Orthopedics,Emergency,Self-Pay
+ADM-8805,PAT-3805,11/16/2025,11/22/2025,Neurology,Urgent,Cigna
+ADM-8806,PAT-3806,12/3/2025,12/10/2025,Emergency,Elective,BlueShield
+ADM-8807,PAT-3807,12/20/2025,12/28/2025,Cardiology,Trauma,Aetna
+ADM-8808,PAT-3808,1/6/2026,1/15/2026,Oncology,Emergency,HealthFirst
+ADM-8809,PAT-3809,1/23/2026,2/2/2026,ICU,Urgent,Self-Pay
+ADM-8810,PAT-3810,2/9/2026,2/10/2026,General Surgery,Elective,Cigna
+ADM-8811,PAT-3811,2/26/2026,2/28/2026,Pediatrics,Trauma,BlueShield
+ADM-8812,PAT-3812,3/15/2026,3/18/2026,Orthopedics,Emergency,Aetna
+ADM-8813,PAT-3813,4/1/2026,4/5/2026,Neurology,Urgent,HealthFirst
+ADM-8814,PAT-3814,4/18/2026,4/23/2026,Emergency,Elective,Self-Pay
+ADM-8815,PAT-3815,5/5/2026,5/11/2026,Cardiology,Trauma,Cigna
+ADM-8816,PAT-3816,5/22/2026,5/29/2026,Oncology,Emergency,BlueShield
+ADM-8817,PAT-3817,6/8/2026,6/16/2026,ICU,Urgent,Aetna
+ADM-8818,PAT-3818,6/25/2026,7/4/2026,General Surgery,Elective,HealthFirst
+ADM-8819,PAT-3819,7/12/2026,7/22/2026,Pediatrics,Trauma,Self-Pay
+ADM-8820,PAT-3820,7/29/2026,7/30/2026,Orthopedics,Emergency,Cigna
+ADM-8821,PAT-3821,8/15/2026,8/17/2026,Neurology,Urgent,BlueShield
+ADM-8822,PAT-3822,9/1/2026,9/4/2026,Emergency,Elective,Aetna
+ADM-8823,PAT-3823,9/18/2026,9/22/2026,Cardiology,Trauma,HealthFirst
+ADM-8824,PAT-3824,1/9/2024,1/14/2024,Oncology,Emergency,Self-Pay
+ADM-8825,PAT-3825,1/26/2024,2/1/2024,ICU,Urgent,Cigna
+ADM-8826,PAT-3826,2/12/2024,2/19/2024,General Surgery,Elective,BlueShield
+ADM-8827,PAT-3827,2/29/2024,3/8/2024,Pediatrics,Trauma,Aetna
+ADM-8828,PAT-3828,3/17/2024,3/26/2024,Orthopedics,Emergency,HealthFirst
+ADM-8829,PAT-3829,4/3/2024,4/13/2024,Neurology,Urgent,Self-Pay
+ADM-8830,PAT-3830,4/20/2024,4/21/2024,Emergency,Elective,Cigna
+ADM-8831,PAT-3831,5/7/2024,5/9/2024,Cardiology,Trauma,BlueShield
+ADM-8832,PAT-3832,5/24/2024,5/27/2024,Oncology,Emergency,Aetna
+ADM-8833,PAT-3833,6/10/2024,6/14/2024,ICU,Urgent,HealthFirst
+ADM-8834,PAT-3834,6/27/2024,7/2/2024,General Surgery,Elective,Self-Pay
+ADM-8835,PAT-3835,7/14/2024,7/20/2024,Pediatrics,Trauma,Cigna
+ADM-8836,PAT-3836,7/31/2024,8/7/2024,Orthopedics,Emergency,BlueShield
+ADM-8837,PAT-3837,8/17/2024,8/25/2024,Neurology,Urgent,Aetna
+ADM-8838,PAT-3838,9/3/2024,9/12/2024,Emergency,Elective,HealthFirst
+ADM-8839,PAT-3839,9/20/2024,9/30/2024,Cardiology,Trauma,Self-Pay
+ADM-8840,PAT-3840,10/7/2024,10/8/2024,Oncology,Emergency,Cigna
+ADM-8841,PAT-3841,10/24/2024,10/26/2024,ICU,Urgent,BlueShield
+ADM-8842,PAT-3842,11/10/2024,11/13/2024,General Surgery,Elective,Aetna
+ADM-8843,PAT-3843,11/27/2024,12/1/2024,Pediatrics,Trauma,HealthFirst
+ADM-8844,PAT-3844,12/14/2024,12/19/2024,Orthopedics,Emergency,Self-Pay
+ADM-8845,PAT-3845,12/31/2024,1/6/2025,Neurology,Urgent,Cigna
+ADM-8846,PAT-3846,1/17/2025,1/24/2025,Emergency,Elective,BlueShield
+ADM-8847,PAT-3847,2/3/2025,2/11/2025,Cardiology,Trauma,Aetna
+ADM-8848,PAT-3848,2/20/2025,3/1/2025,Oncology,Emergency,HealthFirst
+ADM-8849,PAT-3849,3/9/2025,3/19/2025,ICU,Urgent,Self-Pay
+ADM-8850,PAT-3850,3/26/2025,3/27/2025,General Surgery,Elective,Cigna
+ADM-8851,PAT-3851,4/12/2025,4/14/2025,Pediatrics,Trauma,BlueShield
+ADM-8852,PAT-3852,4/29/2025,5/2/2025,Orthopedics,Emergency,Aetna
+ADM-8853,PAT-3853,5/16/2025,5/20/2025,Neurology,Urgent,HealthFirst
+ADM-8854,PAT-3854,6/2/2025,6/7/2025,Emergency,Elective,Self-Pay
+ADM-8855,PAT-3855,6/19/2025,6/25/2025,Cardiology,Trauma,Cigna
+ADM-8856,PAT-3856,7/6/2025,7/13/2025,Oncology,Emergency,BlueShield
+ADM-8857,PAT-3857,7/23/2025,7/31/2025,ICU,Urgent,Aetna
+ADM-8858,PAT-3858,8/9/2025,8/18/2025,General Surgery,Elective,HealthFirst
+ADM-8859,PAT-3859,8/26/2025,9/5/2025,Pediatrics,Trauma,Self-Pay
+ADM-8860,PAT-3860,9/12/2025,9/13/2025,Orthopedics,Emergency,Cigna
+ADM-8861,PAT-3861,9/29/2025,10/1/2025,Neurology,Urgent,BlueShield
+ADM-8862,PAT-3862,10/16/2025,10/19/2025,Emergency,Elective,Aetna
+ADM-8863,PAT-3863,11/2/2025,11/6/2025,Cardiology,Trauma,HealthFirst
+ADM-8864,PAT-3864,11/19/2025,11/24/2025,Oncology,Emergency,Self-Pay
+ADM-8865,PAT-3865,12/6/2025,12/12/2025,ICU,Urgent,Cigna
+ADM-8866,PAT-3866,12/23/2025,12/30/2025,General Surgery,Elective,BlueShield
+ADM-8867,PAT-3867,1/9/2026,1/17/2026,Pediatrics,Trauma,Aetna
+ADM-8868,PAT-3868,1/26/2026,2/4/2026,Orthopedics,Emergency,HealthFirst
+ADM-8869,PAT-3869,2/12/2026,2/22/2026,Neurology,Urgent,Self-Pay
+ADM-8870,PAT-3870,3/1/2026,3/2/2026,Emergency,Elective,Cigna
+ADM-8871,PAT-3871,3/18/2026,3/20/2026,Cardiology,Trauma,BlueShield
+ADM-8872,PAT-3872,4/4/2026,4/7/2026,Oncology,Emergency,Aetna
+ADM-8873,PAT-3873,4/21/2026,4/25/2026,ICU,Urgent,HealthFirst
+ADM-8874,PAT-3874,5/8/2026,5/13/2026,General Surgery,Elective,Self-Pay
+ADM-8875,PAT-3875,5/25/2026,5/31/2026,Pediatrics,Trauma,Cigna
+ADM-8876,PAT-3876,6/11/2026,6/18/2026,Orthopedics,Emergency,BlueShield
+ADM-8877,PAT-3877,6/28/2026,7/6/2026,Neurology,Urgent,Aetna
+ADM-8878,PAT-3878,7/15/2026,7/24/2026,Emergency,Elective,HealthFirst
+ADM-8879,PAT-3879,8/1/2026,8/11/2026,Cardiology,Trauma,Self-Pay
+ADM-8880,PAT-3880,8/18/2026,8/19/2026,Oncology,Emergency,Cigna
+ADM-8881,PAT-3881,9/4/2026,9/6/2026,ICU,Urgent,BlueShield
+ADM-8882,PAT-3882,9/21/2026,9/24/2026,General Surgery,Elective,Aetna
+ADM-8883,PAT-3883,1/12/2024,1/16/2024,Pediatrics,Trauma,HealthFirst
+ADM-8884,PAT-3884,1/29/2024,2/3/2024,Orthopedics,Emergency,Self-Pay
+ADM-8885,PAT-3885,2/15/2024,2/21/2024,Neurology,Urgent,Cigna
+ADM-8886,PAT-3886,3/3/2024,3/10/2024,Emergency,Elective,BlueShield
+ADM-8887,PAT-3887,3/20/2024,3/28/2024,Cardiology,Trauma,Aetna
+ADM-8888,PAT-3888,4/6/2024,4/15/2024,Oncology,Emergency,HealthFirst
+ADM-8889,PAT-3889,4/23/2024,5/3/2024,ICU,Urgent,Self-Pay
+ADM-8890,PAT-3890,5/10/2024,5/11/2024,General Surgery,Elective,Cigna
+ADM-8891,PAT-3891,5/27/2024,5/29/2024,Pediatrics,Trauma,BlueShield
+ADM-8892,PAT-3892,6/13/2024,6/16/2024,Orthopedics,Emergency,Aetna
+ADM-8893,PAT-3893,6/30/2024,7/4/2024,Neurology,Urgent,HealthFirst
+ADM-8894,PAT-3894,7/17/2024,7/22/2024,Emergency,Elective,Self-Pay
+ADM-8895,PAT-3895,8/3/2024,8/9/2024,Cardiology,Trauma,Cigna
+ADM-8896,PAT-3896,8/20/2024,8/27/2024,Oncology,Emergency,BlueShield
+ADM-8897,PAT-3897,9/6/2024,9/14/2024,ICU,Urgent,Aetna
+ADM-8898,PAT-3898,9/23/2024,10/2/2024,General Surgery,Elective,HealthFirst
+ADM-8899,PAT-3899,10/10/2024,10/20/2024,Pediatrics,Trauma,Self-Pay
+ADM-8900,PAT-3900,10/27/2024,10/28/2024,Orthopedics,Emergency,Cigna
+ADM-8901,PAT-3901,11/13/2024,11/15/2024,Neurology,Urgent,BlueShield
+ADM-8902,PAT-3902,11/30/2024,12/3/2024,Emergency,Elective,Aetna
+ADM-8903,PAT-3903,12/17/2024,12/21/2024,Cardiology,Trauma,HealthFirst
+ADM-8904,PAT-3904,1/3/2025,1/8/2025,Oncology,Emergency,Self-Pay
+ADM-8905,PAT-3905,1/20/2025,1/26/2025,ICU,Urgent,Cigna
+ADM-8906,PAT-3906,2/6/2025,2/13/2025,General Surgery,Elective,BlueShield
+ADM-8907,PAT-3907,2/23/2025,3/3/2025,Pediatrics,Trauma,Aetna
+ADM-8908,PAT-3908,3/12/2025,3/21/2025,Orthopedics,Emergency,HealthFirst
+ADM-8909,PAT-3909,3/29/2025,4/8/2025,Neurology,Urgent,Self-Pay
+ADM-8910,PAT-3910,4/15/2025,4/16/2025,Emergency,Elective,Cigna
+ADM-8911,PAT-3911,5/2/2025,5/4/2025,Cardiology,Trauma,BlueShield
+ADM-8912,PAT-3912,5/19/2025,5/22/2025,Oncology,Emergency,Aetna
+ADM-8913,PAT-3913,6/5/2025,6/9/2025,ICU,Urgent,HealthFirst
+ADM-8914,PAT-3914,6/22/2025,6/27/2025,General Surgery,Elective,Self-Pay
+ADM-8915,PAT-3915,7/9/2025,7/15/2025,Pediatrics,Trauma,Cigna
+ADM-8916,PAT-3916,7/26/2025,8/2/2025,Orthopedics,Emergency,BlueShield
+ADM-8917,PAT-3917,8/12/2025,8/20/2025,Neurology,Urgent,Aetna
+ADM-8918,PAT-3918,8/29/2025,9/7/2025,Emergency,Elective,HealthFirst
+ADM-8919,PAT-3919,9/15/2025,9/25/2025,Cardiology,Trauma,Self-Pay
+ADM-8920,PAT-3920,10/2/2025,10/3/2025,Oncology,Emergency,Cigna
+ADM-8921,PAT-3921,10/19/2025,10/21/2025,ICU,Urgent,BlueShield
+ADM-8922,PAT-3922,11/5/2025,11/8/2025,General Surgery,Elective,Aetna
+ADM-8923,PAT-3923,11/22/2025,11/26/2025,Pediatrics,Trauma,HealthFirst
+ADM-8924,PAT-3924,12/9/2025,12/14/2025,Orthopedics,Emergency,Self-Pay
+ADM-8925,PAT-3925,12/26/2025,1/1/2026,Neurology,Urgent,Cigna
+ADM-8926,PAT-3926,1/12/2026,1/19/2026,Emergency,Elective,BlueShield
+ADM-8927,PAT-3927,1/29/2026,2/6/2026,Cardiology,Trauma,Aetna
+ADM-8928,PAT-3928,2/15/2026,2/24/2026,Oncology,Emergency,HealthFirst
+ADM-8929,PAT-3929,3/4/2026,3/14/2026,ICU,Urgent,Self-Pay
+ADM-8930,PAT-3930,3/21/2026,3/22/2026,General Surgery,Elective,Cigna
+ADM-8931,PAT-3931,4/7/2026,4/9/2026,Pediatrics,Trauma,BlueShield
+ADM-8932,PAT-3932,4/24/2026,4/27/2026,Orthopedics,Emergency,Aetna
+ADM-8933,PAT-3933,5/11/2026,5/15/2026,Neurology,Urgent,HealthFirst
+ADM-8934,PAT-3934,5/28/2026,6/2/2026,Emergency,Elective,Self-Pay
+ADM-8935,PAT-3935,6/14/2026,6/20/2026,Cardiology,Trauma,Cigna
+ADM-8936,PAT-3936,7/1/2026,7/8/2026,Oncology,Emergency,BlueShield
+ADM-8937,PAT-3937,7/18/2026,7/26/2026,ICU,Urgent,Aetna
+ADM-8938,PAT-3938,8/4/2026,8/13/2026,General Surgery,Elective,HealthFirst
+ADM-8939,PAT-3939,8/21/2026,8/31/2026,Pediatrics,Trauma,Self-Pay
+ADM-8940,PAT-3940,9/7/2026,9/8/2026,Orthopedics,Emergency,Cigna
+ADM-8941,PAT-3941,9/24/2026,9/26/2026,Neurology,Urgent,BlueShield
+ADM-8942,PAT-3942,1/15/2024,1/18/2024,Emergency,Elective,Aetna
+ADM-8943,PAT-3943,2/1/2024,2/5/2024,Cardiology,Trauma,HealthFirst
+ADM-8944,PAT-3944,2/18/2024,2/23/2024,Oncology,Emergency,Self-Pay
+ADM-8945,PAT-3945,3/6/2024,3/12/2024,ICU,Urgent,Cigna
+ADM-8946,PAT-3946,3/23/2024,3/30/2024,General Surgery,Elective,BlueShield
+ADM-8947,PAT-3947,4/9/2024,4/17/2024,Pediatrics,Trauma,Aetna
+ADM-8948,PAT-3948,4/26/2024,5/5/2024,Orthopedics,Emergency,HealthFirst
+ADM-8949,PAT-3949,5/13/2024,5/23/2024,Neurology,Urgent,Self-Pay
+ADM-8950,PAT-3950,5/30/2024,5/31/2024,Emergency,Elective,Cigna
+ADM-8951,PAT-3951,6/16/2024,6/18/2024,Cardiology,Trauma,BlueShield
+ADM-8952,PAT-3952,7/3/2024,7/6/2024,Oncology,Emergency,Aetna
+ADM-8953,PAT-3953,7/20/2024,7/24/2024,ICU,Urgent,HealthFirst
+ADM-8954,PAT-3954,8/6/2024,8/11/2024,General Surgery,Elective,Self-Pay
+ADM-8955,PAT-3955,8/23/2024,8/29/2024,Pediatrics,Trauma,Cigna
+ADM-8956,PAT-3956,9/9/2024,9/16/2024,Orthopedics,Emergency,BlueShield
+ADM-8957,PAT-3957,9/26/2024,10/4/2024,Neurology,Urgent,Aetna
+ADM-8958,PAT-3958,10/13/2024,10/22/2024,Emergency,Elective,HealthFirst
+ADM-8959,PAT-3959,10/30/2024,11/9/2024,Cardiology,Trauma,Self-Pay
+ADM-8960,PAT-3960,11/16/2024,11/17/2024,Oncology,Emergency,Cigna
+ADM-8961,PAT-3961,12/3/2024,12/5/2024,ICU,Urgent,BlueShield
+ADM-8962,PAT-3962,12/20/2024,12/23/2024,General Surgery,Elective,Aetna
+ADM-8963,PAT-3963,1/6/2025,1/10/2025,Pediatrics,Trauma,HealthFirst
+ADM-8964,PAT-3964,1/23/2025,1/28/2025,Orthopedics,Emergency,Self-Pay
+ADM-8965,PAT-3965,2/9/2025,2/15/2025,Neurology,Urgent,Cigna
+ADM-8966,PAT-3966,2/26/2025,3/5/2025,Emergency,Elective,BlueShield
+ADM-8967,PAT-3967,3/15/2025,3/23/2025,Cardiology,Trauma,Aetna
+ADM-8968,PAT-3968,4/1/2025,4/10/2025,Oncology,Emergency,HealthFirst
+ADM-8969,PAT-3969,4/18/2025,4/28/2025,ICU,Urgent,Self-Pay
+ADM-8970,PAT-3970,5/5/2025,5/6/2025,General Surgery,Elective,Cigna
+ADM-8971,PAT-3971,5/22/2025,5/24/2025,Pediatrics,Trauma,BlueShield
+ADM-8972,PAT-3972,6/8/2025,6/11/2025,Orthopedics,Emergency,Aetna
+ADM-8973,PAT-3973,6/25/2025,6/29/2025,Neurology,Urgent,HealthFirst
+ADM-8974,PAT-3974,7/12/2025,7/17/2025,Emergency,Elective,Self-Pay
+ADM-8975,PAT-3975,7/29/2025,8/4/2025,Cardiology,Trauma,Cigna
+ADM-8976,PAT-3976,8/15/2025,8/22/2025,Oncology,Emergency,BlueShield
+ADM-8977,PAT-3977,9/1/2025,9/9/2025,ICU,Urgent,Aetna
+ADM-8978,PAT-3978,9/18/2025,9/27/2025,General Surgery,Elective,HealthFirst
+ADM-8979,PAT-3979,10/5/2025,10/15/2025,Pediatrics,Trauma,Self-Pay
+ADM-8980,PAT-3980,10/22/2025,10/23/2025,Orthopedics,Emergency,Cigna
+ADM-8981,PAT-3981,11/8/2025,11/10/2025,Neurology,Urgent,BlueShield
+ADM-8982,PAT-3982,11/25/2025,11/28/2025,Emergency,Elective,Aetna
+ADM-8983,PAT-3983,12/12/2025,12/16/2025,Cardiology,Trauma,HealthFirst
+ADM-8984,PAT-3984,12/29/2025,1/3/2026,Oncology,Emergency,Self-Pay
+ADM-8985,PAT-3985,1/15/2026,1/21/2026,ICU,Urgent,Cigna
+ADM-8986,PAT-3986,2/1/2026,2/8/2026,General Surgery,Elective,BlueShield
+ADM-8987,PAT-3987,2/18/2026,2/26/2026,Pediatrics,Trauma,Aetna
+ADM-8988,PAT-3988,3/7/2026,3/16/2026,Orthopedics,Emergency,HealthFirst
+ADM-8989,PAT-3989,3/24/2026,4/3/2026,Neurology,Urgent,Self-Pay
+ADM-8990,PAT-3990,4/10/2026,4/11/2026,Emergency,Elective,Cigna
+ADM-8991,PAT-3991,4/27/2026,4/29/2026,Cardiology,Trauma,BlueShield
+ADM-8992,PAT-3992,5/14/2026,5/17/2026,Oncology,Emergency,Aetna
+ADM-8993,PAT-3993,5/31/2026,6/4/2026,ICU,Urgent,HealthFirst
+ADM-8994,PAT-3994,6/17/2026,6/22/2026,General Surgery,Elective,Self-Pay
+ADM-8995,PAT-3995,7/4/2026,7/10/2026,Pediatrics,Trauma,Cigna
+ADM-8996,PAT-3996,7/21/2026,7/28/2026,Orthopedics,Emergency,BlueShield
+ADM-8997,PAT-3997,8/7/2026,8/15/2026,Neurology,Urgent,Aetna
+ADM-8998,PAT-3998,8/24/2026,9/2/2026,Emergency,Elective,HealthFirst
+ADM-8999,PAT-3999,9/10/2026,9/20/2026,Cardiology,Trauma,Self-Pay
+ADM-9923,PAT-3022,1/15/2025,1/16/2025,Emergency,Elective,Aetna
+ADM-9987,PAT-3023,2/2/2025,2/3/2025,Cardiology,Trauma,HealthFirst

@@ -1,0 +1,1201 @@
+DiagnosisID,AdmissionID,Primary_Diagnosis,ICD10_Code,Severity,Physician,Lab_Status,Total_Billing
+DX-4000,ADM-8400,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,53000
+DX-4001,ADM-8401,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,53037
+DX-4002,ADM-8402,Pneumonia,J15.9,High,Dr. Fisher,Ordered,53074
+DX-4003,ADM-8403,Fracture,S72.90,Critical,Dr. Bennett,Partial,53111
+DX-4004,ADM-8404,Appendicitis,K35.80,Low,Dr. Aris,Completed,53148
+DX-4005,ADM-8405,Cancer,C34.90,Medium,Dr. Gupta,Ordered,53185
+DX-4006,ADM-8406,Trauma,T14.90,High,Dr. Fisher,Partial,53222
+DX-4007,ADM-8407,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,53259
+DX-4008,ADM-8408,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,53296
+DX-4009,ADM-8409,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,53333
+DX-4010,ADM-8410,Pneumonia,J15.9,High,Dr. Fisher,Completed,53370
+DX-4011,ADM-8411,Fracture,S72.90,Critical,Dr. Bennett,Ordered,53407
+DX-4012,ADM-8412,Appendicitis,K35.80,Low,Dr. Aris,Partial,53444
+DX-4013,ADM-8413,Cancer,C34.90,Medium,Dr. Gupta,Completed,53481
+DX-4014,ADM-8414,Trauma,T14.90,High,Dr. Fisher,Ordered,53518
+DX-4015,ADM-8415,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,53555
+DX-4016,ADM-8416,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,53592
+DX-4017,ADM-8417,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,53629
+DX-4018,ADM-8418,Pneumonia,J15.9,High,Dr. Fisher,Partial,53666
+DX-4019,ADM-8419,Fracture,S72.90,Critical,Dr. Bennett,Completed,53703
+DX-4020,ADM-8420,Appendicitis,K35.80,Low,Dr. Aris,Ordered,53740
+DX-4021,ADM-8421,Cancer,C34.90,Medium,Dr. Gupta,Partial,53777
+DX-4022,ADM-8422,Trauma,T14.90,High,Dr. Fisher,Completed,53814
+DX-4023,ADM-8423,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,53851
+DX-4024,ADM-8424,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,53888
+DX-4025,ADM-8425,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,53925
+DX-4026,ADM-8426,Pneumonia,J15.9,High,Dr. Fisher,Ordered,53962
+DX-4027,ADM-8427,Fracture,S72.90,Critical,Dr. Bennett,Partial,53999
+DX-4028,ADM-8428,Appendicitis,K35.80,Low,Dr. Aris,Completed,54036
+DX-4029,ADM-8429,Cancer,C34.90,Medium,Dr. Gupta,Ordered,54073
+DX-4030,ADM-8430,Trauma,T14.90,High,Dr. Fisher,Partial,54110
+DX-4031,ADM-8431,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,54147
+DX-4032,ADM-8432,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,54184
+DX-4033,ADM-8433,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,54221
+DX-4034,ADM-8434,Pneumonia,J15.9,High,Dr. Fisher,Completed,54258
+DX-4035,ADM-8435,Fracture,S72.90,Critical,Dr. Bennett,Ordered,54295
+DX-4036,ADM-8436,Appendicitis,K35.80,Low,Dr. Aris,Partial,54332
+DX-4037,ADM-8437,Cancer,C34.90,Medium,Dr. Gupta,Completed,54369
+DX-4038,ADM-8438,Trauma,T14.90,High,Dr. Fisher,Ordered,54406
+DX-4039,ADM-8439,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,54443
+DX-4040,ADM-8440,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,54480
+DX-4041,ADM-8441,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,54517
+DX-4042,ADM-8442,Pneumonia,J15.9,High,Dr. Fisher,Partial,54554
+DX-4043,ADM-8443,Fracture,S72.90,Critical,Dr. Bennett,Completed,54591
+DX-4044,ADM-8444,Appendicitis,K35.80,Low,Dr. Aris,Ordered,54628
+DX-4045,ADM-8445,Cancer,C34.90,Medium,Dr. Gupta,Partial,54665
+DX-4046,ADM-8446,Trauma,T14.90,High,Dr. Fisher,Completed,54702
+DX-4047,ADM-8447,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,54739
+DX-4048,ADM-8448,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,54776
+DX-4049,ADM-8449,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,54813
+DX-4050,ADM-8450,Pneumonia,J15.9,High,Dr. Fisher,Ordered,54850
+DX-4051,ADM-8451,Fracture,S72.90,Critical,Dr. Bennett,Partial,54887
+DX-4052,ADM-8452,Appendicitis,K35.80,Low,Dr. Aris,Completed,54924
+DX-4053,ADM-8453,Cancer,C34.90,Medium,Dr. Gupta,Ordered,54961
+DX-4054,ADM-8454,Trauma,T14.90,High,Dr. Fisher,Partial,54998
+DX-4055,ADM-8455,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,5035
+DX-4056,ADM-8456,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,5072
+DX-4057,ADM-8457,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,5109
+DX-4058,ADM-8458,Pneumonia,J15.9,High,Dr. Fisher,Completed,5146
+DX-4059,ADM-8459,Fracture,S72.90,Critical,Dr. Bennett,Ordered,5183
+DX-4060,ADM-8460,Appendicitis,K35.80,Low,Dr. Aris,Partial,5220
+DX-4061,ADM-8461,Cancer,C34.90,Medium,Dr. Gupta,Completed,5257
+DX-4062,ADM-8462,Trauma,T14.90,High,Dr. Fisher,Ordered,5294
+DX-4063,ADM-8463,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,5331
+DX-4064,ADM-8464,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,5368
+DX-4065,ADM-8465,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,5405
+DX-4066,ADM-8466,Pneumonia,J15.9,High,Dr. Fisher,Partial,5442
+DX-4067,ADM-8467,Fracture,S72.90,Critical,Dr. Bennett,Completed,5479
+DX-4068,ADM-8468,Appendicitis,K35.80,Low,Dr. Aris,Ordered,5516
+DX-4069,ADM-8469,Cancer,C34.90,Medium,Dr. Gupta,Partial,5553
+DX-4070,ADM-8470,Trauma,T14.90,High,Dr. Fisher,Completed,5590
+DX-4071,ADM-8471,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,5627
+DX-4072,ADM-8472,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,5664
+DX-4073,ADM-8473,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,5701
+DX-4074,ADM-8474,Pneumonia,J15.9,High,Dr. Fisher,Ordered,5738
+DX-4075,ADM-8475,Fracture,S72.90,Critical,Dr. Bennett,Partial,5775
+DX-4076,ADM-8476,Appendicitis,K35.80,Low,Dr. Aris,Completed,5812
+DX-4077,ADM-8477,Cancer,C34.90,Medium,Dr. Gupta,Ordered,5849
+DX-4078,ADM-8478,Trauma,T14.90,High,Dr. Fisher,Partial,5886
+DX-4079,ADM-8479,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,5923
+DX-4080,ADM-8480,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,5960
+DX-4081,ADM-8481,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,5997
+DX-4082,ADM-8482,Pneumonia,J15.9,High,Dr. Fisher,Completed,6034
+DX-4083,ADM-8483,Fracture,S72.90,Critical,Dr. Bennett,Ordered,6071
+DX-4084,ADM-8484,Appendicitis,K35.80,Low,Dr. Aris,Partial,6108
+DX-4085,ADM-8485,Cancer,C34.90,Medium,Dr. Gupta,Completed,6145
+DX-4086,ADM-8486,Trauma,T14.90,High,Dr. Fisher,Ordered,6182
+DX-4087,ADM-8487,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,6219
+DX-4088,ADM-8488,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,6256
+DX-4089,ADM-8489,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,6293
+DX-4090,ADM-8490,Pneumonia,J15.9,High,Dr. Fisher,Partial,6330
+DX-4091,ADM-8491,Fracture,S72.90,Critical,Dr. Bennett,Completed,6367
+DX-4092,ADM-8492,Appendicitis,K35.80,Low,Dr. Aris,Ordered,6404
+DX-4093,ADM-8493,Cancer,C34.90,Medium,Dr. Gupta,Partial,6441
+DX-4094,ADM-8494,Trauma,T14.90,High,Dr. Fisher,Completed,6478
+DX-4095,ADM-8495,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,6515
+DX-4096,ADM-8496,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,6552
+DX-4097,ADM-8497,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,6589
+DX-4098,ADM-8498,Pneumonia,J15.9,High,Dr. Fisher,Ordered,6626
+DX-4099,ADM-8499,Fracture,S72.90,Critical,Dr. Bennett,Partial,6663
+DX-4100,ADM-8500,Appendicitis,K35.80,Low,Dr. Aris,Completed,6700
+DX-4101,ADM-8501,Cancer,C34.90,Medium,Dr. Gupta,Ordered,6737
+DX-4102,ADM-8502,Trauma,T14.90,High,Dr. Fisher,Partial,6774
+DX-4103,ADM-8503,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,6811
+DX-4104,ADM-8504,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,6848
+DX-4105,ADM-8505,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,6885
+DX-4106,ADM-8506,Pneumonia,J15.9,High,Dr. Fisher,Completed,6922
+DX-4107,ADM-8507,Fracture,S72.90,Critical,Dr. Bennett,Ordered,6959
+DX-4108,ADM-8508,Appendicitis,K35.80,Low,Dr. Aris,Partial,6996
+DX-4109,ADM-8509,Cancer,C34.90,Medium,Dr. Gupta,Completed,7033
+DX-4110,ADM-8510,Trauma,T14.90,High,Dr. Fisher,Ordered,7070
+DX-4111,ADM-8511,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,7107
+DX-4112,ADM-8512,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,7144
+DX-4113,ADM-8513,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,7181
+DX-4114,ADM-8514,Pneumonia,J15.9,High,Dr. Fisher,Partial,7218
+DX-4115,ADM-8515,Fracture,S72.90,Critical,Dr. Bennett,Completed,7255
+DX-4116,ADM-8516,Appendicitis,K35.80,Low,Dr. Aris,Ordered,7292
+DX-4117,ADM-8517,Cancer,C34.90,Medium,Dr. Gupta,Partial,7329
+DX-4118,ADM-8518,Trauma,T14.90,High,Dr. Fisher,Completed,7366
+DX-4119,ADM-8519,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,7403
+DX-4120,ADM-8520,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,7440
+DX-4121,ADM-8521,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,7477
+DX-4122,ADM-8522,Pneumonia,J15.9,High,Dr. Fisher,Ordered,7514
+DX-4123,ADM-8523,Fracture,S72.90,Critical,Dr. Bennett,Partial,7551
+DX-4124,ADM-8524,Appendicitis,K35.80,Low,Dr. Aris,Completed,7588
+DX-4125,ADM-8525,Cancer,C34.90,Medium,Dr. Gupta,Ordered,7625
+DX-4126,ADM-8526,Trauma,T14.90,High,Dr. Fisher,Partial,7662
+DX-4127,ADM-8527,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,7699
+DX-4128,ADM-8528,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,7736
+DX-4129,ADM-8529,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,7773
+DX-4130,ADM-8530,Pneumonia,J15.9,High,Dr. Fisher,Completed,7810
+DX-4131,ADM-8531,Fracture,S72.90,Critical,Dr. Bennett,Ordered,7847
+DX-4132,ADM-8532,Appendicitis,K35.80,Low,Dr. Aris,Partial,7884
+DX-4133,ADM-8533,Cancer,C34.90,Medium,Dr. Gupta,Completed,7921
+DX-4134,ADM-8534,Trauma,T14.90,High,Dr. Fisher,Ordered,7958
+DX-4135,ADM-8535,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,7995
+DX-4136,ADM-8536,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,8032
+DX-4137,ADM-8537,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,8069
+DX-4138,ADM-8538,Pneumonia,J15.9,High,Dr. Fisher,Partial,8106
+DX-4139,ADM-8539,Fracture,S72.90,Critical,Dr. Bennett,Completed,8143
+DX-4140,ADM-8540,Appendicitis,K35.80,Low,Dr. Aris,Ordered,8180
+DX-4141,ADM-8541,Cancer,C34.90,Medium,Dr. Gupta,Partial,8217
+DX-4142,ADM-8542,Trauma,T14.90,High,Dr. Fisher,Completed,8254
+DX-4143,ADM-8543,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,8291
+DX-4144,ADM-8544,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,8328
+DX-4145,ADM-8545,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,8365
+DX-4146,ADM-8546,Pneumonia,J15.9,High,Dr. Fisher,Ordered,8402
+DX-4147,ADM-8547,Fracture,S72.90,Critical,Dr. Bennett,Partial,8439
+DX-4148,ADM-8548,Appendicitis,K35.80,Low,Dr. Aris,Completed,8476
+DX-4149,ADM-8549,Cancer,C34.90,Medium,Dr. Gupta,Ordered,8513
+DX-4150,ADM-8550,Trauma,T14.90,High,Dr. Fisher,Partial,8550
+DX-4151,ADM-8551,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,8587
+DX-4152,ADM-8552,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,8624
+DX-4153,ADM-8553,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,8661
+DX-4154,ADM-8554,Pneumonia,J15.9,High,Dr. Fisher,Completed,8698
+DX-4155,ADM-8555,Fracture,S72.90,Critical,Dr. Bennett,Ordered,8735
+DX-4156,ADM-8556,Appendicitis,K35.80,Low,Dr. Aris,Partial,8772
+DX-4157,ADM-8557,Cancer,C34.90,Medium,Dr. Gupta,Completed,8809
+DX-4158,ADM-8558,Trauma,T14.90,High,Dr. Fisher,Ordered,8846
+DX-4159,ADM-8559,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,8883
+DX-4160,ADM-8560,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,8920
+DX-4161,ADM-8561,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,8957
+DX-4162,ADM-8562,Pneumonia,J15.9,High,Dr. Fisher,Partial,8994
+DX-4163,ADM-8563,Fracture,S72.90,Critical,Dr. Bennett,Completed,9031
+DX-4164,ADM-8564,Appendicitis,K35.80,Low,Dr. Aris,Ordered,9068
+DX-4165,ADM-8565,Cancer,C34.90,Medium,Dr. Gupta,Partial,9105
+DX-4166,ADM-8566,Trauma,T14.90,High,Dr. Fisher,Completed,9142
+DX-4167,ADM-8567,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,9179
+DX-4168,ADM-8568,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,9216
+DX-4169,ADM-8569,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,9253
+DX-4170,ADM-8570,Pneumonia,J15.9,High,Dr. Fisher,Ordered,9290
+DX-4171,ADM-8571,Fracture,S72.90,Critical,Dr. Bennett,Partial,9327
+DX-4172,ADM-8572,Appendicitis,K35.80,Low,Dr. Aris,Completed,9364
+DX-4173,ADM-8573,Cancer,C34.90,Medium,Dr. Gupta,Ordered,9401
+DX-4174,ADM-8574,Trauma,T14.90,High,Dr. Fisher,Partial,9438
+DX-4175,ADM-8575,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,9475
+DX-4176,ADM-8576,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,9512
+DX-4177,ADM-8577,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,9549
+DX-4178,ADM-8578,Pneumonia,J15.9,High,Dr. Fisher,Completed,9586
+DX-4179,ADM-8579,Fracture,S72.90,Critical,Dr. Bennett,Ordered,9623
+DX-4180,ADM-8580,Appendicitis,K35.80,Low,Dr. Aris,Partial,9660
+DX-4181,ADM-8581,Cancer,C34.90,Medium,Dr. Gupta,Completed,9697
+DX-4182,ADM-8582,Trauma,T14.90,High,Dr. Fisher,Ordered,9734
+DX-4183,ADM-8583,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,9771
+DX-4184,ADM-8584,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,9808
+DX-4185,ADM-8585,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,9845
+DX-4186,ADM-8586,Pneumonia,J15.9,High,Dr. Fisher,Partial,9882
+DX-4187,ADM-8587,Fracture,S72.90,Critical,Dr. Bennett,Completed,9919
+DX-4188,ADM-8588,Appendicitis,K35.80,Low,Dr. Aris,Ordered,9956
+DX-4189,ADM-8589,Cancer,C34.90,Medium,Dr. Gupta,Partial,9993
+DX-4190,ADM-8590,Trauma,T14.90,High,Dr. Fisher,Completed,10030
+DX-4191,ADM-8591,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,10067
+DX-4192,ADM-8592,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,10104
+DX-4193,ADM-8593,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,10141
+DX-4194,ADM-8594,Pneumonia,J15.9,High,Dr. Fisher,Ordered,10178
+DX-4195,ADM-8595,Fracture,S72.90,Critical,Dr. Bennett,Partial,10215
+DX-4196,ADM-8596,Appendicitis,K35.80,Low,Dr. Aris,Completed,10252
+DX-4197,ADM-8597,Cancer,C34.90,Medium,Dr. Gupta,Ordered,10289
+DX-4198,ADM-8598,Trauma,T14.90,High,Dr. Fisher,Partial,10326
+DX-4199,ADM-8599,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,10363
+DX-4200,ADM-8600,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,10400
+DX-4201,ADM-8601,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,10437
+DX-4202,ADM-8602,Pneumonia,J15.9,High,Dr. Fisher,Completed,10474
+DX-4203,ADM-8603,Fracture,S72.90,Critical,Dr. Bennett,Ordered,10511
+DX-4204,ADM-8604,Appendicitis,K35.80,Low,Dr. Aris,Partial,10548
+DX-4205,ADM-8605,Cancer,C34.90,Medium,Dr. Gupta,Completed,10585
+DX-4206,ADM-8606,Trauma,T14.90,High,Dr. Fisher,Ordered,10622
+DX-4207,ADM-8607,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,10659
+DX-4208,ADM-8608,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,10696
+DX-4209,ADM-8609,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,10733
+DX-4210,ADM-8610,Pneumonia,J15.9,High,Dr. Fisher,Partial,10770
+DX-4211,ADM-8611,Fracture,S72.90,Critical,Dr. Bennett,Completed,10807
+DX-4212,ADM-8612,Appendicitis,K35.80,Low,Dr. Aris,Ordered,10844
+DX-4213,ADM-8613,Cancer,C34.90,Medium,Dr. Gupta,Partial,10881
+DX-4214,ADM-8614,Trauma,T14.90,High,Dr. Fisher,Completed,10918
+DX-4215,ADM-8615,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,10955
+DX-4216,ADM-8616,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,10992
+DX-4217,ADM-8617,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,11029
+DX-4218,ADM-8618,Pneumonia,J15.9,High,Dr. Fisher,Ordered,11066
+DX-4219,ADM-8619,Fracture,S72.90,Critical,Dr. Bennett,Partial,11103
+DX-4220,ADM-8620,Appendicitis,K35.80,Low,Dr. Aris,Completed,11140
+DX-4221,ADM-8621,Cancer,C34.90,Medium,Dr. Gupta,Ordered,11177
+DX-4222,ADM-8622,Trauma,T14.90,High,Dr. Fisher,Partial,11214
+DX-4223,ADM-8623,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,11251
+DX-4224,ADM-8624,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,11288
+DX-4225,ADM-8625,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,11325
+DX-4226,ADM-8626,Pneumonia,J15.9,High,Dr. Fisher,Completed,11362
+DX-4227,ADM-8627,Fracture,S72.90,Critical,Dr. Bennett,Ordered,11399
+DX-4228,ADM-8628,Appendicitis,K35.80,Low,Dr. Aris,Partial,11436
+DX-4229,ADM-8629,Cancer,C34.90,Medium,Dr. Gupta,Completed,11473
+DX-4230,ADM-8630,Trauma,T14.90,High,Dr. Fisher,Ordered,11510
+DX-4231,ADM-8631,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,11547
+DX-4232,ADM-8632,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,11584
+DX-4233,ADM-8633,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,11621
+DX-4234,ADM-8634,Pneumonia,J15.9,High,Dr. Fisher,Partial,11658
+DX-4235,ADM-8635,Fracture,S72.90,Critical,Dr. Bennett,Completed,11695
+DX-4236,ADM-8636,Appendicitis,K35.80,Low,Dr. Aris,Ordered,11732
+DX-4237,ADM-8637,Cancer,C34.90,Medium,Dr. Gupta,Partial,11769
+DX-4238,ADM-8638,Trauma,T14.90,High,Dr. Fisher,Completed,11806
+DX-4239,ADM-8639,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,11843
+DX-4240,ADM-8640,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,11880
+DX-4241,ADM-8641,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,11917
+DX-4242,ADM-8642,Pneumonia,J15.9,High,Dr. Fisher,Ordered,11954
+DX-4243,ADM-8643,Fracture,S72.90,Critical,Dr. Bennett,Partial,11991
+DX-4244,ADM-8644,Appendicitis,K35.80,Low,Dr. Aris,Completed,12028
+DX-4245,ADM-8645,Cancer,C34.90,Medium,Dr. Gupta,Ordered,12065
+DX-4246,ADM-8646,Trauma,T14.90,High,Dr. Fisher,Partial,12102
+DX-4247,ADM-8647,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,12139
+DX-4248,ADM-8648,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,12176
+DX-4249,ADM-8649,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,12213
+DX-4250,ADM-8650,Pneumonia,J15.9,High,Dr. Fisher,Completed,12250
+DX-4251,ADM-8651,Fracture,S72.90,Critical,Dr. Bennett,Ordered,12287
+DX-4252,ADM-8652,Appendicitis,K35.80,Low,Dr. Aris,Partial,12324
+DX-4253,ADM-8653,Cancer,C34.90,Medium,Dr. Gupta,Completed,12361
+DX-4254,ADM-8654,Trauma,T14.90,High,Dr. Fisher,Ordered,12398
+DX-4255,ADM-8655,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,12435
+DX-4256,ADM-8656,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,12472
+DX-4257,ADM-8657,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,12509
+DX-4258,ADM-8658,Pneumonia,J15.9,High,Dr. Fisher,Partial,12546
+DX-4259,ADM-8659,Fracture,S72.90,Critical,Dr. Bennett,Completed,12583
+DX-4260,ADM-8660,Appendicitis,K35.80,Low,Dr. Aris,Ordered,12620
+DX-4261,ADM-8661,Cancer,C34.90,Medium,Dr. Gupta,Partial,12657
+DX-4262,ADM-8662,Trauma,T14.90,High,Dr. Fisher,Completed,12694
+DX-4263,ADM-8663,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,12731
+DX-4264,ADM-8664,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,12768
+DX-4265,ADM-8665,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,12805
+DX-4266,ADM-8666,Pneumonia,J15.9,High,Dr. Fisher,Ordered,12842
+DX-4267,ADM-8667,Fracture,S72.90,Critical,Dr. Bennett,Partial,12879
+DX-4268,ADM-8668,Appendicitis,K35.80,Low,Dr. Aris,Completed,12916
+DX-4269,ADM-8669,Cancer,C34.90,Medium,Dr. Gupta,Ordered,12953
+DX-4270,ADM-8670,Trauma,T14.90,High,Dr. Fisher,Partial,12990
+DX-4271,ADM-8671,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,13027
+DX-4272,ADM-8672,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,13064
+DX-4273,ADM-8673,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,13101
+DX-4274,ADM-8674,Pneumonia,J15.9,High,Dr. Fisher,Completed,13138
+DX-4275,ADM-8675,Fracture,S72.90,Critical,Dr. Bennett,Ordered,13175
+DX-4276,ADM-8676,Appendicitis,K35.80,Low,Dr. Aris,Partial,13212
+DX-4277,ADM-8677,Cancer,C34.90,Medium,Dr. Gupta,Completed,13249
+DX-4278,ADM-8678,Trauma,T14.90,High,Dr. Fisher,Ordered,13286
+DX-4279,ADM-8679,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,13323
+DX-4280,ADM-8680,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,13360
+DX-4281,ADM-8681,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,13397
+DX-4282,ADM-8682,Pneumonia,J15.9,High,Dr. Fisher,Partial,13434
+DX-4283,ADM-8683,Fracture,S72.90,Critical,Dr. Bennett,Completed,13471
+DX-4284,ADM-8684,Appendicitis,K35.80,Low,Dr. Aris,Ordered,13508
+DX-4285,ADM-8685,Cancer,C34.90,Medium,Dr. Gupta,Partial,13545
+DX-4286,ADM-8686,Trauma,T14.90,High,Dr. Fisher,Completed,13582
+DX-4287,ADM-8687,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,13619
+DX-4288,ADM-8688,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,13656
+DX-4289,ADM-8689,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,13693
+DX-4290,ADM-8690,Pneumonia,J15.9,High,Dr. Fisher,Ordered,13730
+DX-4291,ADM-8691,Fracture,S72.90,Critical,Dr. Bennett,Partial,13767
+DX-4292,ADM-8692,Appendicitis,K35.80,Low,Dr. Aris,Completed,13804
+DX-4293,ADM-8693,Cancer,C34.90,Medium,Dr. Gupta,Ordered,13841
+DX-4294,ADM-8694,Trauma,T14.90,High,Dr. Fisher,Partial,13878
+DX-4295,ADM-8695,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,13915
+DX-4296,ADM-8696,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,13952
+DX-4297,ADM-8697,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,13989
+DX-4298,ADM-8698,Pneumonia,J15.9,High,Dr. Fisher,Completed,14026
+DX-4299,ADM-8699,Fracture,S72.90,Critical,Dr. Bennett,Ordered,14063
+DX-4300,ADM-8700,Appendicitis,K35.80,Low,Dr. Aris,Partial,14100
+DX-4301,ADM-8701,Cancer,C34.90,Medium,Dr. Gupta,Completed,14137
+DX-4302,ADM-8702,Trauma,T14.90,High,Dr. Fisher,Ordered,14174
+DX-4303,ADM-8703,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,14211
+DX-4304,ADM-8704,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,14248
+DX-4305,ADM-8705,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,14285
+DX-4306,ADM-8706,Pneumonia,J15.9,High,Dr. Fisher,Partial,14322
+DX-4307,ADM-8707,Fracture,S72.90,Critical,Dr. Bennett,Completed,14359
+DX-4308,ADM-8708,Appendicitis,K35.80,Low,Dr. Aris,Ordered,14396
+DX-4309,ADM-8709,Cancer,C34.90,Medium,Dr. Gupta,Partial,14433
+DX-4310,ADM-8710,Trauma,T14.90,High,Dr. Fisher,Completed,14470
+DX-4311,ADM-8711,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,14507
+DX-4312,ADM-8712,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,14544
+DX-4313,ADM-8713,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,14581
+DX-4314,ADM-8714,Pneumonia,J15.9,High,Dr. Fisher,Ordered,14618
+DX-4315,ADM-8715,Fracture,S72.90,Critical,Dr. Bennett,Partial,14655
+DX-4316,ADM-8716,Appendicitis,K35.80,Low,Dr. Aris,Completed,14692
+DX-4317,ADM-8717,Cancer,C34.90,Medium,Dr. Gupta,Ordered,14729
+DX-4318,ADM-8718,Trauma,T14.90,High,Dr. Fisher,Partial,14766
+DX-4319,ADM-8719,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,14803
+DX-4320,ADM-8720,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,14840
+DX-4321,ADM-8721,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,14877
+DX-4322,ADM-8722,Pneumonia,J15.9,High,Dr. Fisher,Completed,14914
+DX-4323,ADM-8723,Fracture,S72.90,Critical,Dr. Bennett,Ordered,14951
+DX-4324,ADM-8724,Appendicitis,K35.80,Low,Dr. Aris,Partial,14988
+DX-4325,ADM-8725,Cancer,C34.90,Medium,Dr. Gupta,Completed,15025
+DX-4326,ADM-8726,Trauma,T14.90,High,Dr. Fisher,Ordered,15062
+DX-4327,ADM-8727,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,15099
+DX-4328,ADM-8728,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,15136
+DX-4329,ADM-8729,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,15173
+DX-4330,ADM-8730,Pneumonia,J15.9,High,Dr. Fisher,Partial,15210
+DX-4331,ADM-8731,Fracture,S72.90,Critical,Dr. Bennett,Completed,15247
+DX-4332,ADM-8732,Appendicitis,K35.80,Low,Dr. Aris,Ordered,15284
+DX-4333,ADM-8733,Cancer,C34.90,Medium,Dr. Gupta,Partial,15321
+DX-4334,ADM-8734,Trauma,T14.90,High,Dr. Fisher,Completed,15358
+DX-4335,ADM-8735,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,15395
+DX-4336,ADM-8736,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,15432
+DX-4337,ADM-8737,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,15469
+DX-4338,ADM-8738,Pneumonia,J15.9,High,Dr. Fisher,Ordered,15506
+DX-4339,ADM-8739,Fracture,S72.90,Critical,Dr. Bennett,Partial,15543
+DX-4340,ADM-8740,Appendicitis,K35.80,Low,Dr. Aris,Completed,15580
+DX-4341,ADM-8741,Cancer,C34.90,Medium,Dr. Gupta,Ordered,15617
+DX-4342,ADM-8742,Trauma,T14.90,High,Dr. Fisher,Partial,15654
+DX-4343,ADM-8743,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,15691
+DX-4344,ADM-8744,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,15728
+DX-4345,ADM-8745,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,15765
+DX-4346,ADM-8746,Pneumonia,J15.9,High,Dr. Fisher,Completed,15802
+DX-4347,ADM-8747,Fracture,S72.90,Critical,Dr. Bennett,Ordered,15839
+DX-4348,ADM-8748,Appendicitis,K35.80,Low,Dr. Aris,Partial,15876
+DX-4349,ADM-8749,Cancer,C34.90,Medium,Dr. Gupta,Completed,15913
+DX-4350,ADM-8750,Trauma,T14.90,High,Dr. Fisher,Ordered,15950
+DX-4351,ADM-8751,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,15987
+DX-4352,ADM-8752,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,16024
+DX-4353,ADM-8753,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,16061
+DX-4354,ADM-8754,Pneumonia,J15.9,High,Dr. Fisher,Partial,16098
+DX-4355,ADM-8755,Fracture,S72.90,Critical,Dr. Bennett,Completed,16135
+DX-4356,ADM-8756,Appendicitis,K35.80,Low,Dr. Aris,Ordered,16172
+DX-4357,ADM-8757,Cancer,C34.90,Medium,Dr. Gupta,Partial,16209
+DX-4358,ADM-8758,Trauma,T14.90,High,Dr. Fisher,Completed,16246
+DX-4359,ADM-8759,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,16283
+DX-4360,ADM-8760,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,16320
+DX-4361,ADM-8761,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,16357
+DX-4362,ADM-8762,Pneumonia,J15.9,High,Dr. Fisher,Ordered,16394
+DX-4363,ADM-8763,Fracture,S72.90,Critical,Dr. Bennett,Partial,16431
+DX-4364,ADM-8764,Appendicitis,K35.80,Low,Dr. Aris,Completed,16468
+DX-4365,ADM-8765,Cancer,C34.90,Medium,Dr. Gupta,Ordered,16505
+DX-4366,ADM-8766,Trauma,T14.90,High,Dr. Fisher,Partial,16542
+DX-4367,ADM-8767,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,16579
+DX-4368,ADM-8768,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,16616
+DX-4369,ADM-8769,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,16653
+DX-4370,ADM-8770,Pneumonia,J15.9,High,Dr. Fisher,Completed,16690
+DX-4371,ADM-8771,Fracture,S72.90,Critical,Dr. Bennett,Ordered,16727
+DX-4372,ADM-8772,Appendicitis,K35.80,Low,Dr. Aris,Partial,16764
+DX-4373,ADM-8773,Cancer,C34.90,Medium,Dr. Gupta,Completed,16801
+DX-4374,ADM-8774,Trauma,T14.90,High,Dr. Fisher,Ordered,16838
+DX-4375,ADM-8775,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,16875
+DX-4376,ADM-8776,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,16912
+DX-4377,ADM-8777,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,16949
+DX-4378,ADM-8778,Pneumonia,J15.9,High,Dr. Fisher,Partial,16986
+DX-4379,ADM-8779,Fracture,S72.90,Critical,Dr. Bennett,Completed,17023
+DX-4380,ADM-8780,Appendicitis,K35.80,Low,Dr. Aris,Ordered,17060
+DX-4381,ADM-8781,Cancer,C34.90,Medium,Dr. Gupta,Partial,17097
+DX-4382,ADM-8782,Trauma,T14.90,High,Dr. Fisher,Completed,17134
+DX-4383,ADM-8783,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,17171
+DX-4384,ADM-8784,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,17208
+DX-4385,ADM-8785,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,17245
+DX-4386,ADM-8786,Pneumonia,J15.9,High,Dr. Fisher,Ordered,17282
+DX-4387,ADM-8787,Fracture,S72.90,Critical,Dr. Bennett,Partial,17319
+DX-4388,ADM-8788,Appendicitis,K35.80,Low,Dr. Aris,Completed,17356
+DX-4389,ADM-8789,Cancer,C34.90,Medium,Dr. Gupta,Ordered,17393
+DX-4390,ADM-8790,Trauma,T14.90,High,Dr. Fisher,Partial,17430
+DX-4391,ADM-8791,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,17467
+DX-4392,ADM-8792,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,17504
+DX-4393,ADM-8793,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,17541
+DX-4394,ADM-8794,Pneumonia,J15.9,High,Dr. Fisher,Completed,17578
+DX-4395,ADM-8795,Fracture,S72.90,Critical,Dr. Bennett,Ordered,17615
+DX-4396,ADM-8796,Appendicitis,K35.80,Low,Dr. Aris,Partial,17652
+DX-4397,ADM-8797,Cancer,C34.90,Medium,Dr. Gupta,Completed,17689
+DX-4398,ADM-8798,Trauma,T14.90,High,Dr. Fisher,Ordered,17726
+DX-4399,ADM-8799,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,17763
+DX-4400,ADM-8800,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,17800
+DX-4401,ADM-8801,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,17837
+DX-4402,ADM-8802,Pneumonia,J15.9,High,Dr. Fisher,Partial,17874
+DX-4403,ADM-8803,Fracture,S72.90,Critical,Dr. Bennett,Completed,17911
+DX-4404,ADM-8804,Appendicitis,K35.80,Low,Dr. Aris,Ordered,17948
+DX-4405,ADM-8805,Cancer,C34.90,Medium,Dr. Gupta,Partial,17985
+DX-4406,ADM-8806,Trauma,T14.90,High,Dr. Fisher,Completed,18022
+DX-4407,ADM-8807,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,18059
+DX-4408,ADM-8808,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,18096
+DX-4409,ADM-8809,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,18133
+DX-4410,ADM-8810,Pneumonia,J15.9,High,Dr. Fisher,Ordered,18170
+DX-4411,ADM-8811,Fracture,S72.90,Critical,Dr. Bennett,Partial,18207
+DX-4412,ADM-8812,Appendicitis,K35.80,Low,Dr. Aris,Completed,18244
+DX-4413,ADM-8813,Cancer,C34.90,Medium,Dr. Gupta,Ordered,18281
+DX-4414,ADM-8814,Trauma,T14.90,High,Dr. Fisher,Partial,18318
+DX-4415,ADM-8815,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,18355
+DX-4416,ADM-8816,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,18392
+DX-4417,ADM-8817,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,18429
+DX-4418,ADM-8818,Pneumonia,J15.9,High,Dr. Fisher,Completed,18466
+DX-4419,ADM-8819,Fracture,S72.90,Critical,Dr. Bennett,Ordered,18503
+DX-4420,ADM-8820,Appendicitis,K35.80,Low,Dr. Aris,Partial,18540
+DX-4421,ADM-8821,Cancer,C34.90,Medium,Dr. Gupta,Completed,18577
+DX-4422,ADM-8822,Trauma,T14.90,High,Dr. Fisher,Ordered,18614
+DX-4423,ADM-8823,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,18651
+DX-4424,ADM-8824,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,18688
+DX-4425,ADM-8825,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,18725
+DX-4426,ADM-8826,Pneumonia,J15.9,High,Dr. Fisher,Partial,18762
+DX-4427,ADM-8827,Fracture,S72.90,Critical,Dr. Bennett,Completed,18799
+DX-4428,ADM-8828,Appendicitis,K35.80,Low,Dr. Aris,Ordered,18836
+DX-4429,ADM-8829,Cancer,C34.90,Medium,Dr. Gupta,Partial,18873
+DX-4430,ADM-8830,Trauma,T14.90,High,Dr. Fisher,Completed,18910
+DX-4431,ADM-8831,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,18947
+DX-4432,ADM-8832,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,18984
+DX-4433,ADM-8833,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,19021
+DX-4434,ADM-8834,Pneumonia,J15.9,High,Dr. Fisher,Ordered,19058
+DX-4435,ADM-8835,Fracture,S72.90,Critical,Dr. Bennett,Partial,19095
+DX-4436,ADM-8836,Appendicitis,K35.80,Low,Dr. Aris,Completed,19132
+DX-4437,ADM-8837,Cancer,C34.90,Medium,Dr. Gupta,Ordered,19169
+DX-4438,ADM-8838,Trauma,T14.90,High,Dr. Fisher,Partial,19206
+DX-4439,ADM-8839,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,19243
+DX-4440,ADM-8840,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,19280
+DX-4441,ADM-8841,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,19317
+DX-4442,ADM-8842,Pneumonia,J15.9,High,Dr. Fisher,Completed,19354
+DX-4443,ADM-8843,Fracture,S72.90,Critical,Dr. Bennett,Ordered,19391
+DX-4444,ADM-8844,Appendicitis,K35.80,Low,Dr. Aris,Partial,19428
+DX-4445,ADM-8845,Cancer,C34.90,Medium,Dr. Gupta,Completed,19465
+DX-4446,ADM-8846,Trauma,T14.90,High,Dr. Fisher,Ordered,19502
+DX-4447,ADM-8847,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,19539
+DX-4448,ADM-8848,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,19576
+DX-4449,ADM-8849,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,19613
+DX-4450,ADM-8850,Pneumonia,J15.9,High,Dr. Fisher,Partial,19650
+DX-4451,ADM-8851,Fracture,S72.90,Critical,Dr. Bennett,Completed,19687
+DX-4452,ADM-8852,Appendicitis,K35.80,Low,Dr. Aris,Ordered,19724
+DX-4453,ADM-8853,Cancer,C34.90,Medium,Dr. Gupta,Partial,19761
+DX-4454,ADM-8854,Trauma,T14.90,High,Dr. Fisher,Completed,19798
+DX-4455,ADM-8855,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,19835
+DX-4456,ADM-8856,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,19872
+DX-4457,ADM-8857,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,19909
+DX-4458,ADM-8858,Pneumonia,J15.9,High,Dr. Fisher,Ordered,19946
+DX-4459,ADM-8859,Fracture,S72.90,Critical,Dr. Bennett,Partial,19983
+DX-4460,ADM-8860,Appendicitis,K35.80,Low,Dr. Aris,Completed,20020
+DX-4461,ADM-8861,Cancer,C34.90,Medium,Dr. Gupta,Ordered,20057
+DX-4462,ADM-8862,Trauma,T14.90,High,Dr. Fisher,Partial,20094
+DX-4463,ADM-8863,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,20131
+DX-4464,ADM-8864,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,20168
+DX-4465,ADM-8865,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,20205
+DX-4466,ADM-8866,Pneumonia,J15.9,High,Dr. Fisher,Completed,20242
+DX-4467,ADM-8867,Fracture,S72.90,Critical,Dr. Bennett,Ordered,20279
+DX-4468,ADM-8868,Appendicitis,K35.80,Low,Dr. Aris,Partial,20316
+DX-4469,ADM-8869,Cancer,C34.90,Medium,Dr. Gupta,Completed,20353
+DX-4470,ADM-8870,Trauma,T14.90,High,Dr. Fisher,Ordered,20390
+DX-4471,ADM-8871,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,20427
+DX-4472,ADM-8872,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,20464
+DX-4473,ADM-8873,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,20501
+DX-4474,ADM-8874,Pneumonia,J15.9,High,Dr. Fisher,Partial,20538
+DX-4475,ADM-8875,Fracture,S72.90,Critical,Dr. Bennett,Completed,20575
+DX-4476,ADM-8876,Appendicitis,K35.80,Low,Dr. Aris,Ordered,20612
+DX-4477,ADM-8877,Cancer,C34.90,Medium,Dr. Gupta,Partial,20649
+DX-4478,ADM-8878,Trauma,T14.90,High,Dr. Fisher,Completed,20686
+DX-4479,ADM-8879,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,20723
+DX-4480,ADM-8880,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,20760
+DX-4481,ADM-8881,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,20797
+DX-4482,ADM-8882,Pneumonia,J15.9,High,Dr. Fisher,Ordered,20834
+DX-4483,ADM-8883,Fracture,S72.90,Critical,Dr. Bennett,Partial,20871
+DX-4484,ADM-8884,Appendicitis,K35.80,Low,Dr. Aris,Completed,20908
+DX-4485,ADM-8885,Cancer,C34.90,Medium,Dr. Gupta,Ordered,20945
+DX-4486,ADM-8886,Trauma,T14.90,High,Dr. Fisher,Partial,20982
+DX-4487,ADM-8887,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,21019
+DX-4488,ADM-8888,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,21056
+DX-4489,ADM-8889,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,21093
+DX-4490,ADM-8890,Pneumonia,J15.9,High,Dr. Fisher,Completed,21130
+DX-4491,ADM-8891,Fracture,S72.90,Critical,Dr. Bennett,Ordered,21167
+DX-4492,ADM-8892,Appendicitis,K35.80,Low,Dr. Aris,Partial,21204
+DX-4493,ADM-8893,Cancer,C34.90,Medium,Dr. Gupta,Completed,21241
+DX-4494,ADM-8894,Trauma,T14.90,High,Dr. Fisher,Ordered,21278
+DX-4495,ADM-8895,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,21315
+DX-4496,ADM-8896,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,21352
+DX-4497,ADM-8897,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,21389
+DX-4498,ADM-8898,Pneumonia,J15.9,High,Dr. Fisher,Partial,21426
+DX-4499,ADM-8899,Fracture,S72.90,Critical,Dr. Bennett,Completed,21463
+DX-4500,ADM-8900,Appendicitis,K35.80,Low,Dr. Aris,Ordered,21500
+DX-4501,ADM-8901,Cancer,C34.90,Medium,Dr. Gupta,Partial,21537
+DX-4502,ADM-8902,Trauma,T14.90,High,Dr. Fisher,Completed,21574
+DX-4503,ADM-8903,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,21611
+DX-4504,ADM-8904,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,21648
+DX-4505,ADM-8905,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,21685
+DX-4506,ADM-8906,Pneumonia,J15.9,High,Dr. Fisher,Ordered,21722
+DX-4507,ADM-8907,Fracture,S72.90,Critical,Dr. Bennett,Partial,21759
+DX-4508,ADM-8908,Appendicitis,K35.80,Low,Dr. Aris,Completed,21796
+DX-4509,ADM-8909,Cancer,C34.90,Medium,Dr. Gupta,Ordered,21833
+DX-4510,ADM-8910,Trauma,T14.90,High,Dr. Fisher,Partial,21870
+DX-4511,ADM-8911,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,21907
+DX-4512,ADM-8912,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,21944
+DX-4513,ADM-8913,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,21981
+DX-4514,ADM-8914,Pneumonia,J15.9,High,Dr. Fisher,Completed,22018
+DX-4515,ADM-8915,Fracture,S72.90,Critical,Dr. Bennett,Ordered,22055
+DX-4516,ADM-8916,Appendicitis,K35.80,Low,Dr. Aris,Partial,22092
+DX-4517,ADM-8917,Cancer,C34.90,Medium,Dr. Gupta,Completed,22129
+DX-4518,ADM-8918,Trauma,T14.90,High,Dr. Fisher,Ordered,22166
+DX-4519,ADM-8919,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,22203
+DX-4520,ADM-8920,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,22240
+DX-4521,ADM-8921,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,22277
+DX-4522,ADM-8922,Pneumonia,J15.9,High,Dr. Fisher,Partial,22314
+DX-4523,ADM-8923,Fracture,S72.90,Critical,Dr. Bennett,Completed,22351
+DX-4524,ADM-8924,Appendicitis,K35.80,Low,Dr. Aris,Ordered,22388
+DX-4525,ADM-8925,Cancer,C34.90,Medium,Dr. Gupta,Partial,22425
+DX-4526,ADM-8926,Trauma,T14.90,High,Dr. Fisher,Completed,22462
+DX-4527,ADM-8927,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,22499
+DX-4528,ADM-8928,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,22536
+DX-4529,ADM-8929,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,22573
+DX-4530,ADM-8930,Pneumonia,J15.9,High,Dr. Fisher,Ordered,22610
+DX-4531,ADM-8931,Fracture,S72.90,Critical,Dr. Bennett,Partial,22647
+DX-4532,ADM-8932,Appendicitis,K35.80,Low,Dr. Aris,Completed,22684
+DX-4533,ADM-8933,Cancer,C34.90,Medium,Dr. Gupta,Ordered,22721
+DX-4534,ADM-8934,Trauma,T14.90,High,Dr. Fisher,Partial,22758
+DX-4535,ADM-8935,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,22795
+DX-4536,ADM-8936,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,22832
+DX-4537,ADM-8937,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,22869
+DX-4538,ADM-8938,Pneumonia,J15.9,High,Dr. Fisher,Completed,22906
+DX-4539,ADM-8939,Fracture,S72.90,Critical,Dr. Bennett,Ordered,22943
+DX-4540,ADM-8940,Appendicitis,K35.80,Low,Dr. Aris,Partial,22980
+DX-4541,ADM-8941,Cancer,C34.90,Medium,Dr. Gupta,Completed,23017
+DX-4542,ADM-8942,Trauma,T14.90,High,Dr. Fisher,Ordered,23054
+DX-4543,ADM-8943,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,23091
+DX-4544,ADM-8944,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,23128
+DX-4545,ADM-8945,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,23165
+DX-4546,ADM-8946,Pneumonia,J15.9,High,Dr. Fisher,Partial,23202
+DX-4547,ADM-8947,Fracture,S72.90,Critical,Dr. Bennett,Completed,23239
+DX-4548,ADM-8948,Appendicitis,K35.80,Low,Dr. Aris,Ordered,23276
+DX-4549,ADM-8949,Cancer,C34.90,Medium,Dr. Gupta,Partial,23313
+DX-4550,ADM-8950,Trauma,T14.90,High,Dr. Fisher,Completed,23350
+DX-4551,ADM-8951,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,23387
+DX-4552,ADM-8952,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,23424
+DX-4553,ADM-8953,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,23461
+DX-4554,ADM-8954,Pneumonia,J15.9,High,Dr. Fisher,Ordered,23498
+DX-4555,ADM-8955,Fracture,S72.90,Critical,Dr. Bennett,Partial,23535
+DX-4556,ADM-8956,Appendicitis,K35.80,Low,Dr. Aris,Completed,23572
+DX-4557,ADM-8957,Cancer,C34.90,Medium,Dr. Gupta,Ordered,23609
+DX-4558,ADM-8958,Trauma,T14.90,High,Dr. Fisher,Partial,23646
+DX-4559,ADM-8959,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,23683
+DX-4560,ADM-8960,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,23720
+DX-4561,ADM-8961,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,23757
+DX-4562,ADM-8962,Pneumonia,J15.9,High,Dr. Fisher,Completed,23794
+DX-4563,ADM-8963,Fracture,S72.90,Critical,Dr. Bennett,Ordered,23831
+DX-4564,ADM-8964,Appendicitis,K35.80,Low,Dr. Aris,Partial,23868
+DX-4565,ADM-8965,Cancer,C34.90,Medium,Dr. Gupta,Completed,23905
+DX-4566,ADM-8966,Trauma,T14.90,High,Dr. Fisher,Ordered,23942
+DX-4567,ADM-8967,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,23979
+DX-4568,ADM-8968,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,24016
+DX-4569,ADM-8969,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,24053
+DX-4570,ADM-8970,Pneumonia,J15.9,High,Dr. Fisher,Partial,24090
+DX-4571,ADM-8971,Fracture,S72.90,Critical,Dr. Bennett,Completed,24127
+DX-4572,ADM-8972,Appendicitis,K35.80,Low,Dr. Aris,Ordered,24164
+DX-4573,ADM-8973,Cancer,C34.90,Medium,Dr. Gupta,Partial,24201
+DX-4574,ADM-8974,Trauma,T14.90,High,Dr. Fisher,Completed,24238
+DX-4575,ADM-8975,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,24275
+DX-4576,ADM-8976,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,24312
+DX-4577,ADM-8977,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,24349
+DX-4578,ADM-8978,Pneumonia,J15.9,High,Dr. Fisher,Ordered,24386
+DX-4579,ADM-8979,Fracture,S72.90,Critical,Dr. Bennett,Partial,24423
+DX-4580,ADM-8980,Appendicitis,K35.80,Low,Dr. Aris,Completed,24460
+DX-4581,ADM-8981,Cancer,C34.90,Medium,Dr. Gupta,Ordered,24497
+DX-4582,ADM-8982,Trauma,T14.90,High,Dr. Fisher,Partial,24534
+DX-4583,ADM-8983,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,24571
+DX-4584,ADM-8984,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,24608
+DX-4585,ADM-8985,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,24645
+DX-4586,ADM-8986,Pneumonia,J15.9,High,Dr. Fisher,Completed,24682
+DX-4587,ADM-8987,Fracture,S72.90,Critical,Dr. Bennett,Ordered,24719
+DX-4588,ADM-8988,Appendicitis,K35.80,Low,Dr. Aris,Partial,24756
+DX-4589,ADM-8989,Cancer,C34.90,Medium,Dr. Gupta,Completed,24793
+DX-4590,ADM-8990,Trauma,T14.90,High,Dr. Fisher,Ordered,24830
+DX-4591,ADM-8991,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,24867
+DX-4592,ADM-8992,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,24904
+DX-4593,ADM-8993,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,24941
+DX-4594,ADM-8994,Pneumonia,J15.9,High,Dr. Fisher,Partial,24978
+DX-4595,ADM-8995,Fracture,S72.90,Critical,Dr. Bennett,Completed,25015
+DX-4596,ADM-8996,Appendicitis,K35.80,Low,Dr. Aris,Ordered,25052
+DX-4597,ADM-8997,Cancer,C34.90,Medium,Dr. Gupta,Partial,25089
+DX-4598,ADM-8998,Trauma,T14.90,High,Dr. Fisher,Completed,25126
+DX-4599,ADM-8999,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,25163
+DX-4600,ADM-9000,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,25200
+DX-4601,ADM-9001,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,25237
+DX-4602,ADM-9002,Pneumonia,J15.9,High,Dr. Fisher,Ordered,25274
+DX-4603,ADM-9003,Fracture,S72.90,Critical,Dr. Bennett,Partial,25311
+DX-4604,ADM-9004,Appendicitis,K35.80,Low,Dr. Aris,Completed,25348
+DX-4605,ADM-9005,Cancer,C34.90,Medium,Dr. Gupta,Ordered,25385
+DX-4606,ADM-9006,Trauma,T14.90,High,Dr. Fisher,Partial,25422
+DX-4607,ADM-9007,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,25459
+DX-4608,ADM-9008,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,25496
+DX-4609,ADM-9009,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,25533
+DX-4610,ADM-9010,Pneumonia,J15.9,High,Dr. Fisher,Completed,25570
+DX-4611,ADM-9011,Fracture,S72.90,Critical,Dr. Bennett,Ordered,25607
+DX-4612,ADM-9012,Appendicitis,K35.80,Low,Dr. Aris,Partial,25644
+DX-4613,ADM-9013,Cancer,C34.90,Medium,Dr. Gupta,Completed,25681
+DX-4614,ADM-9014,Trauma,T14.90,High,Dr. Fisher,Ordered,25718
+DX-4615,ADM-9015,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,25755
+DX-4616,ADM-9016,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,25792
+DX-4617,ADM-9017,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,25829
+DX-4618,ADM-9018,Pneumonia,J15.9,High,Dr. Fisher,Partial,25866
+DX-4619,ADM-9019,Fracture,S72.90,Critical,Dr. Bennett,Completed,25903
+DX-4620,ADM-9020,Appendicitis,K35.80,Low,Dr. Aris,Ordered,25940
+DX-4621,ADM-9021,Cancer,C34.90,Medium,Dr. Gupta,Partial,25977
+DX-4622,ADM-9022,Trauma,T14.90,High,Dr. Fisher,Completed,26014
+DX-4623,ADM-9023,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,26051
+DX-4624,ADM-9024,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,26088
+DX-4625,ADM-9025,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,26125
+DX-4626,ADM-9026,Pneumonia,J15.9,High,Dr. Fisher,Ordered,26162
+DX-4627,ADM-9027,Fracture,S72.90,Critical,Dr. Bennett,Partial,26199
+DX-4628,ADM-9028,Appendicitis,K35.80,Low,Dr. Aris,Completed,26236
+DX-4629,ADM-9029,Cancer,C34.90,Medium,Dr. Gupta,Ordered,26273
+DX-4630,ADM-9030,Trauma,T14.90,High,Dr. Fisher,Partial,26310
+DX-4631,ADM-9031,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,26347
+DX-4632,ADM-9032,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,26384
+DX-4633,ADM-9033,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,26421
+DX-4634,ADM-9034,Pneumonia,J15.9,High,Dr. Fisher,Completed,26458
+DX-4635,ADM-9035,Fracture,S72.90,Critical,Dr. Bennett,Ordered,26495
+DX-4636,ADM-9036,Appendicitis,K35.80,Low,Dr. Aris,Partial,26532
+DX-4637,ADM-9037,Cancer,C34.90,Medium,Dr. Gupta,Completed,26569
+DX-4638,ADM-9038,Trauma,T14.90,High,Dr. Fisher,Ordered,26606
+DX-4639,ADM-9039,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,26643
+DX-4640,ADM-9040,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,26680
+DX-4641,ADM-9041,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,26717
+DX-4642,ADM-9042,Pneumonia,J15.9,High,Dr. Fisher,Partial,26754
+DX-4643,ADM-9043,Fracture,S72.90,Critical,Dr. Bennett,Completed,26791
+DX-4644,ADM-9044,Appendicitis,K35.80,Low,Dr. Aris,Ordered,26828
+DX-4645,ADM-9045,Cancer,C34.90,Medium,Dr. Gupta,Partial,26865
+DX-4646,ADM-9046,Trauma,T14.90,High,Dr. Fisher,Completed,26902
+DX-4647,ADM-9047,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,26939
+DX-4648,ADM-9048,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,26976
+DX-4649,ADM-9049,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,27013
+DX-4650,ADM-9050,Pneumonia,J15.9,High,Dr. Fisher,Ordered,27050
+DX-4651,ADM-9051,Fracture,S72.90,Critical,Dr. Bennett,Partial,27087
+DX-4652,ADM-9052,Appendicitis,K35.80,Low,Dr. Aris,Completed,27124
+DX-4653,ADM-9053,Cancer,C34.90,Medium,Dr. Gupta,Ordered,27161
+DX-4654,ADM-9054,Trauma,T14.90,High,Dr. Fisher,Partial,27198
+DX-4655,ADM-9055,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,27235
+DX-4656,ADM-9056,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,27272
+DX-4657,ADM-9057,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,27309
+DX-4658,ADM-9058,Pneumonia,J15.9,High,Dr. Fisher,Completed,27346
+DX-4659,ADM-9059,Fracture,S72.90,Critical,Dr. Bennett,Ordered,27383
+DX-4660,ADM-9060,Appendicitis,K35.80,Low,Dr. Aris,Partial,27420
+DX-4661,ADM-9061,Cancer,C34.90,Medium,Dr. Gupta,Completed,27457
+DX-4662,ADM-9062,Trauma,T14.90,High,Dr. Fisher,Ordered,27494
+DX-4663,ADM-9063,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,27531
+DX-4664,ADM-9064,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,27568
+DX-4665,ADM-9065,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,27605
+DX-4666,ADM-9066,Pneumonia,J15.9,High,Dr. Fisher,Partial,27642
+DX-4667,ADM-9067,Fracture,S72.90,Critical,Dr. Bennett,Completed,27679
+DX-4668,ADM-9068,Appendicitis,K35.80,Low,Dr. Aris,Ordered,27716
+DX-4669,ADM-9069,Cancer,C34.90,Medium,Dr. Gupta,Partial,27753
+DX-4670,ADM-9070,Trauma,T14.90,High,Dr. Fisher,Completed,27790
+DX-4671,ADM-9071,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,27827
+DX-4672,ADM-9072,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,27864
+DX-4673,ADM-9073,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,27901
+DX-4674,ADM-9074,Pneumonia,J15.9,High,Dr. Fisher,Ordered,27938
+DX-4675,ADM-9075,Fracture,S72.90,Critical,Dr. Bennett,Partial,27975
+DX-4676,ADM-9076,Appendicitis,K35.80,Low,Dr. Aris,Completed,28012
+DX-4677,ADM-9077,Cancer,C34.90,Medium,Dr. Gupta,Ordered,28049
+DX-4678,ADM-9078,Trauma,T14.90,High,Dr. Fisher,Partial,28086
+DX-4679,ADM-9079,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,28123
+DX-4680,ADM-9080,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,28160
+DX-4681,ADM-9081,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,28197
+DX-4682,ADM-9082,Pneumonia,J15.9,High,Dr. Fisher,Completed,28234
+DX-4683,ADM-9083,Fracture,S72.90,Critical,Dr. Bennett,Ordered,28271
+DX-4684,ADM-9084,Appendicitis,K35.80,Low,Dr. Aris,Partial,28308
+DX-4685,ADM-9085,Cancer,C34.90,Medium,Dr. Gupta,Completed,28345
+DX-4686,ADM-9086,Trauma,T14.90,High,Dr. Fisher,Ordered,28382
+DX-4687,ADM-9087,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,28419
+DX-4688,ADM-9088,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,28456
+DX-4689,ADM-9089,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,28493
+DX-4690,ADM-9090,Pneumonia,J15.9,High,Dr. Fisher,Partial,28530
+DX-4691,ADM-9091,Fracture,S72.90,Critical,Dr. Bennett,Completed,28567
+DX-4692,ADM-9092,Appendicitis,K35.80,Low,Dr. Aris,Ordered,28604
+DX-4693,ADM-9093,Cancer,C34.90,Medium,Dr. Gupta,Partial,28641
+DX-4694,ADM-9094,Trauma,T14.90,High,Dr. Fisher,Completed,28678
+DX-4695,ADM-9095,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,28715
+DX-4696,ADM-9096,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,28752
+DX-4697,ADM-9097,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,28789
+DX-4698,ADM-9098,Pneumonia,J15.9,High,Dr. Fisher,Ordered,28826
+DX-4699,ADM-9099,Fracture,S72.90,Critical,Dr. Bennett,Partial,28863
+DX-4700,ADM-9100,Appendicitis,K35.80,Low,Dr. Aris,Completed,28900
+DX-4701,ADM-9101,Cancer,C34.90,Medium,Dr. Gupta,Ordered,28937
+DX-4702,ADM-9102,Trauma,T14.90,High,Dr. Fisher,Partial,28974
+DX-4703,ADM-9103,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,29011
+DX-4704,ADM-9104,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,29048
+DX-4705,ADM-9105,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,29085
+DX-4706,ADM-9106,Pneumonia,J15.9,High,Dr. Fisher,Completed,29122
+DX-4707,ADM-9107,Fracture,S72.90,Critical,Dr. Bennett,Ordered,29159
+DX-4708,ADM-9108,Appendicitis,K35.80,Low,Dr. Aris,Partial,29196
+DX-4709,ADM-9109,Cancer,C34.90,Medium,Dr. Gupta,Completed,29233
+DX-4710,ADM-9110,Trauma,T14.90,High,Dr. Fisher,Ordered,29270
+DX-4711,ADM-9111,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,29307
+DX-4712,ADM-9112,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,29344
+DX-4713,ADM-9113,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,29381
+DX-4714,ADM-9114,Pneumonia,J15.9,High,Dr. Fisher,Partial,29418
+DX-4715,ADM-9115,Fracture,S72.90,Critical,Dr. Bennett,Completed,29455
+DX-4716,ADM-9116,Appendicitis,K35.80,Low,Dr. Aris,Ordered,29492
+DX-4717,ADM-9117,Cancer,C34.90,Medium,Dr. Gupta,Partial,29529
+DX-4718,ADM-9118,Trauma,T14.90,High,Dr. Fisher,Completed,29566
+DX-4719,ADM-9119,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,29603
+DX-4720,ADM-9120,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,29640
+DX-4721,ADM-9121,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,29677
+DX-4722,ADM-9122,Pneumonia,J15.9,High,Dr. Fisher,Ordered,29714
+DX-4723,ADM-9123,Fracture,S72.90,Critical,Dr. Bennett,Partial,29751
+DX-4724,ADM-9124,Appendicitis,K35.80,Low,Dr. Aris,Completed,29788
+DX-4725,ADM-9125,Cancer,C34.90,Medium,Dr. Gupta,Ordered,29825
+DX-4726,ADM-9126,Trauma,T14.90,High,Dr. Fisher,Partial,29862
+DX-4727,ADM-9127,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,29899
+DX-4728,ADM-9128,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,29936
+DX-4729,ADM-9129,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,29973
+DX-4730,ADM-9130,Pneumonia,J15.9,High,Dr. Fisher,Completed,30010
+DX-4731,ADM-9131,Fracture,S72.90,Critical,Dr. Bennett,Ordered,30047
+DX-4732,ADM-9132,Appendicitis,K35.80,Low,Dr. Aris,Partial,30084
+DX-4733,ADM-9133,Cancer,C34.90,Medium,Dr. Gupta,Completed,30121
+DX-4734,ADM-9134,Trauma,T14.90,High,Dr. Fisher,Ordered,30158
+DX-4735,ADM-9135,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,30195
+DX-4736,ADM-9136,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,30232
+DX-4737,ADM-9137,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,30269
+DX-4738,ADM-9138,Pneumonia,J15.9,High,Dr. Fisher,Partial,30306
+DX-4739,ADM-9139,Fracture,S72.90,Critical,Dr. Bennett,Completed,30343
+DX-4740,ADM-9140,Appendicitis,K35.80,Low,Dr. Aris,Ordered,30380
+DX-4741,ADM-9141,Cancer,C34.90,Medium,Dr. Gupta,Partial,30417
+DX-4742,ADM-9142,Trauma,T14.90,High,Dr. Fisher,Completed,30454
+DX-4743,ADM-9143,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,30491
+DX-4744,ADM-9144,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,30528
+DX-4745,ADM-9145,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,30565
+DX-4746,ADM-9146,Pneumonia,J15.9,High,Dr. Fisher,Ordered,30602
+DX-4747,ADM-9147,Fracture,S72.90,Critical,Dr. Bennett,Partial,30639
+DX-4748,ADM-9148,Appendicitis,K35.80,Low,Dr. Aris,Completed,30676
+DX-4749,ADM-9149,Cancer,C34.90,Medium,Dr. Gupta,Ordered,30713
+DX-4750,ADM-9150,Trauma,T14.90,High,Dr. Fisher,Partial,30750
+DX-4751,ADM-9151,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,30787
+DX-4752,ADM-9152,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,30824
+DX-4753,ADM-9153,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,30861
+DX-4754,ADM-9154,Pneumonia,J15.9,High,Dr. Fisher,Completed,30898
+DX-4755,ADM-9155,Fracture,S72.90,Critical,Dr. Bennett,Ordered,30935
+DX-4756,ADM-9156,Appendicitis,K35.80,Low,Dr. Aris,Partial,30972
+DX-4757,ADM-9157,Cancer,C34.90,Medium,Dr. Gupta,Completed,31009
+DX-4758,ADM-9158,Trauma,T14.90,High,Dr. Fisher,Ordered,31046
+DX-4759,ADM-9159,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,31083
+DX-4760,ADM-9160,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,31120
+DX-4761,ADM-9161,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,31157
+DX-4762,ADM-9162,Pneumonia,J15.9,High,Dr. Fisher,Partial,31194
+DX-4763,ADM-9163,Fracture,S72.90,Critical,Dr. Bennett,Completed,31231
+DX-4764,ADM-9164,Appendicitis,K35.80,Low,Dr. Aris,Ordered,31268
+DX-4765,ADM-9165,Cancer,C34.90,Medium,Dr. Gupta,Partial,31305
+DX-4766,ADM-9166,Trauma,T14.90,High,Dr. Fisher,Completed,31342
+DX-4767,ADM-9167,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,31379
+DX-4768,ADM-9168,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,31416
+DX-4769,ADM-9169,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,31453
+DX-4770,ADM-9170,Pneumonia,J15.9,High,Dr. Fisher,Ordered,31490
+DX-4771,ADM-9171,Fracture,S72.90,Critical,Dr. Bennett,Partial,31527
+DX-4772,ADM-9172,Appendicitis,K35.80,Low,Dr. Aris,Completed,31564
+DX-4773,ADM-9173,Cancer,C34.90,Medium,Dr. Gupta,Ordered,31601
+DX-4774,ADM-9174,Trauma,T14.90,High,Dr. Fisher,Partial,31638
+DX-4775,ADM-9175,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,31675
+DX-4776,ADM-9176,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,31712
+DX-4777,ADM-9177,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,31749
+DX-4778,ADM-9178,Pneumonia,J15.9,High,Dr. Fisher,Completed,31786
+DX-4779,ADM-9179,Fracture,S72.90,Critical,Dr. Bennett,Ordered,31823
+DX-4780,ADM-9180,Appendicitis,K35.80,Low,Dr. Aris,Partial,31860
+DX-4781,ADM-9181,Cancer,C34.90,Medium,Dr. Gupta,Completed,31897
+DX-4782,ADM-9182,Trauma,T14.90,High,Dr. Fisher,Ordered,31934
+DX-4783,ADM-9183,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,31971
+DX-4784,ADM-9184,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,32008
+DX-4785,ADM-9185,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,32045
+DX-4786,ADM-9186,Pneumonia,J15.9,High,Dr. Fisher,Partial,32082
+DX-4787,ADM-9187,Fracture,S72.90,Critical,Dr. Bennett,Completed,32119
+DX-4788,ADM-9188,Appendicitis,K35.80,Low,Dr. Aris,Ordered,32156
+DX-4789,ADM-9189,Cancer,C34.90,Medium,Dr. Gupta,Partial,32193
+DX-4790,ADM-9190,Trauma,T14.90,High,Dr. Fisher,Completed,32230
+DX-4791,ADM-9191,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,32267
+DX-4792,ADM-9192,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,32304
+DX-4793,ADM-9193,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,32341
+DX-4794,ADM-9194,Pneumonia,J15.9,High,Dr. Fisher,Ordered,32378
+DX-4795,ADM-9195,Fracture,S72.90,Critical,Dr. Bennett,Partial,32415
+DX-4796,ADM-9196,Appendicitis,K35.80,Low,Dr. Aris,Completed,32452
+DX-4797,ADM-9197,Cancer,C34.90,Medium,Dr. Gupta,Ordered,32489
+DX-4798,ADM-9198,Trauma,T14.90,High,Dr. Fisher,Partial,32526
+DX-4799,ADM-9199,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,32563
+DX-4800,ADM-8000,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,32600
+DX-4801,ADM-8001,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,32637
+DX-4802,ADM-8002,Pneumonia,J15.9,High,Dr. Fisher,Completed,32674
+DX-4803,ADM-8003,Fracture,S72.90,Critical,Dr. Bennett,Ordered,32711
+DX-4804,ADM-8004,Appendicitis,K35.80,Low,Dr. Aris,Partial,32748
+DX-4805,ADM-8005,Cancer,C34.90,Medium,Dr. Gupta,Completed,32785
+DX-4806,ADM-8006,Trauma,T14.90,High,Dr. Fisher,Ordered,32822
+DX-4807,ADM-8007,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,32859
+DX-4808,ADM-8008,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,32896
+DX-4809,ADM-8009,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,32933
+DX-4810,ADM-8010,Pneumonia,J15.9,High,Dr. Fisher,Partial,32970
+DX-4811,ADM-8011,Fracture,S72.90,Critical,Dr. Bennett,Completed,33007
+DX-4812,ADM-8012,Appendicitis,K35.80,Low,Dr. Aris,Ordered,33044
+DX-4813,ADM-8013,Cancer,C34.90,Medium,Dr. Gupta,Partial,33081
+DX-4814,ADM-8014,Trauma,T14.90,High,Dr. Fisher,Completed,33118
+DX-4815,ADM-8015,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,33155
+DX-4816,ADM-8016,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,33192
+DX-4817,ADM-8017,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,33229
+DX-4818,ADM-8018,Pneumonia,J15.9,High,Dr. Fisher,Ordered,33266
+DX-4819,ADM-8019,Fracture,S72.90,Critical,Dr. Bennett,Partial,33303
+DX-4820,ADM-8020,Appendicitis,K35.80,Low,Dr. Aris,Completed,33340
+DX-4821,ADM-8021,Cancer,C34.90,Medium,Dr. Gupta,Ordered,33377
+DX-4822,ADM-8022,Trauma,T14.90,High,Dr. Fisher,Partial,33414
+DX-4823,ADM-8023,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,33451
+DX-4824,ADM-8024,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,33488
+DX-4825,ADM-8025,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,33525
+DX-4826,ADM-8026,Pneumonia,J15.9,High,Dr. Fisher,Completed,33562
+DX-4827,ADM-8027,Fracture,S72.90,Critical,Dr. Bennett,Ordered,33599
+DX-4828,ADM-8028,Appendicitis,K35.80,Low,Dr. Aris,Partial,33636
+DX-4829,ADM-8029,Cancer,C34.90,Medium,Dr. Gupta,Completed,33673
+DX-4830,ADM-8030,Trauma,T14.90,High,Dr. Fisher,Ordered,33710
+DX-4831,ADM-8031,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,33747
+DX-4832,ADM-8032,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,33784
+DX-4833,ADM-8033,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,33821
+DX-4834,ADM-8034,Pneumonia,J15.9,High,Dr. Fisher,Partial,33858
+DX-4835,ADM-8035,Fracture,S72.90,Critical,Dr. Bennett,Completed,33895
+DX-4836,ADM-8036,Appendicitis,K35.80,Low,Dr. Aris,Ordered,33932
+DX-4837,ADM-8037,Cancer,C34.90,Medium,Dr. Gupta,Partial,33969
+DX-4838,ADM-8038,Trauma,T14.90,High,Dr. Fisher,Completed,34006
+DX-4839,ADM-8039,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,34043
+DX-4840,ADM-8040,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,34080
+DX-4841,ADM-8041,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,34117
+DX-4842,ADM-8042,Pneumonia,J15.9,High,Dr. Fisher,Ordered,34154
+DX-4843,ADM-8043,Fracture,S72.90,Critical,Dr. Bennett,Partial,34191
+DX-4844,ADM-8044,Appendicitis,K35.80,Low,Dr. Aris,Completed,34228
+DX-4845,ADM-8045,Cancer,C34.90,Medium,Dr. Gupta,Ordered,34265
+DX-4846,ADM-8046,Trauma,T14.90,High,Dr. Fisher,Partial,34302
+DX-4847,ADM-8047,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,34339
+DX-4848,ADM-8048,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,34376
+DX-4849,ADM-8049,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,34413
+DX-4850,ADM-8050,Pneumonia,J15.9,High,Dr. Fisher,Completed,34450
+DX-4851,ADM-8051,Fracture,S72.90,Critical,Dr. Bennett,Ordered,34487
+DX-4852,ADM-8052,Appendicitis,K35.80,Low,Dr. Aris,Partial,34524
+DX-4853,ADM-8053,Cancer,C34.90,Medium,Dr. Gupta,Completed,34561
+DX-4854,ADM-8054,Trauma,T14.90,High,Dr. Fisher,Ordered,34598
+DX-4855,ADM-8055,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,34635
+DX-4856,ADM-8056,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,34672
+DX-4857,ADM-8057,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,34709
+DX-4858,ADM-8058,Pneumonia,J15.9,High,Dr. Fisher,Partial,34746
+DX-4859,ADM-8059,Fracture,S72.90,Critical,Dr. Bennett,Completed,34783
+DX-4860,ADM-8060,Appendicitis,K35.80,Low,Dr. Aris,Ordered,34820
+DX-4861,ADM-8061,Cancer,C34.90,Medium,Dr. Gupta,Partial,34857
+DX-4862,ADM-8062,Trauma,T14.90,High,Dr. Fisher,Completed,34894
+DX-4863,ADM-8063,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,34931
+DX-4864,ADM-8064,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,34968
+DX-4865,ADM-8065,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,35005
+DX-4866,ADM-8066,Pneumonia,J15.9,High,Dr. Fisher,Ordered,35042
+DX-4867,ADM-8067,Fracture,S72.90,Critical,Dr. Bennett,Partial,35079
+DX-4868,ADM-8068,Appendicitis,K35.80,Low,Dr. Aris,Completed,35116
+DX-4869,ADM-8069,Cancer,C34.90,Medium,Dr. Gupta,Ordered,35153
+DX-4870,ADM-8070,Trauma,T14.90,High,Dr. Fisher,Partial,35190
+DX-4871,ADM-8071,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,35227
+DX-4872,ADM-8072,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,35264
+DX-4873,ADM-8073,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,35301
+DX-4874,ADM-8074,Pneumonia,J15.9,High,Dr. Fisher,Completed,35338
+DX-4875,ADM-8075,Fracture,S72.90,Critical,Dr. Bennett,Ordered,35375
+DX-4876,ADM-8076,Appendicitis,K35.80,Low,Dr. Aris,Partial,35412
+DX-4877,ADM-8077,Cancer,C34.90,Medium,Dr. Gupta,Completed,35449
+DX-4878,ADM-8078,Trauma,T14.90,High,Dr. Fisher,Ordered,35486
+DX-4879,ADM-8079,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,35523
+DX-4880,ADM-8080,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,35560
+DX-4881,ADM-8081,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,35597
+DX-4882,ADM-8082,Pneumonia,J15.9,High,Dr. Fisher,Partial,35634
+DX-4883,ADM-8083,Fracture,S72.90,Critical,Dr. Bennett,Completed,35671
+DX-4884,ADM-8084,Appendicitis,K35.80,Low,Dr. Aris,Ordered,35708
+DX-4885,ADM-8085,Cancer,C34.90,Medium,Dr. Gupta,Partial,35745
+DX-4886,ADM-8086,Trauma,T14.90,High,Dr. Fisher,Completed,35782
+DX-4887,ADM-8087,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,35819
+DX-4888,ADM-8088,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,35856
+DX-4889,ADM-8089,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,35893
+DX-4890,ADM-8090,Pneumonia,J15.9,High,Dr. Fisher,Ordered,35930
+DX-4891,ADM-8091,Fracture,S72.90,Critical,Dr. Bennett,Partial,35967
+DX-4892,ADM-8092,Appendicitis,K35.80,Low,Dr. Aris,Completed,36004
+DX-4893,ADM-8093,Cancer,C34.90,Medium,Dr. Gupta,Ordered,36041
+DX-4894,ADM-8094,Trauma,T14.90,High,Dr. Fisher,Partial,36078
+DX-4895,ADM-8095,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,36115
+DX-4896,ADM-8096,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,36152
+DX-4897,ADM-8097,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,36189
+DX-4898,ADM-8098,Pneumonia,J15.9,High,Dr. Fisher,Completed,36226
+DX-4899,ADM-8099,Fracture,S72.90,Critical,Dr. Bennett,Ordered,36263
+DX-4900,ADM-8100,Appendicitis,K35.80,Low,Dr. Aris,Partial,36300
+DX-4901,ADM-8101,Cancer,C34.90,Medium,Dr. Gupta,Completed,36337
+DX-4902,ADM-8102,Trauma,T14.90,High,Dr. Fisher,Ordered,36374
+DX-4903,ADM-8103,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,36411
+DX-4904,ADM-8104,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,36448
+DX-4905,ADM-8105,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,36485
+DX-4906,ADM-8106,Pneumonia,J15.9,High,Dr. Fisher,Partial,36522
+DX-4907,ADM-8107,Fracture,S72.90,Critical,Dr. Bennett,Completed,36559
+DX-4908,ADM-8108,Appendicitis,K35.80,Low,Dr. Aris,Ordered,36596
+DX-4909,ADM-8109,Cancer,C34.90,Medium,Dr. Gupta,Partial,36633
+DX-4910,ADM-8110,Trauma,T14.90,High,Dr. Fisher,Completed,36670
+DX-4911,ADM-8111,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,36707
+DX-4912,ADM-8112,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,36744
+DX-4913,ADM-8113,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,36781
+DX-4914,ADM-8114,Pneumonia,J15.9,High,Dr. Fisher,Ordered,36818
+DX-4915,ADM-8115,Fracture,S72.90,Critical,Dr. Bennett,Partial,36855
+DX-4916,ADM-8116,Appendicitis,K35.80,Low,Dr. Aris,Completed,36892
+DX-4917,ADM-8117,Cancer,C34.90,Medium,Dr. Gupta,Ordered,36929
+DX-4918,ADM-8118,Trauma,T14.90,High,Dr. Fisher,Partial,36966
+DX-4919,ADM-8119,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,37003
+DX-4920,ADM-8120,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,37040
+DX-4921,ADM-8121,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,37077
+DX-4922,ADM-8122,Pneumonia,J15.9,High,Dr. Fisher,Completed,37114
+DX-4923,ADM-8123,Fracture,S72.90,Critical,Dr. Bennett,Ordered,37151
+DX-4924,ADM-8124,Appendicitis,K35.80,Low,Dr. Aris,Partial,37188
+DX-4925,ADM-8125,Cancer,C34.90,Medium,Dr. Gupta,Completed,37225
+DX-4926,ADM-8126,Trauma,T14.90,High,Dr. Fisher,Ordered,37262
+DX-4927,ADM-8127,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,37299
+DX-4928,ADM-8128,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,37336
+DX-4929,ADM-8129,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,37373
+DX-4930,ADM-8130,Pneumonia,J15.9,High,Dr. Fisher,Partial,37410
+DX-4931,ADM-8131,Fracture,S72.90,Critical,Dr. Bennett,Completed,37447
+DX-4932,ADM-8132,Appendicitis,K35.80,Low,Dr. Aris,Ordered,37484
+DX-4933,ADM-8133,Cancer,C34.90,Medium,Dr. Gupta,Partial,37521
+DX-4934,ADM-8134,Trauma,T14.90,High,Dr. Fisher,Completed,37558
+DX-4935,ADM-8135,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,37595
+DX-4936,ADM-8136,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,37632
+DX-4937,ADM-8137,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,37669
+DX-4938,ADM-8138,Pneumonia,J15.9,High,Dr. Fisher,Ordered,37706
+DX-4939,ADM-8139,Fracture,S72.90,Critical,Dr. Bennett,Partial,37743
+DX-4940,ADM-8140,Appendicitis,K35.80,Low,Dr. Aris,Completed,37780
+DX-4941,ADM-8141,Cancer,C34.90,Medium,Dr. Gupta,Ordered,37817
+DX-4942,ADM-8142,Trauma,T14.90,High,Dr. Fisher,Partial,37854
+DX-4943,ADM-8143,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,37891
+DX-4944,ADM-8144,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,37928
+DX-4945,ADM-8145,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,37965
+DX-4946,ADM-8146,Pneumonia,J15.9,High,Dr. Fisher,Completed,38002
+DX-4947,ADM-8147,Fracture,S72.90,Critical,Dr. Bennett,Ordered,38039
+DX-4948,ADM-8148,Appendicitis,K35.80,Low,Dr. Aris,Partial,38076
+DX-4949,ADM-8149,Cancer,C34.90,Medium,Dr. Gupta,Completed,38113
+DX-4950,ADM-8150,Trauma,T14.90,High,Dr. Fisher,Ordered,38150
+DX-4951,ADM-8151,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,38187
+DX-4952,ADM-8152,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,38224
+DX-4953,ADM-8153,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,38261
+DX-4954,ADM-8154,Pneumonia,J15.9,High,Dr. Fisher,Partial,38298
+DX-4955,ADM-8155,Fracture,S72.90,Critical,Dr. Bennett,Completed,38335
+DX-4956,ADM-8156,Appendicitis,K35.80,Low,Dr. Aris,Ordered,38372
+DX-4957,ADM-8157,Cancer,C34.90,Medium,Dr. Gupta,Partial,38409
+DX-4958,ADM-8158,Trauma,T14.90,High,Dr. Fisher,Completed,38446
+DX-4959,ADM-8159,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,38483
+DX-4960,ADM-8160,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,38520
+DX-4961,ADM-8161,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,38557
+DX-4962,ADM-8162,Pneumonia,J15.9,High,Dr. Fisher,Ordered,38594
+DX-4963,ADM-8163,Fracture,S72.90,Critical,Dr. Bennett,Partial,38631
+DX-4964,ADM-8164,Appendicitis,K35.80,Low,Dr. Aris,Completed,38668
+DX-4965,ADM-8165,Cancer,C34.90,Medium,Dr. Gupta,Ordered,38705
+DX-4966,ADM-8166,Trauma,T14.90,High,Dr. Fisher,Partial,38742
+DX-4967,ADM-8167,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,38779
+DX-4968,ADM-8168,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,38816
+DX-4969,ADM-8169,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,38853
+DX-4970,ADM-8170,Pneumonia,J15.9,High,Dr. Fisher,Completed,38890
+DX-4971,ADM-8171,Fracture,S72.90,Critical,Dr. Bennett,Ordered,38927
+DX-4972,ADM-8172,Appendicitis,K35.80,Low,Dr. Aris,Partial,38964
+DX-4973,ADM-8173,Cancer,C34.90,Medium,Dr. Gupta,Completed,39001
+DX-4974,ADM-8174,Trauma,T14.90,High,Dr. Fisher,Ordered,39038
+DX-4975,ADM-8175,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,39075
+DX-4976,ADM-8176,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,39112
+DX-4977,ADM-8177,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,39149
+DX-4978,ADM-8178,Pneumonia,J15.9,High,Dr. Fisher,Partial,39186
+DX-4979,ADM-8179,Fracture,S72.90,Critical,Dr. Bennett,Completed,39223
+DX-4980,ADM-8180,Appendicitis,K35.80,Low,Dr. Aris,Ordered,39260
+DX-4981,ADM-8181,Cancer,C34.90,Medium,Dr. Gupta,Partial,39297
+DX-4982,ADM-8182,Trauma,T14.90,High,Dr. Fisher,Completed,39334
+DX-4983,ADM-8183,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,39371
+DX-4984,ADM-8184,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,39408
+DX-4985,ADM-8185,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,39445
+DX-4986,ADM-8186,Pneumonia,J15.9,High,Dr. Fisher,Ordered,39482
+DX-4987,ADM-8187,Fracture,S72.90,Critical,Dr. Bennett,Partial,39519
+DX-4988,ADM-8188,Appendicitis,K35.80,Low,Dr. Aris,Completed,39556
+DX-4989,ADM-8189,Cancer,C34.90,Medium,Dr. Gupta,Ordered,39593
+DX-4990,ADM-8190,Trauma,T14.90,High,Dr. Fisher,Partial,39630
+DX-4991,ADM-8191,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,39667
+DX-4992,ADM-8192,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,39704
+DX-4993,ADM-8193,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,39741
+DX-4994,ADM-8194,Pneumonia,J15.9,High,Dr. Fisher,Completed,39778
+DX-4995,ADM-8195,Fracture,S72.90,Critical,Dr. Bennett,Ordered,39815
+DX-4996,ADM-8196,Appendicitis,K35.80,Low,Dr. Aris,Partial,39852
+DX-4997,ADM-8197,Cancer,C34.90,Medium,Dr. Gupta,Completed,39889
+DX-4998,ADM-8198,Trauma,T14.90,High,Dr. Fisher,Ordered,39926
+DX-4999,ADM-8199,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,39963
+DX-5000,ADM-8200,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,40000
+DX-5001,ADM-8201,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,40037
+DX-5002,ADM-8202,Pneumonia,J15.9,High,Dr. Fisher,Partial,40074
+DX-5003,ADM-8203,Fracture,S72.90,Critical,Dr. Bennett,Completed,40111
+DX-5004,ADM-8204,Appendicitis,K35.80,Low,Dr. Aris,Ordered,40148
+DX-5005,ADM-8205,Cancer,C34.90,Medium,Dr. Gupta,Partial,40185
+DX-5006,ADM-8206,Trauma,T14.90,High,Dr. Fisher,Completed,40222
+DX-5007,ADM-8207,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,40259
+DX-5008,ADM-8208,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,40296
+DX-5009,ADM-8209,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,40333
+DX-5010,ADM-8210,Pneumonia,J15.9,High,Dr. Fisher,Ordered,40370
+DX-5011,ADM-8211,Fracture,S72.90,Critical,Dr. Bennett,Partial,40407
+DX-5012,ADM-8212,Appendicitis,K35.80,Low,Dr. Aris,Completed,40444
+DX-5013,ADM-8213,Cancer,C34.90,Medium,Dr. Gupta,Ordered,40481
+DX-5014,ADM-8214,Trauma,T14.90,High,Dr. Fisher,Partial,40518
+DX-5015,ADM-8215,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,40555
+DX-5016,ADM-8216,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,40592
+DX-5017,ADM-8217,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,40629
+DX-5018,ADM-8218,Pneumonia,J15.9,High,Dr. Fisher,Completed,40666
+DX-5019,ADM-8219,Fracture,S72.90,Critical,Dr. Bennett,Ordered,40703
+DX-5020,ADM-8220,Appendicitis,K35.80,Low,Dr. Aris,Partial,40740
+DX-5021,ADM-8221,Cancer,C34.90,Medium,Dr. Gupta,Completed,40777
+DX-5022,ADM-8222,Trauma,T14.90,High,Dr. Fisher,Ordered,40814
+DX-5023,ADM-8223,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,40851
+DX-5024,ADM-8224,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,40888
+DX-5025,ADM-8225,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,40925
+DX-5026,ADM-8226,Pneumonia,J15.9,High,Dr. Fisher,Partial,40962
+DX-5027,ADM-8227,Fracture,S72.90,Critical,Dr. Bennett,Completed,40999
+DX-5028,ADM-8228,Appendicitis,K35.80,Low,Dr. Aris,Ordered,41036
+DX-5029,ADM-8229,Cancer,C34.90,Medium,Dr. Gupta,Partial,41073
+DX-5030,ADM-8230,Trauma,T14.90,High,Dr. Fisher,Completed,41110
+DX-5031,ADM-8231,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,41147
+DX-5032,ADM-8232,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,41184
+DX-5033,ADM-8233,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,41221
+DX-5034,ADM-8234,Pneumonia,J15.9,High,Dr. Fisher,Ordered,41258
+DX-5035,ADM-8235,Fracture,S72.90,Critical,Dr. Bennett,Partial,41295
+DX-5036,ADM-8236,Appendicitis,K35.80,Low,Dr. Aris,Completed,41332
+DX-5037,ADM-8237,Cancer,C34.90,Medium,Dr. Gupta,Ordered,41369
+DX-5038,ADM-8238,Trauma,T14.90,High,Dr. Fisher,Partial,41406
+DX-5039,ADM-8239,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,41443
+DX-5040,ADM-8240,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,41480
+DX-5041,ADM-8241,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,41517
+DX-5042,ADM-8242,Pneumonia,J15.9,High,Dr. Fisher,Completed,41554
+DX-5043,ADM-8243,Fracture,S72.90,Critical,Dr. Bennett,Ordered,41591
+DX-5044,ADM-8244,Appendicitis,K35.80,Low,Dr. Aris,Partial,41628
+DX-5045,ADM-8245,Cancer,C34.90,Medium,Dr. Gupta,Completed,41665
+DX-5046,ADM-8246,Trauma,T14.90,High,Dr. Fisher,Ordered,41702
+DX-5047,ADM-8247,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,41739
+DX-5048,ADM-8248,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,41776
+DX-5049,ADM-8249,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,41813
+DX-5050,ADM-8250,Pneumonia,J15.9,High,Dr. Fisher,Partial,41850
+DX-5051,ADM-8251,Fracture,S72.90,Critical,Dr. Bennett,Completed,41887
+DX-5052,ADM-8252,Appendicitis,K35.80,Low,Dr. Aris,Ordered,41924
+DX-5053,ADM-8253,Cancer,C34.90,Medium,Dr. Gupta,Partial,41961
+DX-5054,ADM-8254,Trauma,T14.90,High,Dr. Fisher,Completed,41998
+DX-5055,ADM-8255,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,42035
+DX-5056,ADM-8256,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,42072
+DX-5057,ADM-8257,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,42109
+DX-5058,ADM-8258,Pneumonia,J15.9,High,Dr. Fisher,Ordered,42146
+DX-5059,ADM-8259,Fracture,S72.90,Critical,Dr. Bennett,Partial,42183
+DX-5060,ADM-8260,Appendicitis,K35.80,Low,Dr. Aris,Completed,42220
+DX-5061,ADM-8261,Cancer,C34.90,Medium,Dr. Gupta,Ordered,42257
+DX-5062,ADM-8262,Trauma,T14.90,High,Dr. Fisher,Partial,42294
+DX-5063,ADM-8263,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,42331
+DX-5064,ADM-8264,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,42368
+DX-5065,ADM-8265,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,42405
+DX-5066,ADM-8266,Pneumonia,J15.9,High,Dr. Fisher,Completed,42442
+DX-5067,ADM-8267,Fracture,S72.90,Critical,Dr. Bennett,Ordered,42479
+DX-5068,ADM-8268,Appendicitis,K35.80,Low,Dr. Aris,Partial,42516
+DX-5069,ADM-8269,Cancer,C34.90,Medium,Dr. Gupta,Completed,42553
+DX-5070,ADM-8270,Trauma,T14.90,High,Dr. Fisher,Ordered,42590
+DX-5071,ADM-8271,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,42627
+DX-5072,ADM-8272,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,42664
+DX-5073,ADM-8273,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,42701
+DX-5074,ADM-8274,Pneumonia,J15.9,High,Dr. Fisher,Partial,42738
+DX-5075,ADM-8275,Fracture,S72.90,Critical,Dr. Bennett,Completed,42775
+DX-5076,ADM-8276,Appendicitis,K35.80,Low,Dr. Aris,Ordered,42812
+DX-5077,ADM-8277,Cancer,C34.90,Medium,Dr. Gupta,Partial,42849
+DX-5078,ADM-8278,Trauma,T14.90,High,Dr. Fisher,Completed,42886
+DX-5079,ADM-8279,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,42923
+DX-5080,ADM-8280,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,42960
+DX-5081,ADM-8281,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,42997
+DX-5082,ADM-8282,Pneumonia,J15.9,High,Dr. Fisher,Ordered,43034
+DX-5083,ADM-8283,Fracture,S72.90,Critical,Dr. Bennett,Partial,43071
+DX-5084,ADM-8284,Appendicitis,K35.80,Low,Dr. Aris,Completed,43108
+DX-5085,ADM-8285,Cancer,C34.90,Medium,Dr. Gupta,Ordered,43145
+DX-5086,ADM-8286,Trauma,T14.90,High,Dr. Fisher,Partial,43182
+DX-5087,ADM-8287,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,43219
+DX-5088,ADM-8288,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,43256
+DX-5089,ADM-8289,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,43293
+DX-5090,ADM-8290,Pneumonia,J15.9,High,Dr. Fisher,Completed,43330
+DX-5091,ADM-8291,Fracture,S72.90,Critical,Dr. Bennett,Ordered,43367
+DX-5092,ADM-8292,Appendicitis,K35.80,Low,Dr. Aris,Partial,43404
+DX-5093,ADM-8293,Cancer,C34.90,Medium,Dr. Gupta,Completed,43441
+DX-5094,ADM-8294,Trauma,T14.90,High,Dr. Fisher,Ordered,43478
+DX-5095,ADM-8295,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,43515
+DX-5096,ADM-8296,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,43552
+DX-5097,ADM-8297,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,43589
+DX-5098,ADM-8298,Pneumonia,J15.9,High,Dr. Fisher,Partial,43626
+DX-5099,ADM-8299,Fracture,S72.90,Critical,Dr. Bennett,Completed,43663
+DX-5100,ADM-8300,Appendicitis,K35.80,Low,Dr. Aris,Ordered,43700
+DX-5101,ADM-8301,Cancer,C34.90,Medium,Dr. Gupta,Partial,43737
+DX-5102,ADM-8302,Trauma,T14.90,High,Dr. Fisher,Completed,43774
+DX-5103,ADM-8303,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,43811
+DX-5104,ADM-8304,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,43848
+DX-5105,ADM-8305,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,43885
+DX-5106,ADM-8306,Pneumonia,J15.9,High,Dr. Fisher,Ordered,43922
+DX-5107,ADM-8307,Fracture,S72.90,Critical,Dr. Bennett,Partial,43959
+DX-5108,ADM-8308,Appendicitis,K35.80,Low,Dr. Aris,Completed,43996
+DX-5109,ADM-8309,Cancer,C34.90,Medium,Dr. Gupta,Ordered,44033
+DX-5110,ADM-8310,Trauma,T14.90,High,Dr. Fisher,Partial,44070
+DX-5111,ADM-8311,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,44107
+DX-5112,ADM-8312,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,44144
+DX-5113,ADM-8313,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,44181
+DX-5114,ADM-8314,Pneumonia,J15.9,High,Dr. Fisher,Completed,44218
+DX-5115,ADM-8315,Fracture,S72.90,Critical,Dr. Bennett,Ordered,44255
+DX-5116,ADM-8316,Appendicitis,K35.80,Low,Dr. Aris,Partial,44292
+DX-5117,ADM-8317,Cancer,C34.90,Medium,Dr. Gupta,Completed,44329
+DX-5118,ADM-8318,Trauma,T14.90,High,Dr. Fisher,Ordered,44366
+DX-5119,ADM-8319,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,44403
+DX-5120,ADM-8320,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,44440
+DX-5121,ADM-8321,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,44477
+DX-5122,ADM-8322,Pneumonia,J15.9,High,Dr. Fisher,Partial,44514
+DX-5123,ADM-8323,Fracture,S72.90,Critical,Dr. Bennett,Completed,44551
+DX-5124,ADM-8324,Appendicitis,K35.80,Low,Dr. Aris,Ordered,44588
+DX-5125,ADM-8325,Cancer,C34.90,Medium,Dr. Gupta,Partial,44625
+DX-5126,ADM-8326,Trauma,T14.90,High,Dr. Fisher,Completed,44662
+DX-5127,ADM-8327,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,44699
+DX-5128,ADM-8328,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,44736
+DX-5129,ADM-8329,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,44773
+DX-5130,ADM-8330,Pneumonia,J15.9,High,Dr. Fisher,Ordered,44810
+DX-5131,ADM-8331,Fracture,S72.90,Critical,Dr. Bennett,Partial,44847
+DX-5132,ADM-8332,Appendicitis,K35.80,Low,Dr. Aris,Completed,44884
+DX-5133,ADM-8333,Cancer,C34.90,Medium,Dr. Gupta,Ordered,44921
+DX-5134,ADM-8334,Trauma,T14.90,High,Dr. Fisher,Partial,44958
+DX-5135,ADM-8335,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,44995
+DX-5136,ADM-8336,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,45032
+DX-5137,ADM-8337,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,45069
+DX-5138,ADM-8338,Pneumonia,J15.9,High,Dr. Fisher,Completed,45106
+DX-5139,ADM-8339,Fracture,S72.90,Critical,Dr. Bennett,Ordered,45143
+DX-5140,ADM-8340,Appendicitis,K35.80,Low,Dr. Aris,Partial,45180
+DX-5141,ADM-8341,Cancer,C34.90,Medium,Dr. Gupta,Completed,45217
+DX-5142,ADM-8342,Trauma,T14.90,High,Dr. Fisher,Ordered,45254
+DX-5143,ADM-8343,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,45291
+DX-5144,ADM-8344,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,45328
+DX-5145,ADM-8345,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,45365
+DX-5146,ADM-8346,Pneumonia,J15.9,High,Dr. Fisher,Partial,45402
+DX-5147,ADM-8347,Fracture,S72.90,Critical,Dr. Bennett,Completed,45439
+DX-5148,ADM-8348,Appendicitis,K35.80,Low,Dr. Aris,Ordered,45476
+DX-5149,ADM-8349,Cancer,C34.90,Medium,Dr. Gupta,Partial,45513
+DX-5150,ADM-8350,Trauma,T14.90,High,Dr. Fisher,Completed,45550
+DX-5151,ADM-8351,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,45587
+DX-5152,ADM-8352,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,45624
+DX-5153,ADM-8353,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,45661
+DX-5154,ADM-8354,Pneumonia,J15.9,High,Dr. Fisher,Ordered,45698
+DX-5155,ADM-8355,Fracture,S72.90,Critical,Dr. Bennett,Partial,45735
+DX-5156,ADM-8356,Appendicitis,K35.80,Low,Dr. Aris,Completed,45772
+DX-5157,ADM-8357,Cancer,C34.90,Medium,Dr. Gupta,Ordered,45809
+DX-5158,ADM-8358,Trauma,T14.90,High,Dr. Fisher,Partial,45846
+DX-5159,ADM-8359,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,45883
+DX-5160,ADM-8360,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,45920
+DX-5161,ADM-8361,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,45957
+DX-5162,ADM-8362,Pneumonia,J15.9,High,Dr. Fisher,Completed,45994
+DX-5163,ADM-8363,Fracture,S72.90,Critical,Dr. Bennett,Ordered,46031
+DX-5164,ADM-8364,Appendicitis,K35.80,Low,Dr. Aris,Partial,46068
+DX-5165,ADM-8365,Cancer,C34.90,Medium,Dr. Gupta,Completed,46105
+DX-5166,ADM-8366,Trauma,T14.90,High,Dr. Fisher,Ordered,46142
+DX-5167,ADM-8367,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,46179
+DX-5168,ADM-8368,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,46216
+DX-5169,ADM-8369,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,46253
+DX-5170,ADM-8370,Pneumonia,J15.9,High,Dr. Fisher,Partial,46290
+DX-5171,ADM-8371,Fracture,S72.90,Critical,Dr. Bennett,Completed,46327
+DX-5172,ADM-8372,Appendicitis,K35.80,Low,Dr. Aris,Ordered,46364
+DX-5173,ADM-8373,Cancer,C34.90,Medium,Dr. Gupta,Partial,46401
+DX-5174,ADM-8374,Trauma,T14.90,High,Dr. Fisher,Completed,46438
+DX-5175,ADM-8375,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,46475
+DX-5176,ADM-8376,Ischemic Stroke,I63.9,Low,Dr. Aris,Partial,46512
+DX-5177,ADM-8377,Heart Failure,I50.9,Medium,Dr. Gupta,Completed,46549
+DX-5178,ADM-8378,Pneumonia,J15.9,High,Dr. Fisher,Ordered,46586
+DX-5179,ADM-8379,Fracture,S72.90,Critical,Dr. Bennett,Partial,46623
+DX-5180,ADM-8380,Appendicitis,K35.80,Low,Dr. Aris,Completed,46660
+DX-5181,ADM-8381,Cancer,C34.90,Medium,Dr. Gupta,Ordered,46697
+DX-5182,ADM-8382,Trauma,T14.90,High,Dr. Fisher,Partial,46734
+DX-5183,ADM-8383,Epilepsy,G40.9,Critical,Dr. Bennett,Completed,46771
+DX-5184,ADM-8384,Ischemic Stroke,I63.9,Low,Dr. Aris,Ordered,46808
+DX-5185,ADM-8385,Heart Failure,I50.9,Medium,Dr. Gupta,Partial,46845
+DX-5186,ADM-8386,Pneumonia,J15.9,High,Dr. Fisher,Completed,46882
+DX-5187,ADM-8387,Fracture,S72.90,Critical,Dr. Bennett,Ordered,46919
+DX-5188,ADM-8388,Appendicitis,K35.80,Low,Dr. Aris,Partial,46956
+DX-5189,ADM-8389,Cancer,C34.90,Medium,Dr. Gupta,Completed,46993
+DX-5190,ADM-8390,Trauma,T14.90,High,Dr. Fisher,Ordered,47030
+DX-5191,ADM-8391,Epilepsy,G40.9,Critical,Dr. Bennett,Partial,47067
+DX-5192,ADM-8392,Ischemic Stroke,I63.9,Low,Dr. Aris,Completed,47104
+DX-5193,ADM-8393,Heart Failure,I50.9,Medium,Dr. Gupta,Ordered,47141
+DX-5194,ADM-8394,Pneumonia,J15.9,High,Dr. Fisher,Partial,47178
+DX-5195,ADM-8395,Fracture,S72.90,Critical,Dr. Bennett,Completed,47215
+DX-5196,ADM-8396,Appendicitis,K35.80,Low,Dr. Aris,Ordered,47252
+DX-5197,ADM-8397,Cancer,C34.90,Medium,Dr. Gupta,Partial,47289
+DX-5198,ADM-8398,Trauma,T14.90,High,Dr. Fisher,Completed,47326
+DX-5199,ADM-8399,Epilepsy,G40.9,Critical,Dr. Bennett,Ordered,47363
